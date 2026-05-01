@@ -1,0 +1,5839 @@
+{
+  "generatedAt": "2026-05-01T16:16:18.871Z",
+  "source": "cirubla.github.io",
+  "commentAuthorFilter": "编程随想",
+  "years": [
+    {
+      "year": "2023",
+      "file": "2023.json",
+      "docs": 2,
+      "posts": 2,
+      "comments": 0,
+      "bytes": 42935
+    },
+    {
+      "year": "2021",
+      "file": "2021.json",
+      "docs": 687,
+      "posts": 10,
+      "comments": 677,
+      "bytes": 1501024
+    },
+    {
+      "year": "2020",
+      "file": "2020.json",
+      "docs": 2224,
+      "posts": 28,
+      "comments": 2196,
+      "bytes": 4109683
+    },
+    {
+      "year": "2019",
+      "file": "2019.json",
+      "docs": 2961,
+      "posts": 39,
+      "comments": 2922,
+      "bytes": 4613988
+    },
+    {
+      "year": "2018",
+      "file": "2018.json",
+      "docs": 1119,
+      "posts": 31,
+      "comments": 1088,
+      "bytes": 2094990
+    },
+    {
+      "year": "2017",
+      "file": "2017.json",
+      "docs": 2056,
+      "posts": 34,
+      "comments": 2022,
+      "bytes": 3108758
+    },
+    {
+      "year": "2016",
+      "file": "2016.json",
+      "docs": 2506,
+      "posts": 37,
+      "comments": 2469,
+      "bytes": 3048582
+    },
+    {
+      "year": "2015",
+      "file": "2015.json",
+      "docs": 4295,
+      "posts": 61,
+      "comments": 4234,
+      "bytes": 5130424
+    },
+    {
+      "year": "2014",
+      "file": "2014.json",
+      "docs": 4156,
+      "posts": 76,
+      "comments": 4080,
+      "bytes": 4840433
+    },
+    {
+      "year": "2013",
+      "file": "2013.json",
+      "docs": 3281,
+      "posts": 96,
+      "comments": 3185,
+      "bytes": 3887534
+    },
+    {
+      "year": "2012",
+      "file": "2012.json",
+      "docs": 1798,
+      "posts": 109,
+      "comments": 1689,
+      "bytes": 3188402
+    },
+    {
+      "year": "2011",
+      "file": "2011.json",
+      "docs": 511,
+      "posts": 58,
+      "comments": 453,
+      "bytes": 913339
+    },
+    {
+      "year": "2010",
+      "file": "2010.json",
+      "docs": 334,
+      "posts": 40,
+      "comments": 294,
+      "bytes": 580912
+    },
+    {
+      "year": "2009",
+      "file": "2009.json",
+      "docs": 473,
+      "posts": 93,
+      "comments": 380,
+      "bytes": 848422
+    }
+  ],
+  "posts": [
+    {
+      "postID": "202304097013561200",
+      "title": "阮晓寰案件，你可以做的几件事——如何支持和声援被捕者",
+      "year": "2023",
+      "date": "2023年4月9日",
+      "url": "cirubla.github.io/2023/04/help-ruan-xiao-huan.html",
+      "commentCount": 1
+    },
+    {
+      "postID": "202303298012560000",
+      "title": "从阮晓寰到“编程随想”：一个普通公民和“极客”如何成了“国家的敌人”？",
+      "year": "2023",
+      "date": "2023年3月29日",
+      "url": "cirubla.github.io/2023/03/ruanxiaohuan.html",
+      "commentCount": 1
+    },
+    {
+      "postID": "329569519001390000",
+      "title": "分享各类电子书（政治、IT、科普、历史、等，97本）",
+      "year": "2021",
+      "date": "2021年5月9日",
+      "url": "cirubla.github.io/2021/05/share-books.html",
+      "commentCount": 1195
+    },
+    {
+      "postID": "5467820871462842098",
+      "title": "每周转载：从“肿瘤黑幕”看天朝的“医患矛盾”（网文8篇以及俺的点评）",
+      "year": "2021",
+      "date": "2021年4月25日",
+      "url": "cirubla.github.io/2021/04/weekly-share-152.html",
+      "commentCount": 849
+    },
+    {
+      "postID": "9028051665011570908",
+      "title": "近期安全动态和点评（2021年1季度）",
+      "year": "2021",
+      "date": "2021年4月11日",
+      "url": "cirubla.github.io/2021/04/security-news.html",
+      "commentCount": 802
+    },
+    {
+      "postID": "7955102105402874651",
+      "title": "每周转载：新疆棉花——从“人权争议”到“外交对抗”（外媒报道30多篇）",
+      "year": "2021",
+      "date": "2021年3月29日",
+      "url": "cirubla.github.io/2021/03/weekly-share-151.html",
+      "commentCount": 546
+    },
+    {
+      "postID": "2781999363022286437",
+      "title": "计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”",
+      "year": "2021",
+      "date": "2021年3月18日",
+      "url": "cirubla.github.io/2021/03/Computer-Networks-Overview.html",
+      "commentCount": 501
+    },
+    {
+      "postID": "1346913090921971337",
+      "title": "每周转载：3月3日，缅甸政变经历“最血腥一天”（外媒报道及现场照片，多图）",
+      "year": "2021",
+      "date": "2021年3月5日",
+      "url": "cirubla.github.io/2021/03/weekly-share-150.html",
+      "commentCount": 547
+    },
+    {
+      "postID": "8416685401817948316",
+      "title": "尼克松下台的经过——“水门事件”简史",
+      "year": "2021",
+      "date": "2021年2月22日",
+      "url": "cirubla.github.io/2021/02/Watergate-Scandal.html",
+      "commentCount": 359
+    },
+    {
+      "postID": "9111176247622756031",
+      "title": "每周转载：内卷的天朝，各阶层的众生相（网文17篇）",
+      "year": "2021",
+      "date": "2021年1月31日",
+      "url": "cirubla.github.io/2021/01/weekly-share-149.html",
+      "commentCount": 461
+    },
+    {
+      "postID": "3739089848209510046",
+      "title": "开博12周年庆，博文分类汇总",
+      "year": "2021",
+      "date": "2021年1月15日",
+      "url": "cirubla.github.io/2021/01/12-years-blogging.html",
+      "commentCount": 606
+    },
+    {
+      "postID": "9216086342685787812",
+      "title": "近期安全动态和点评（2020年4季度）",
+      "year": "2021",
+      "date": "2021年1月9日",
+      "url": "cirubla.github.io/2021/01/Security-News.html",
+      "commentCount": 408
+    },
+    {
+      "postID": "4916755245149919243",
+      "title": "分享各类电子书（科普、政治、IT、历史、等，180本）——增加【科普】大类",
+      "year": "2020",
+      "date": "2020年12月22日",
+      "url": "cirubla.github.io/2020/12/share-books.html",
+      "commentCount": 454
+    },
+    {
+      "postID": "4975230973197205514",
+      "title": "学习与人生——700篇博文之感悟",
+      "year": "2020",
+      "date": "2020年12月4日",
+      "url": "cirubla.github.io/2020/12/Study-and-Life.html",
+      "commentCount": 653
+    },
+    {
+      "postID": "826530568380295530",
+      "title": "博弈论入门教程——从基本概念到具体案例",
+      "year": "2020",
+      "date": "2020年11月18日",
+      "url": "cirubla.github.io/2020/11/Game-Theory.html",
+      "commentCount": 451
+    },
+    {
+      "postID": "818740395525334162",
+      "title": "2020年美国大选的选情分析",
+      "year": "2020",
+      "date": "2020年11月2日",
+      "url": "cirubla.github.io/2020/11/2020-USA-Presidential-Election.html",
+      "commentCount": 639
+    },
+    {
+      "postID": "1426068017352133718",
+      "title": "美国政党简史（上）——从“邦联时期”到“南北战争前”",
+      "year": "2020",
+      "date": "2020年10月22日",
+      "url": "cirubla.github.io/2020/10/History-of-American-Political-Parties-1.html",
+      "commentCount": 417
+    },
+    {
+      "postID": "6947139670719374802",
+      "title": "近期安全动态和点评（2020年3季度）",
+      "year": "2020",
+      "date": "2020年10月12日",
+      "url": "cirubla.github.io/2020/10/Security-News.html",
+      "commentCount": 484
+    },
+    {
+      "postID": "2697086722114101230",
+      "title": "二十年目睹之怪现状——中国学术界、科技界的“奇葩排行榜”",
+      "year": "2020",
+      "date": "2020年9月29日",
+      "url": "cirubla.github.io/2020/09/Academic-Scandals-in-China.html",
+      "commentCount": 645
+    },
+    {
+      "postID": "2327650320878009459",
+      "title": "每周转载：半导体行业现状——华为全面断供、中芯前景堪忧、弘芯轰然倒塌（网文14篇）",
+      "year": "2020",
+      "date": "2020年9月15日",
+      "url": "cirubla.github.io/2020/09/weekly-share-148.html",
+      "commentCount": 542
+    },
+    {
+      "postID": "6943783103856249452",
+      "title": "如何用 Tor 访问对 Tor 不友好的网站——扫盲“三重代理”及其它招数",
+      "year": "2020",
+      "date": "2020年8月31日",
+      "url": "cirubla.github.io/2020/08/Tor-Triple-Proxy.html",
+      "commentCount": 673
+    },
+    {
+      "postID": "2117565545312198035",
+      "title": "每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）",
+      "year": "2020",
+      "date": "2020年8月24日",
+      "url": "cirubla.github.io/2020/08/weekly-share-147.html",
+      "commentCount": 407
+    },
+    {
+      "postID": "7089095282301581394",
+      "title": "每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）",
+      "year": "2020",
+      "date": "2020年8月11日",
+      "url": "cirubla.github.io/2020/08/weekly-share-146.html",
+      "commentCount": 512
+    },
+    {
+      "postID": "948276385551701616",
+      "title": "回顾六四系列[34]： 5月17日，“戒严令”出笼的经过",
+      "year": "2020",
+      "date": "2020年7月27日",
+      "url": "cirubla.github.io/2020/07/june-fourth-incident-34.html",
+      "commentCount": 825
+    },
+    {
+      "postID": "2711662214363983372",
+      "title": "近期安全动态和点评（2020年2季度）",
+      "year": "2020",
+      "date": "2020年7月7日",
+      "url": "cirubla.github.io/2020/07/Security-News.html",
+      "commentCount": 673
+    },
+    {
+      "postID": "7033338751968961571",
+      "title": "每周转载：超级富豪王振华性侵9岁女童（大量网友评论，多图）",
+      "year": "2020",
+      "date": "2020年6月26日",
+      "url": "cirubla.github.io/2020/06/weekly-share-145.html",
+      "commentCount": 480
+    },
+    {
+      "postID": "3967174577623470915",
+      "title": "扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”",
+      "year": "2020",
+      "date": "2020年6月16日",
+      "url": "cirubla.github.io/2020/06/Linux-Logical-Volume-Manager.html",
+      "commentCount": 563
+    },
+    {
+      "postID": "4450436763313025513",
+      "title": "如何理解“英美法系”（普通法系）——从“英国古代史”聊到“香港国安法”",
+      "year": "2020",
+      "date": "2020年6月4日",
+      "url": "cirubla.github.io/2020/06/Common-Law.html",
+      "commentCount": 649
+    },
+    {
+      "postID": "2365164728436239469",
+      "title": "每周转载：朝廷推香港版《国安法》，【一国一制】降临（外媒报道8篇）",
+      "year": "2020",
+      "date": "2020年5月24日",
+      "url": "cirubla.github.io/2020/05/weekly-share-144.html",
+      "commentCount": 974
+    },
+    {
+      "postID": "2310840222985179456",
+      "title": "聊聊“核战略的博弈模型”与“中美新冷战”",
+      "year": "2020",
+      "date": "2020年5月13日",
+      "url": "cirubla.github.io/2020/05/Nuclear-Strategy-and-New-Cold-War.html",
+      "commentCount": 1717
+    },
+    {
+      "postID": "2666985008402548175",
+      "title": "“政治体制”与“系统健壮性”——基于“复杂性科学”的思考",
+      "year": "2020",
+      "date": "2020年4月26日",
+      "url": "cirubla.github.io/2020/04/Government-and-System-Robustness.html",
+      "commentCount": 1513
+    },
+    {
+      "postID": "4527895049105819680",
+      "title": "近期安全动态和点评（2020年1季度）",
+      "year": "2020",
+      "date": "2020年4月13日",
+      "url": "cirubla.github.io/2020/04/Security-News.html",
+      "commentCount": 975
+    },
+    {
+      "postID": "9041651979564055977",
+      "title": "在线查毒工具 VirusTotal 的 N 种玩法——从“误报/漏报”聊到“攻击者对它的利用”",
+      "year": "2020",
+      "date": "2020年3月27日",
+      "url": "cirubla.github.io/2020/03/VirusTotal-Tricks.html",
+      "commentCount": 1027
+    },
+    {
+      "postID": "1424350059728313117",
+      "title": "分享各类电子书（【英文版】专场，177本）",
+      "year": "2020",
+      "date": "2020年3月17日",
+      "url": "cirubla.github.io/2020/03/share-books.html",
+      "commentCount": 962
+    },
+    {
+      "postID": "1244609151326739687",
+      "title": "每周转载：武汉疫情众生相——【平民篇】（大量网友评论，多图）",
+      "year": "2020",
+      "date": "2020年2月28日",
+      "url": "cirubla.github.io/2020/02/weekly-share-143.html",
+      "commentCount": 1121
+    },
+    {
+      "postID": "4941821443853759094",
+      "title": "每周转载：“武汉疫情”暴露中国官僚体制弊端（网文6篇）",
+      "year": "2020",
+      "date": "2020年2月19日",
+      "url": "cirubla.github.io/2020/02/weekly-share-142.html",
+      "commentCount": 527
+    },
+    {
+      "postID": "4376229828523970713",
+      "title": "中共的“切尔诺贝利时刻”——武汉肺炎疫情随想",
+      "year": "2020",
+      "date": "2020年2月8日",
+      "url": "cirubla.github.io/2020/02/Wuhan-Coronavirus-Outbreak-Chernobyl-Moment-for-CCP.html",
+      "commentCount": 635
+    },
+    {
+      "postID": "8117821332236130899",
+      "title": "每周转载：“武汉疫情”爆发的时间线——【政府失职】堪比“非典/SARS”时期",
+      "year": "2020",
+      "date": "2020年1月24日",
+      "url": "cirubla.github.io/2020/01/weekly-share-141.html",
+      "commentCount": 850
+    },
+    {
+      "postID": "8508451833558951340",
+      "title": "开博11周年庆，博文分类汇总",
+      "year": "2020",
+      "date": "2020年1月15日",
+      "url": "cirubla.github.io/2020/01/11-years-blogging.html",
+      "commentCount": 578
+    },
+    {
+      "postID": "9082540150717038193",
+      "title": "近期安全动态和点评（2019年4季度）",
+      "year": "2020",
+      "date": "2020年1月9日",
+      "url": "cirubla.github.io/2020/01/Security-News.html",
+      "commentCount": 1009
+    },
+    {
+      "postID": "4457275194674072144",
+      "title": "时间与人生——跨入本世纪20年代的随想",
+      "year": "2019",
+      "date": "2019年12月26日",
+      "url": "cirubla.github.io/2019/12/Time-and-Life.html",
+      "commentCount": 933
+    },
+    {
+      "postID": "50969602888603567",
+      "title": "每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）",
+      "year": "2019",
+      "date": "2019年12月10日",
+      "url": "cirubla.github.io/2019/12/weekly-share-140.html",
+      "commentCount": 568
+    },
+    {
+      "postID": "133125048966830790",
+      "title": "变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想",
+      "year": "2019",
+      "date": "2019年11月28日",
+      "url": "cirubla.github.io/2019/11/2019-Hong-Kong-Local-Elections.html",
+      "commentCount": 532
+    },
+    {
+      "postID": "1978118288891163864",
+      "title": "每周转载：香港“反送中”政治抗议活动大事记（10月至11月）",
+      "year": "2019",
+      "date": "2019年11月22日",
+      "url": "cirubla.github.io/2019/11/weekly-share-139.html",
+      "commentCount": 423
+    },
+    {
+      "postID": "7708430462240425170",
+      "title": "美苏冷战的缩影——柏林墙简史（多图）",
+      "year": "2019",
+      "date": "2019年11月15日",
+      "url": "cirubla.github.io/2019/11/Brief-History-of-the-Berlin-Wall.html",
+      "commentCount": 541
+    },
+    {
+      "postID": "309067092108702669",
+      "title": "扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”",
+      "year": "2019",
+      "date": "2019年11月10日",
+      "url": "cirubla.github.io/2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.html",
+      "commentCount": 301
+    },
+    {
+      "postID": "5189719672819636036",
+      "title": "如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”",
+      "year": "2019",
+      "date": "2019年10月31日",
+      "url": "cirubla.github.io/2019/10/Systematic-Learning.html",
+      "commentCount": 407
+    },
+    {
+      "postID": "1295579991922375223",
+      "title": "每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）",
+      "year": "2019",
+      "date": "2019年10月15日",
+      "url": "cirubla.github.io/2019/10/weekly-share-138.html",
+      "commentCount": 526
+    },
+    {
+      "postID": "793433963709302770",
+      "title": "“盛大庆典”难掩【内忧外患】——天朝沦陷70周年随想",
+      "year": "2019",
+      "date": "2019年10月8日",
+      "url": "cirubla.github.io/2019/10/70th-anniversary-of-PRC.html",
+      "commentCount": 501
+    },
+    {
+      "postID": "2963760821059757529",
+      "title": "近期安全动态和点评（2019年3季度）",
+      "year": "2019",
+      "date": "2019年9月30日",
+      "url": "cirubla.github.io/2019/09/Security-News.html",
+      "commentCount": 613
+    },
+    {
+      "postID": "2636787917349564443",
+      "title": "扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”",
+      "year": "2019",
+      "date": "2019年9月18日",
+      "url": "cirubla.github.io/2019/09/Netcat-Tricks.html",
+      "commentCount": 573
+    },
+    {
+      "postID": "5770639992776575501",
+      "title": "每周转载：香港“反送中”政治抗议活动大事记（8月初至9月初）",
+      "year": "2019",
+      "date": "2019年9月6日",
+      "url": "cirubla.github.io/2019/09/weekly-share-137.html",
+      "commentCount": 445
+    },
+    {
+      "postID": "5553989230405581000",
+      "title": "分享各类电子书（经济、心理学、政治、等，63本）",
+      "year": "2019",
+      "date": "2019年9月4日",
+      "url": "cirubla.github.io/2019/09/share-books.html",
+      "commentCount": 191
+    },
+    {
+      "postID": "5538736575110094446",
+      "title": "每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）",
+      "year": "2019",
+      "date": "2019年8月26日",
+      "url": "cirubla.github.io/2019/08/weekly-share-136.html",
+      "commentCount": 652
+    },
+    {
+      "postID": "8650161333672128757",
+      "title": "扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”",
+      "year": "2019",
+      "date": "2019年8月15日",
+      "url": "cirubla.github.io/2019/08/Monetary-Economics.html",
+      "commentCount": 459
+    },
+    {
+      "postID": "7722948941104790108",
+      "title": "每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）",
+      "year": "2019",
+      "date": "2019年8月7日",
+      "url": "cirubla.github.io/2019/08/weekly-share-135.html",
+      "commentCount": 644
+    },
+    {
+      "postID": "1070664937879477813",
+      "title": "每周转载：李鹏毙命，普天同庆（大量网友评论）",
+      "year": "2019",
+      "date": "2019年7月30日",
+      "url": "cirubla.github.io/2019/07/weekly-share-134.html",
+      "commentCount": 338
+    },
+    {
+      "postID": "1339684058517870835",
+      "title": "扫盲 Firefox 定制——从“user.js”到“omni.ja”",
+      "year": "2019",
+      "date": "2019年7月19日",
+      "url": "cirubla.github.io/2019/07/Customize-Firefox.html",
+      "commentCount": 446
+    },
+    {
+      "postID": "196768586648319707",
+      "title": "近期安全动态和点评（2019年2季度）",
+      "year": "2019",
+      "date": "2019年7月11日",
+      "url": "cirubla.github.io/2019/07/Security-News.html",
+      "commentCount": 439
+    },
+    {
+      "postID": "2877954000317338528",
+      "title": "澄清“中美对抗”常见的一些【误解】",
+      "year": "2019",
+      "date": "2019年7月4日",
+      "url": "cirubla.github.io/2019/07/Misunderstand-China-USA-Relations.html",
+      "commentCount": 776
+    },
+    {
+      "postID": "1567655193492241371",
+      "title": "每周转载：香港“反送中”抗议活动的外媒报道和网友评论（6月16日至6月22日）",
+      "year": "2019",
+      "date": "2019年6月24日",
+      "url": "cirubla.github.io/2019/06/weekly-share-133.html",
+      "commentCount": 566
+    },
+    {
+      "postID": "7470907236385741329",
+      "title": "每周转载：香港“反送中”抗议活动的外媒报道（6月9日至6月15日）",
+      "year": "2019",
+      "date": "2019年6月16日",
+      "url": "cirubla.github.io/2019/06/weekly-share-132.html",
+      "commentCount": 922
+    },
+    {
+      "postID": "511921656416563357",
+      "title": "每周转载：“六四事件”30周年纪念（各方外媒报道，多图）",
+      "year": "2019",
+      "date": "2019年6月10日",
+      "url": "cirubla.github.io/2019/06/weekly-share-131.html",
+      "commentCount": 361
+    },
+    {
+      "postID": "5576523838484703688",
+      "title": "2019年6月翻墙快报（兼谈用 I2P 突破封锁）",
+      "year": "2019",
+      "date": "2019年6月5日",
+      "url": "cirubla.github.io/2019/06/gfw-news.html",
+      "commentCount": 473
+    },
+    {
+      "postID": "8470433877440974161",
+      "title": "分享各类电子书（政治、经济、IT 等，56本）",
+      "year": "2019",
+      "date": "2019年5月30日",
+      "url": "cirubla.github.io/2019/05/share-books.html",
+      "commentCount": 647
+    },
+    {
+      "postID": "5567661234420182975",
+      "title": "每周转载：关于美国封杀华为（网文8篇）",
+      "year": "2019",
+      "date": "2019年5月24日",
+      "url": "cirubla.github.io/2019/05/weekly-share-130.html",
+      "commentCount": 674
+    },
+    {
+      "postID": "850133991682227132",
+      "title": "回顾六四系列[33]：5月15、16日，中苏峰会，邓赵决裂",
+      "year": "2019",
+      "date": "2019年5月17日",
+      "url": "cirubla.github.io/2019/05/june-fourth-incident-33.html",
+      "commentCount": 467
+    },
+    {
+      "postID": "5098389463262405295",
+      "title": "每周转载：中国智商税简史",
+      "year": "2019",
+      "date": "2019年5月9日",
+      "url": "cirubla.github.io/2019/05/weekly-share-129.html",
+      "commentCount": 610
+    },
+    {
+      "postID": "3757825333120828149",
+      "title": "如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）",
+      "year": "2019",
+      "date": "2019年4月30日",
+      "url": "cirubla.github.io/2019/04/Proxy-Tricks.html",
+      "commentCount": 444
+    },
+    {
+      "postID": "8238366770435306633",
+      "title": "“996工作制”只不过是【劫贫济富】的缩影——“马云奇葩言论”随想",
+      "year": "2019",
+      "date": "2019年4月19日",
+      "url": "cirubla.github.io/2019/04/996-Working-Hour-System.html",
+      "commentCount": 689
+    },
+    {
+      "postID": "8230193435479690298",
+      "title": "近期安全动态和点评（2019年1季度）",
+      "year": "2019",
+      "date": "2019年4月11日",
+      "url": "cirubla.github.io/2019/04/Security-News.html",
+      "commentCount": 611
+    },
+    {
+      "postID": "3729088993135348243",
+      "title": "每周转载：关于盐城市响水县的化工大爆炸（相关报道和网友评论，多图）",
+      "year": "2019",
+      "date": "2019年3月29日",
+      "url": "cirubla.github.io/2019/03/weekly-share-128.html",
+      "commentCount": 656
+    },
+    {
+      "postID": "9131156520945940228",
+      "title": "为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验",
+      "year": "2019",
+      "date": "2019年3月21日",
+      "url": "cirubla.github.io/2019/03/Why-Thinking-Hard-So-Hard.html",
+      "commentCount": 464
+    },
+    {
+      "postID": "6139150733512825587",
+      "title": "澄清“自由软件、开源软件”相关概念及许可证的误解",
+      "year": "2019",
+      "date": "2019年3月10日",
+      "url": "cirubla.github.io/2019/03/Misunderstand-Free-and-Open-Source-Software.html",
+      "commentCount": 379
+    },
+    {
+      "postID": "5227376702666828549",
+      "title": "分享各类电子书（政治、哲学 等，63本）",
+      "year": "2019",
+      "date": "2019年2月25日",
+      "url": "cirubla.github.io/2019/02/share-books.html",
+      "commentCount": 526
+    },
+    {
+      "postID": "573421185532363513",
+      "title": "如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧",
+      "year": "2019",
+      "date": "2019年2月14日",
+      "url": "cirubla.github.io/2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.html",
+      "commentCount": 628
+    },
+    {
+      "postID": "2897277223911398654",
+      "title": "为啥朝廷总抓不到俺——十年反党活动的安全经验汇总",
+      "year": "2019",
+      "date": "2019年1月30日",
+      "url": "cirubla.github.io/2019/01/Security-Guide-for-Political-Activists.html",
+      "commentCount": 1297
+    },
+    {
+      "postID": "2053489966989372984",
+      "title": "开博十周年庆，博文分类汇总",
+      "year": "2019",
+      "date": "2019年1月15日",
+      "url": "cirubla.github.io/2019/01/ten-years-blogging.html",
+      "commentCount": 616
+    },
+    {
+      "postID": "3255425978908758402",
+      "title": "开博十周年大事记",
+      "year": "2019",
+      "date": "2019年1月9日",
+      "url": "cirubla.github.io/2019/01/Memorabilia.html",
+      "commentCount": 526
+    },
+    {
+      "postID": "6213582503989759355",
+      "title": "每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）",
+      "year": "2018",
+      "date": "2018年12月29日",
+      "url": "cirubla.github.io/2018/12/weekly-share-127.html",
+      "commentCount": 977
+    },
+    {
+      "postID": "352322624739404590",
+      "title": "读书笔记：《反脆弱——从不确定性中获益》",
+      "year": "2018",
+      "date": "2018年12月17日",
+      "url": "cirubla.github.io/2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.html",
+      "commentCount": 774
+    },
+    {
+      "postID": "5771306945628171262",
+      "title": "告别 Google Plus——早年在 G+ 上的“每周转载”已搬运到博客主站",
+      "year": "2018",
+      "date": "2018年12月6日",
+      "url": "cirubla.github.io/2018/12/Google-Plus-Is-Dead.html",
+      "commentCount": 416
+    },
+    {
+      "postID": "1439368954458346493",
+      "title": "扫盲非洲猪瘟，点评中国疫情",
+      "year": "2018",
+      "date": "2018年11月28日",
+      "url": "cirubla.github.io/2018/11/African-Swine-Fever-in-China.html",
+      "commentCount": 319
+    },
+    {
+      "postID": "3077979761932107719",
+      "title": "Startpage——保护隐私的搜索引擎，搜索质量等同 Google",
+      "year": "2018",
+      "date": "2018年11月20日",
+      "url": "cirubla.github.io/2018/11/Private-Search-Engine-Startpage.html",
+      "commentCount": 365
+    },
+    {
+      "postID": "6878281598082987208",
+      "title": "分享各类电子书（IT 、政治、经济 等，56本）",
+      "year": "2018",
+      "date": "2018年11月11日",
+      "url": "cirubla.github.io/2018/11/share-books.html",
+      "commentCount": 259
+    },
+    {
+      "postID": "8842318423687894527",
+      "title": "每周转载：汇市的三个咒符（人民币汇率、官方外汇储备、中国持有的美国国债）",
+      "year": "2018",
+      "date": "2018年10月31日",
+      "url": "cirubla.github.io/2018/10/weekly-share-126.html",
+      "commentCount": 288
+    },
+    {
+      "postID": "5063041175768148882",
+      "title": "基于安全性考虑，如何选择及切换 Firefox 版本？",
+      "year": "2018",
+      "date": "2018年10月25日",
+      "url": "cirubla.github.io/2018/10/How-to-Choose-Firefox-Version.html",
+      "commentCount": 230
+    },
+    {
+      "postID": "5726845366876572521",
+      "title": "每周转载：2018年这轮股灾到底有多惨，看了你就知道了",
+      "year": "2018",
+      "date": "2018年10月18日",
+      "url": "cirubla.github.io/2018/10/weekly-share-125.html",
+      "commentCount": 220
+    },
+    {
+      "postID": "4363490092869699584",
+      "title": "对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS",
+      "year": "2018",
+      "date": "2018年10月9日",
+      "url": "cirubla.github.io/2018/10/Comparison-of-DNS-Protocols.html",
+      "commentCount": 295
+    },
+    {
+      "postID": "8132307224580667004",
+      "title": "弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想",
+      "year": "2018",
+      "date": "2018年9月30日",
+      "url": "cirubla.github.io/2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.html",
+      "commentCount": 359
+    },
+    {
+      "postID": "4808108558381001532",
+      "title": "为什么马克思是错的？——全面批判马列主义的知名著作导读",
+      "year": "2018",
+      "date": "2018年9月21日",
+      "url": "cirubla.github.io/2018/09/Book-Review-The-Errors-of-Marxism-Leninism.html",
+      "commentCount": 413
+    },
+    {
+      "postID": "687927826107353328",
+      "title": "分享各类电子书（IT 、经济、政治、军事、历史 等，110本）",
+      "year": "2018",
+      "date": "2018年9月12日",
+      "url": "cirubla.github.io/2018/09/share-books.html",
+      "commentCount": 243
+    },
+    {
+      "postID": "5500653612086817137",
+      "title": "扫盲 HTTPS 和 SSL/TLS 协议[4]：历史版本的演变及 Record 协议的细节",
+      "year": "2018",
+      "date": "2018年9月4日",
+      "url": "cirubla.github.io/2018/09/https-ssl-tls-4.html",
+      "commentCount": 240
+    },
+    {
+      "postID": "7464414724151676579",
+      "title": "每周转载：米兔运动（MeToo）冲击佛门，佛协会长竟是淫僧（举报材料及网友评论）",
+      "year": "2018",
+      "date": "2018年8月24日",
+      "url": "cirubla.github.io/2018/08/weekly-share-124.html",
+      "commentCount": 256
+    },
+    {
+      "postID": "3660357806057100100",
+      "title": "苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略",
+      "year": "2018",
+      "date": "2018年8月14日",
+      "url": "cirubla.github.io/2018/08/USA-Containment-Strategies-in-Cold-War.html",
+      "commentCount": 319
+    },
+    {
+      "postID": "5942296917606217858",
+      "title": "每周转载：关于“全国性疫苗丑闻”的引申阅读（网文5篇）",
+      "year": "2018",
+      "date": "2018年7月31日",
+      "url": "cirubla.github.io/2018/07/weekly-share-123.html",
+      "commentCount": 267
+    },
+    {
+      "postID": "1221897715901902610",
+      "title": "每周转载：疫苗之殇，万民遭殃（大量网友评论）",
+      "year": "2018",
+      "date": "2018年7月23日",
+      "url": "cirubla.github.io/2018/07/weekly-share-122.html",
+      "commentCount": 350
+    },
+    {
+      "postID": "310986761874749559",
+      "title": "从量变到质变——中美关系40年",
+      "year": "2018",
+      "date": "2018年7月13日",
+      "url": "cirubla.github.io/2018/07/Forty-Years-of-China-USA-Relations.html",
+      "commentCount": 292
+    },
+    {
+      "postID": "8665056982033656463",
+      "title": "相当奇葩的天朝，【劫贫济富】的国度",
+      "year": "2018",
+      "date": "2018年7月1日",
+      "url": "cirubla.github.io/2018/07/Robbing-the-Poor-Funding-the-Rich.html",
+      "commentCount": 258
+    },
+    {
+      "postID": "3714881171212782074",
+      "title": "每周转载：德鲁克谈【自我管理】——《哈佛商业评论》史上最受欢迎的文章",
+      "year": "2018",
+      "date": "2018年6月21日",
+      "url": "cirubla.github.io/2018/06/weekly-share-121.html",
+      "commentCount": 342
+    },
+    {
+      "postID": "7504575689504588054",
+      "title": "回顾六四系列[32]：5月13、14日，短暂的斡旋无果而终",
+      "year": "2018",
+      "date": "2018年6月8日",
+      "url": "cirubla.github.io/2018/06/june-fourth-incident-32.html",
+      "commentCount": 532
+    },
+    {
+      "postID": "3944718401941576813",
+      "title": "每周转载：伊朗迷你裙的变迁（值得某些毛粉反思一下）",
+      "year": "2018",
+      "date": "2018年5月25日",
+      "url": "cirubla.github.io/2018/05/weekly-share-120.html",
+      "commentCount": 664
+    },
+    {
+      "postID": "1895015761779396015",
+      "title": "厉害国真的很厉害吗？——给小粉红们泼点冷水",
+      "year": "2018",
+      "date": "2018年5月11日",
+      "url": "cirubla.github.io/2018/05/Can-China-Become-Global-Leader.html",
+      "commentCount": 834
+    },
+    {
+      "postID": "3219022334348697524",
+      "title": "曝光天朝权贵家族——新鲜出炉的【太子党关系网络】",
+      "year": "2018",
+      "date": "2018年4月25日",
+      "url": "cirubla.github.io/2018/04/Zhao-at-GitHub.html",
+      "commentCount": 667
+    },
+    {
+      "postID": "4252055166448016455",
+      "title": "“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理",
+      "year": "2018",
+      "date": "2018年4月12日",
+      "url": "cirubla.github.io/2018/04/gfw-tor-browser-7.5-meek.html",
+      "commentCount": 442
+    },
+    {
+      "postID": "5686134483492823577",
+      "title": "如何解读金三胖在近期的外交动作",
+      "year": "2018",
+      "date": "2018年4月1日",
+      "url": "cirubla.github.io/2018/04/Diplomatic-Tricks-of-Kim-Jong-Un.html",
+      "commentCount": 514
+    },
+    {
+      "postID": "9135234746134377074",
+      "title": "每周转载：两会、修宪、终身制、翻白眼、大外宣（各方报道和网友评论，多图）",
+      "year": "2018",
+      "date": "2018年3月17日",
+      "url": "cirubla.github.io/2018/03/weekly-share-119.html",
+      "commentCount": 553
+    },
+    {
+      "postID": "7222813135317221390",
+      "title": "关于2018年修宪的随想",
+      "year": "2018",
+      "date": "2018年2月28日",
+      "url": "cirubla.github.io/2018/02/Constitutional-Amendment.html",
+      "commentCount": 970
+    },
+    {
+      "postID": "5641928672781394690",
+      "title": "每周转载：EFF 创始人约翰·佩里·巴洛和他的【赛博空间独立宣言】",
+      "year": "2018",
+      "date": "2018年2月12日",
+      "url": "cirubla.github.io/2018/02/weekly-share-118.html",
+      "commentCount": 568
+    },
+    {
+      "postID": "5265558905159659537",
+      "title": "开博九周年庆，博文分类汇总",
+      "year": "2018",
+      "date": "2018年1月15日",
+      "url": "cirubla.github.io/2018/01/nine-years-blogging.html",
+      "commentCount": 845
+    },
+    {
+      "postID": "1373750823603728373",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[10]：从【身份隔离】谈谈社会工程学的防范",
+      "year": "2017",
+      "date": "2017年12月31日",
+      "url": "cirubla.github.io/2017/12/howto-cover-your-tracks-10.html",
+      "commentCount": 800
+    },
+    {
+      "postID": "3100596696679399665",
+      "title": "聊聊朝鲜半岛核问题——美国博弈策略分析",
+      "year": "2017",
+      "date": "2017年12月11日",
+      "url": "cirubla.github.io/2017/12/Nuclear-Weapons-on-Korean-Peninsula-USA-Strategies.html",
+      "commentCount": 1033
+    },
+    {
+      "postID": "806657018108528331",
+      "title": "十九大闭幕一个月，点评天朝的几条热点新闻",
+      "year": "2017",
+      "date": "2017年11月28日",
+      "url": "cirubla.github.io/2017/11/Month-After-19th-CPC-National-Congress.html",
+      "commentCount": 1110
+    },
+    {
+      "postID": "2550485042752506357",
+      "title": "每周转载：携程托儿所虐童事件（各方评论及照片、视频）",
+      "year": "2017",
+      "date": "2017年11月14日",
+      "url": "cirubla.github.io/2017/11/weekly-share-117.html",
+      "commentCount": 978
+    },
+    {
+      "postID": "3118706532265573900",
+      "title": "处在历史转折点的小人物们——回首80年代的几则往事",
+      "year": "2017",
+      "date": "2017年11月3日",
+      "url": "cirubla.github.io/2017/11/The-Story-of-Ordinary-People.html",
+      "commentCount": 1217
+    },
+    {
+      "postID": "4702069904301826161",
+      "title": "八卦一下伟光正的十九大",
+      "year": "2017",
+      "date": "2017年10月25日",
+      "url": "cirubla.github.io/2017/10/19th-National-Congress-of-Communist-Party-of-China.html",
+      "commentCount": 1217
+    },
+    {
+      "postID": "3158954135357895860",
+      "title": "2017年10月翻墙快报（兼谈用 I2P 突破封锁）",
+      "year": "2017",
+      "date": "2017年10月12日",
+      "url": "cirubla.github.io/2017/10/gfw-news.html",
+      "commentCount": 1420
+    },
+    {
+      "postID": "8387231247294544212",
+      "title": "每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）",
+      "year": "2017",
+      "date": "2017年9月30日",
+      "url": "cirubla.github.io/2017/09/weekly-share-116.html",
+      "commentCount": 747
+    },
+    {
+      "postID": "4749619163960271295",
+      "title": "聊聊分布式散列表（DHT）的原理——以 Kademlia（Kad） 和 Chord 为例",
+      "year": "2017",
+      "date": "2017年9月21日",
+      "url": "cirubla.github.io/2017/09/Introduction-DHT-Kademlia-Chord.html",
+      "commentCount": 413
+    },
+    {
+      "postID": "2894590718350687272",
+      "title": "每周转载：朝鲜试爆氢弹（各方的报道及评论）",
+      "year": "2017",
+      "date": "2017年9月11日",
+      "url": "cirubla.github.io/2017/09/weekly-share-115.html",
+      "commentCount": 590
+    },
+    {
+      "postID": "939363630793388292",
+      "title": "聊聊 GFW 如何封杀 Resilio Sync（BTSync）？以及如何【免翻墙】继续使用？",
+      "year": "2017",
+      "date": "2017年8月30日",
+      "url": "cirubla.github.io/2017/08/GFW-Resilio-Sync.html",
+      "commentCount": 643
+    },
+    {
+      "postID": "8260574768358466758",
+      "title": "分享各类电子书（IT 、军事、历史 等，43本）",
+      "year": "2017",
+      "date": "2017年8月17日",
+      "url": "cirubla.github.io/2017/08/share-books.html",
+      "commentCount": 775
+    },
+    {
+      "postID": "356844155333098559",
+      "title": "为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异",
+      "year": "2017",
+      "date": "2017年8月5日",
+      "url": "cirubla.github.io/2017/08/Some-Reasons-to-Watch-Less-Videos.html",
+      "commentCount": 777
+    },
+    {
+      "postID": "2473151048972293669",
+      "title": "八卦一下“十九大”高层权斗：王岐山高调现身，孙政才黯然落马，栗战书惹上麻烦",
+      "year": "2017",
+      "date": "2017年7月23日",
+      "url": "cirubla.github.io/2017/07/Chinese-Leaders-Power-Struggle-WangQishan-SunZhengcai-LiZhanshu.html",
+      "commentCount": 1754
+    },
+    {
+      "postID": "2863152239115315103",
+      "title": "每周转载：刘晓波病危，举世关注，各方声援（大量网友评论）",
+      "year": "2017",
+      "date": "2017年7月9日",
+      "url": "cirubla.github.io/2017/07/weekly-share-114.html",
+      "commentCount": 1328
+    },
+    {
+      "postID": "2433693918249050464",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[9]：从【时间角度】谈谈社会工程学的防范",
+      "year": "2017",
+      "date": "2017年6月29日",
+      "url": "cirubla.github.io/2017/06/howto-cover-your-tracks-9.html",
+      "commentCount": 844
+    },
+    {
+      "postID": "3637712510944561890",
+      "title": "每周转载：真理部开始对娱乐圈下手——大批自媒体被封号（相关报道及网友评论）",
+      "year": "2017",
+      "date": "2017年6月15日",
+      "url": "cirubla.github.io/2017/06/weekly-share-113.html",
+      "commentCount": 1438
+    },
+    {
+      "postID": "2587556522370449216",
+      "title": "回顾六四系列[31]：5月13日，开始绝食抗议",
+      "year": "2017",
+      "date": "2017年6月7日",
+      "url": "cirubla.github.io/2017/06/june-fourth-incident-31.html",
+      "commentCount": 813
+    },
+    {
+      "postID": "5570879608712244534",
+      "title": "庆贺本博荣获【更高级别朝廷认证】——谈谈近期的“帐号入侵、刷屏、钓鱼”",
+      "year": "2017",
+      "date": "2017年5月29日",
+      "url": "cirubla.github.io/2017/05/my-blog-under-government-backed-attack.html",
+      "commentCount": 833
+    },
+    {
+      "postID": "2541322710262197899",
+      "title": "勒索软件是骇客攻击的新趋势，兼谈防范措施及各种误解",
+      "year": "2017",
+      "date": "2017年5月15日",
+      "url": "cirubla.github.io/2017/05/Ransomware-Cyber-Attack.html",
+      "commentCount": 2528
+    },
+    {
+      "postID": "3224030025554495245",
+      "title": "分享各类电子书（政治、历史、IT 等，39本）",
+      "year": "2017",
+      "date": "2017年5月6日",
+      "url": "cirubla.github.io/2017/05/share-books.html",
+      "commentCount": 725
+    },
+    {
+      "postID": "6186926670605855088",
+      "title": "每周转载：郭文贵撕逼王岐山——网友热议“海航、高空寻欢、习王斗”（多图）",
+      "year": "2017",
+      "date": "2017年4月26日",
+      "url": "cirubla.github.io/2017/04/weekly-share-112.html",
+      "commentCount": 460
+    },
+    {
+      "postID": "7058445850332842822",
+      "title": "聊聊【折腾】的重要性",
+      "year": "2017",
+      "date": "2017年4月19日",
+      "url": "cirubla.github.io/2017/04/The-Importance-of-Zheteng.html",
+      "commentCount": 523
+    },
+    {
+      "postID": "2805857187667892185",
+      "title": "吐槽一下 Windows 的安全漏洞——严重性超乎想象",
+      "year": "2017",
+      "date": "2017年4月10日",
+      "url": "cirubla.github.io/2017/04/Security-Vulnerabilities-in-Windows.html",
+      "commentCount": 560
+    },
+    {
+      "postID": "7202563810778628650",
+      "title": "为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows ＆ macOS 而言）",
+      "year": "2017",
+      "date": "2017年3月27日",
+      "url": "cirubla.github.io/2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.html",
+      "commentCount": 1319
+    },
+    {
+      "postID": "6240895446833165448",
+      "title": "每周转载：朝鲜准备核爆，南韩部署萨徳，中国抵制乐天（大量网友评论）",
+      "year": "2017",
+      "date": "2017年3月19日",
+      "url": "cirubla.github.io/2017/03/weekly-share-111.html",
+      "commentCount": 401
+    },
+    {
+      "postID": "2878361953744414851",
+      "title": "聊聊朝鲜半岛核问题——北朝鲜博弈策略分析",
+      "year": "2017",
+      "date": "2017年3月10日",
+      "url": "cirubla.github.io/2017/03/Nuclear-Weapons-on-Korean-Peninsula-North-Korea-Strategies.html",
+      "commentCount": 426
+    },
+    {
+      "postID": "4432081885076110632",
+      "title": "每周转载：金正男遇刺（汇总各方报道及照片）",
+      "year": "2017",
+      "date": "2017年3月1日",
+      "url": "cirubla.github.io/2017/03/weekly-share-110.html",
+      "commentCount": 339
+    },
+    {
+      "postID": "3703641822160778145",
+      "title": "分享各类电子书（正值川普满月，搞个【美国】专场，24本）",
+      "year": "2017",
+      "date": "2017年2月20日",
+      "url": "cirubla.github.io/2017/02/share-books.html",
+      "commentCount": 295
+    },
+    {
+      "postID": "8862511523196095762",
+      "title": "每周转载：耶鲁教授关于【政治素质】的20条建议（俺的翻译及点评）",
+      "year": "2017",
+      "date": "2017年2月9日",
+      "url": "cirubla.github.io/2017/02/weekly-share-109.html",
+      "commentCount": 239
+    },
+    {
+      "postID": "917015563707302125",
+      "title": "每周转载：尴尬的2017年春晚（各种网友吐槽）",
+      "year": "2017",
+      "date": "2017年1月31日",
+      "url": "cirubla.github.io/2017/01/weekly-share-108.html",
+      "commentCount": 294
+    },
+    {
+      "postID": "9187862871483314018",
+      "title": "开博八周年庆，博文分类汇总",
+      "year": "2017",
+      "date": "2017年1月16日",
+      "url": "cirubla.github.io/2017/01/eight-years-blogging.html",
+      "commentCount": 446
+    },
+    {
+      "postID": "3140646232469290953",
+      "title": "从几个不同的角度聊聊“雾霾的危害”",
+      "year": "2017",
+      "date": "2017年1月11日",
+      "url": "cirubla.github.io/2017/01/Dangerous-Air-Pollution-in-China.html",
+      "commentCount": 302
+    },
+    {
+      "postID": "6461365182133873430",
+      "title": "每周转载：AlphaGo 超快棋遍虐人类高手（职业棋手讲解及大量网友评论）",
+      "year": "2017",
+      "date": "2017年1月5日",
+      "url": "cirubla.github.io/2017/01/weekly-share-107.html",
+      "commentCount": 165
+    },
+    {
+      "postID": "7463678552757898542",
+      "title": "每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波",
+      "year": "2016",
+      "date": "2016年12月29日",
+      "url": "cirubla.github.io/2016/12/weekly-share-106.html",
+      "commentCount": 194
+    },
+    {
+      "postID": "2417946385991709916",
+      "title": "分享各类电子书（政治、IT、历史 等，63本）",
+      "year": "2016",
+      "date": "2016年12月24日",
+      "url": "cirubla.github.io/2016/12/share-books.html",
+      "commentCount": 262
+    },
+    {
+      "postID": "3623051266721098243",
+      "title": "每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）",
+      "year": "2016",
+      "date": "2016年12月14日",
+      "url": "cirubla.github.io/2016/12/weekly-share-105.html",
+      "commentCount": 204
+    },
+    {
+      "postID": "4046849653770718754",
+      "title": "如何防止黑客入侵[8]：物理隔离的几种玩法",
+      "year": "2016",
+      "date": "2016年12月5日",
+      "url": "cirubla.github.io/2016/12/howto-prevent-hacker-attack-8.html",
+      "commentCount": 324
+    },
+    {
+      "postID": "6817963243444383334",
+      "title": "美国选举制度为啥这样设计？——兼谈其历史演变",
+      "year": "2016",
+      "date": "2016年11月19日",
+      "url": "cirubla.github.io/2016/11/USA-Elections.html",
+      "commentCount": 349
+    },
+    {
+      "postID": "6539594838571738059",
+      "title": "2016年美国大选的选情分析",
+      "year": "2016",
+      "date": "2016年11月8日",
+      "url": "cirubla.github.io/2016/11/2016-USA-Presidential-Election.html",
+      "commentCount": 501
+    },
+    {
+      "postID": "5823336500211595373",
+      "title": "无需任何插件或扩展，定制 Firefox 外观",
+      "year": "2016",
+      "date": "2016年10月27日",
+      "url": "cirubla.github.io/2016/10/custom-firefox-theme-without-extension.html",
+      "commentCount": 420
+    },
+    {
+      "postID": "6765791365171084598",
+      "title": "博客评论区升级——根据【热度】给楼层排序，以及几个易用性改善",
+      "year": "2016",
+      "date": "2016年10月10日",
+      "url": "cirubla.github.io/2016/10/custom-blogger-comment.html",
+      "commentCount": 743
+    },
+    {
+      "postID": "1194439097064502173",
+      "title": "扫盲 HTTPS 和 SSL/TLS 协议[3]：密钥交换（密钥协商）算法及其原理",
+      "year": "2016",
+      "date": "2016年9月30日",
+      "url": "cirubla.github.io/2016/09/https-ssl-tls-3.html",
+      "commentCount": 355
+    },
+    {
+      "postID": "6913115685775140349",
+      "title": "聊聊麻省理工学院（MIT）的恶作剧文化——阿里巴巴月饼事件随想",
+      "year": "2016",
+      "date": "2016年9月19日",
+      "url": "cirubla.github.io/2016/09/MIT-Hacks.html",
+      "commentCount": 506
+    },
+    {
+      "postID": "6851662343591764788",
+      "title": "老流氓 CNNIC 的接班人——聊聊“沃通/WoSign”的那些破事儿",
+      "year": "2016",
+      "date": "2016年9月8日",
+      "url": "cirubla.github.io/2016/09/About-WoSign.html",
+      "commentCount": 496
+    },
+    {
+      "postID": "171845710716145759",
+      "title": "博客评论功能重要升级——留言或围观都【无需】重刷页面",
+      "year": "2016",
+      "date": "2016年8月31日",
+      "url": "cirubla.github.io/2016/08/custom-blogger-comment.html",
+      "commentCount": 477
+    },
+    {
+      "postID": "3207048822447224298",
+      "title": "每周转载：连云港民众抗议核废料处理厂（相关报道及网友评论）",
+      "year": "2016",
+      "date": "2016年8月17日",
+      "url": "cirubla.github.io/2016/08/weekly-share-104.html",
+      "commentCount": 437
+    },
+    {
+      "postID": "2417260733289254899",
+      "title": "如何对付公安部门的“网络临侦”？——“黑暗幽灵（DCM）木马”之随想",
+      "year": "2016",
+      "date": "2016年8月9日",
+      "url": "cirubla.github.io/2016/08/Trojan-Horse-DCM.html",
+      "commentCount": 328
+    },
+    {
+      "postID": "6528982323134260657",
+      "title": "每周转载：全国各地的水灾以及背后的人祸（多图）",
+      "year": "2016",
+      "date": "2016年7月31日",
+      "url": "cirubla.github.io/2016/07/weekly-share-103.html",
+      "commentCount": 278
+    },
+    {
+      "postID": "5774820175467379525",
+      "title": "澄清关于“南海纠纷”的常见误解",
+      "year": "2016",
+      "date": "2016年7月26日",
+      "url": "cirubla.github.io/2016/07/Misunderstandings-About-South-China-Sea.html",
+      "commentCount": 416
+    },
+    {
+      "postID": "7008834087035656231",
+      "title": "扫盲《联合国海洋法公约》——帮你更好地解读“中菲南海仲裁案”",
+      "year": "2016",
+      "date": "2016年7月12日",
+      "url": "cirubla.github.io/2016/07/UNCLOS.html",
+      "commentCount": 517
+    },
+    {
+      "postID": "3869092625518808261",
+      "title": "热烈庆贺【太子党关系网络】开源项目率先获得朝廷认证",
+      "year": "2016",
+      "date": "2016年6月30日",
+      "url": "cirubla.github.io/2016/06/github-take-down-zhao-repository.html",
+      "commentCount": 480
+    },
+    {
+      "postID": "6044792858889600971",
+      "title": "聊聊美国政体中的权力制衡——不仅仅是三权分立",
+      "year": "2016",
+      "date": "2016年6月22日",
+      "url": "cirubla.github.io/2016/06/USA-Separation-of-Powers-with-Balances.html",
+      "commentCount": 526
+    },
+    {
+      "postID": "1366967223748665847",
+      "title": "回顾六四系列[30]：发起绝食的过程",
+      "year": "2016",
+      "date": "2016年6月5日",
+      "url": "cirubla.github.io/2016/06/june-fourth-incident-30.html",
+      "commentCount": 443
+    },
+    {
+      "postID": "1688245215432289750",
+      "title": "每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观",
+      "year": "2016",
+      "date": "2016年5月30日",
+      "url": "cirubla.github.io/2016/05/weekly-share-102.html",
+      "commentCount": 287
+    },
+    {
+      "postID": "9192277619781920591",
+      "title": "分享各类电子书（【TXT 格式】专场，58本）",
+      "year": "2016",
+      "date": "2016年5月20日",
+      "url": "cirubla.github.io/2016/05/share-books.html",
+      "commentCount": 429
+    },
+    {
+      "postID": "8872490615895121532",
+      "title": "每周转载：魏则西事件、百度广告、莆田系、军队医院（各方报道及网友评论）",
+      "year": "2016",
+      "date": "2016年5月9日",
+      "url": "cirubla.github.io/2016/05/weekly-share-101.html",
+      "commentCount": 407
+    },
+    {
+      "postID": "814484989273962868",
+      "title": "硅谷 CEO 们的教父——分享安迪·格鲁夫的管理经验",
+      "year": "2016",
+      "date": "2016年4月25日",
+      "url": "cirubla.github.io/2016/04/Andy-Grove-Quotes-on-Leadership.html",
+      "commentCount": 315
+    },
+    {
+      "postID": "2618071655833040119",
+      "title": "每周转载：巴拿马文件曝光天朝权贵（大量网友评论）",
+      "year": "2016",
+      "date": "2016年4月17日",
+      "url": "cirubla.github.io/2016/04/weekly-share-100.html",
+      "commentCount": 421
+    },
+    {
+      "postID": "5372726983970016977",
+      "title": "中国电婊李小琳的精彩人生（多图）",
+      "year": "2016",
+      "date": "2016年4月8日",
+      "url": "cirubla.github.io/2016/04/Li-Xiaolin.html",
+      "commentCount": 547
+    },
+    {
+      "postID": "111215045096605679",
+      "title": "每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）",
+      "year": "2016",
+      "date": "2016年3月28日",
+      "url": "cirubla.github.io/2016/03/weekly-share-99.html",
+      "commentCount": 345
+    },
+    {
+      "postID": "8047505622334699526",
+      "title": "每周转载：近期朝廷高层乱象，凸显权力斗争加剧",
+      "year": "2016",
+      "date": "2016年3月21日",
+      "url": "cirubla.github.io/2016/03/weekly-share-98.html",
+      "commentCount": 413
+    },
+    {
+      "postID": "8331048988326542182",
+      "title": "聊聊大伙儿（包括某些职业围棋手）对 AlphaGo 的误解",
+      "year": "2016",
+      "date": "2016年3月11日",
+      "url": "cirubla.github.io/2016/03/AlphaGo.html",
+      "commentCount": 440
+    },
+    {
+      "postID": "1547050276285896707",
+      "title": "使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验",
+      "year": "2016",
+      "date": "2016年3月8日",
+      "url": "cirubla.github.io/2016/03/GitHub-Security-Tips.html",
+      "commentCount": 274
+    },
+    {
+      "postID": "6971990629669599553",
+      "title": "【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵",
+      "year": "2016",
+      "date": "2016年2月29日",
+      "url": "cirubla.github.io/2016/02/Zhao-at-GitHub.html",
+      "commentCount": 557
+    },
+    {
+      "postID": "2805435264479451554",
+      "title": "开源项目：【自动】绘图工具 Graphviz——《太子党关系网络》就是用它制作",
+      "year": "2016",
+      "date": "2016年2月23日",
+      "url": "cirubla.github.io/2016/02/opensource-review-graphviz.html",
+      "commentCount": 359
+    },
+    {
+      "postID": "7222120804386067417",
+      "title": "每周转载：不一样的猴年春晚（分享大量网友评论）",
+      "year": "2016",
+      "date": "2016年2月13日",
+      "url": "cirubla.github.io/2016/02/weekly-share-97.html",
+      "commentCount": 359
+    },
+    {
+      "postID": "2907016635984135562",
+      "title": "台湾民主运动与独立运动简史",
+      "year": "2016",
+      "date": "2016年1月26日",
+      "url": "cirubla.github.io/2016/01/Taiwan-Political-Movements.html",
+      "commentCount": 821
+    },
+    {
+      "postID": "4174404914818268607",
+      "title": "开博七周年庆，博文分类汇总",
+      "year": "2016",
+      "date": "2016年1月16日",
+      "url": "cirubla.github.io/2016/01/seven-years-blogging.html",
+      "commentCount": 326
+    },
+    {
+      "postID": "8181091843923720364",
+      "title": "聊聊“赵家人”走红网络的重要意义",
+      "year": "2016",
+      "date": "2016年1月12日",
+      "url": "cirubla.github.io/2016/01/Zhao-Family.html",
+      "commentCount": 429
+    },
+    {
+      "postID": "7552019375676854834",
+      "title": "每周转载：经济新常态，“中国模式”开始褪色——汇总2015年各行业萧条的报道",
+      "year": "2016",
+      "date": "2016年1月5日",
+      "url": "cirubla.github.io/2016/01/weekly-share-96.html",
+      "commentCount": 372
+    },
+    {
+      "postID": "1728470291462902913",
+      "title": "扫盲操作系统虚拟机[7]：如何用“快照”辅助安全加固、强化隐私保护？",
+      "year": "2015",
+      "date": "2015年12月27日",
+      "url": "cirubla.github.io/2015/12/system-vm-7.html",
+      "commentCount": 346
+    },
+    {
+      "postID": "774915099810257382",
+      "title": "每周转载：关于“浦志强庭审”的各方报道和网友评论",
+      "year": "2015",
+      "date": "2015年12月20日",
+      "url": "cirubla.github.io/2015/12/weekly-share-95.html",
+      "commentCount": 349
+    },
+    {
+      "postID": "3877221874475053193",
+      "title": "分享各类电子书（【牛津通识读本】专场，56本）",
+      "year": "2015",
+      "date": "2015年12月15日",
+      "url": "cirubla.github.io/2015/12/share-books.html",
+      "commentCount": 256
+    },
+    {
+      "postID": "635880144240681791",
+      "title": "什么是【真正的】兴趣爱好？以及它有啥好处？",
+      "year": "2015",
+      "date": "2015年12月6日",
+      "url": "cirubla.github.io/2015/12/Hobbies-and-Interests.html",
+      "commentCount": 424
+    },
+    {
+      "postID": "2564216054634175622",
+      "title": "每周转载：关于土耳其击落俄罗斯战机（相关照片及网友评论）",
+      "year": "2015",
+      "date": "2015年11月29日",
+      "url": "cirubla.github.io/2015/11/weekly-share-94.html",
+      "commentCount": 276
+    },
+    {
+      "postID": "6442168287217940157",
+      "title": "伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想",
+      "year": "2015",
+      "date": "2015年11月22日",
+      "url": "cirubla.github.io/2015/11/Why-Islam-Is-Different-from-Other-Religions.html",
+      "commentCount": 697
+    },
+    {
+      "postID": "5380226453464308994",
+      "title": "分享各类电子书（IT、哲学、政治、社会学 等，44本）",
+      "year": "2015",
+      "date": "2015年11月10日",
+      "url": "cirubla.github.io/2015/11/share-books.html",
+      "commentCount": 738
+    },
+    {
+      "postID": "8931873728557530133",
+      "title": "每周转载：关于“全面放开二孩”和“奇葩的计生政策”（各方报道及网友评论）",
+      "year": "2015",
+      "date": "2015年11月1日",
+      "url": "cirubla.github.io/2015/11/weekly-share-93.html",
+      "commentCount": 377
+    },
+    {
+      "postID": "1736188242157790403",
+      "title": "扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）",
+      "year": "2015",
+      "date": "2015年10月27日",
+      "url": "cirubla.github.io/2015/10/dm-crypt-cryptsetup.html",
+      "commentCount": 257
+    },
+    {
+      "postID": "6410161999659956538",
+      "title": "科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误",
+      "year": "2015",
+      "date": "2015年10月19日",
+      "url": "cirubla.github.io/2015/10/What-is-Science.html",
+      "commentCount": 698
+    },
+    {
+      "postID": "5736289124233883724",
+      "title": "扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品",
+      "year": "2015",
+      "date": "2015年10月10日",
+      "url": "cirubla.github.io/2015/10/VeraCrypt.html",
+      "commentCount": 444
+    },
+    {
+      "postID": "7832740516169759871",
+      "title": "博客全程启用 HTTPS 加密",
+      "year": "2015",
+      "date": "2015年10月4日",
+      "url": "cirubla.github.io/2015/10/Blog-Enable-HTTPS.html",
+      "commentCount": 350
+    },
+    {
+      "postID": "5943247086488842734",
+      "title": "聊聊二战中的日本——分析各方面的优势劣势",
+      "year": "2015",
+      "date": "2015年9月27日",
+      "url": "cirubla.github.io/2015/09/Japan-in-WW2.html",
+      "commentCount": 540
+    },
+    {
+      "postID": "5759268889102129557",
+      "title": "二战中日本是如何崩溃的？——兼谈中国战区的作用被夸大",
+      "year": "2015",
+      "date": "2015年9月15日",
+      "url": "cirubla.github.io/2015/09/Why-did-Japan-Surrender-in-WW2.html",
+      "commentCount": 793
+    },
+    {
+      "postID": "119437421665658832",
+      "title": "每周转载：关于习呆呆的93大阅兵（各方报道及网友评论）",
+      "year": "2015",
+      "date": "2015年9月8日",
+      "url": "cirubla.github.io/2015/09/weekly-share-92.html",
+      "commentCount": 423
+    },
+    {
+      "postID": "4376992433492046742",
+      "title": "“对抗专制、捍卫自由”的 N 种技术力量",
+      "year": "2015",
+      "date": "2015年8月31日",
+      "url": "cirubla.github.io/2015/08/Technology-and-Freedom.html",
+      "commentCount": 471
+    },
+    {
+      "postID": "8424918024491151105",
+      "title": "“如何翻墙”系列：Lantern（蓝灯）——开源且跨平台的翻墙代理",
+      "year": "2015",
+      "date": "2015年8月27日",
+      "url": "cirubla.github.io/2015/08/gfw-lantern.html",
+      "commentCount": 373
+    },
+    {
+      "postID": "1446452716614100188",
+      "title": "看看天朝官僚系统多么低效和无能——天津大爆炸随想",
+      "year": "2015",
+      "date": "2015年8月20日",
+      "url": "cirubla.github.io/2015/08/2015-Tianjin-Explosions.html",
+      "commentCount": 328
+    },
+    {
+      "postID": "2119663815626074405",
+      "title": "每周转载：天朝近期的宏观经济形势很不妙（国内外各方报道）",
+      "year": "2015",
+      "date": "2015年8月14日",
+      "url": "cirubla.github.io/2015/08/weekly-share-91.html",
+      "commentCount": 284
+    },
+    {
+      "postID": "8685762110847516884",
+      "title": "2015年8月翻墙快报",
+      "year": "2015",
+      "date": "2015年8月7日",
+      "url": "cirubla.github.io/2015/08/gfw-news.html",
+      "commentCount": 391
+    },
+    {
+      "postID": "1107640147092427767",
+      "title": "股市点评：为啥大多数散户必定亏钱？——心理学层面的分析",
+      "year": "2015",
+      "date": "2015年7月31日",
+      "url": "cirubla.github.io/2015/07/China-Stock-Market-Psychology.html",
+      "commentCount": 300
+    },
+    {
+      "postID": "8625281550492806963",
+      "title": "每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）",
+      "year": "2015",
+      "date": "2015年7月27日",
+      "url": "cirubla.github.io/2015/07/weekly-share-90.html",
+      "commentCount": 202
+    },
+    {
+      "postID": "1824100380026178800",
+      "title": "分享各类电子书（政治、军事、IT、经济 等，52本）——另通告“电子书清单”迁移到 GitHub",
+      "year": "2015",
+      "date": "2015年7月22日",
+      "url": "cirubla.github.io/2015/07/share-books.html",
+      "commentCount": 226
+    },
+    {
+      "postID": "3053457162320437599",
+      "title": "每周转载：关于天朝近期的股灾（外媒报道及大量网友评论）",
+      "year": "2015",
+      "date": "2015年7月13日",
+      "url": "cirubla.github.io/2015/07/weekly-share-89.html",
+      "commentCount": 282
+    },
+    {
+      "postID": "2084156844505855512",
+      "title": "股市点评：一头伪装成“改革牛”的“杠杆牛”",
+      "year": "2015",
+      "date": "2015年7月7日",
+      "url": "cirubla.github.io/2015/07/China-Stock-Market-Reform-or-Lever.html",
+      "commentCount": 213
+    },
+    {
+      "postID": "116034231514452648",
+      "title": "每周转载：上海金山区反 PX 环保抗议活动（大量图片）",
+      "year": "2015",
+      "date": "2015年7月2日",
+      "url": "cirubla.github.io/2015/07/weekly-share-88.html",
+      "commentCount": 176
+    },
+    {
+      "postID": "2451304598629678424",
+      "title": "GitHub 通告：整理了一个 C 和 C++ 开源库的清单（含示例代码）",
+      "year": "2015",
+      "date": "2015年6月26日",
+      "url": "cirubla.github.io/2015/06/GitHub-C-Cpp-Open-Source-Libraries.html",
+      "commentCount": 232
+    },
+    {
+      "postID": "3871126426967412210",
+      "title": "成功学批判——简述其危害性及各种谬误",
+      "year": "2015",
+      "date": "2015年6月19日",
+      "url": "cirubla.github.io/2015/06/The-Mythical-Theories-of-Success.html",
+      "commentCount": 262
+    },
+    {
+      "postID": "3561851376326365854",
+      "title": "每周转载：关于“东方之星”沉船事故（外媒报道及大量网友评论）",
+      "year": "2015",
+      "date": "2015年6月15日",
+      "url": "cirubla.github.io/2015/06/weekly-share-87.html",
+      "commentCount": 173
+    },
+    {
+      "postID": "1828804819228159093",
+      "title": "俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此",
+      "year": "2015",
+      "date": "2015年6月11日",
+      "url": "cirubla.github.io/2015/06/My-GitHub.html",
+      "commentCount": 236
+    },
+    {
+      "postID": "6326220436369961406",
+      "title": "回顾六四系列[29]：五·四之后，朝廷高层的动态",
+      "year": "2015",
+      "date": "2015年6月6日",
+      "url": "cirubla.github.io/2015/06/june-fourth-incident-29.html",
+      "commentCount": 299
+    },
+    {
+      "postID": "6370812921254942261",
+      "title": "每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”",
+      "year": "2015",
+      "date": "2015年5月30日",
+      "url": "cirubla.github.io/2015/05/weekly-share-86.html",
+      "commentCount": 251
+    },
+    {
+      "postID": "6248015280890980553",
+      "title": "思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲",
+      "year": "2015",
+      "date": "2015年5月24日",
+      "url": "cirubla.github.io/2015/05/Survivorship-Bias.html",
+      "commentCount": 405
+    },
+    {
+      "postID": "8745671332692707844",
+      "title": "每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）",
+      "year": "2015",
+      "date": "2015年5月18日",
+      "url": "cirubla.github.io/2015/05/weekly-share-85.html",
+      "commentCount": 277
+    },
+    {
+      "postID": "7283618507459858925",
+      "title": "分享各类电子书（政治、IT、心理学 等，41本）——另通告“BT Sync” 2.0 版的问题",
+      "year": "2015",
+      "date": "2015年5月12日",
+      "url": "cirubla.github.io/2015/05/share-books.html",
+      "commentCount": 643
+    },
+    {
+      "postID": "4284766998666795480",
+      "title": "王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）",
+      "year": "2015",
+      "date": "2015年5月5日",
+      "url": "cirubla.github.io/2015/05/Wanda-and-Princelings.html",
+      "commentCount": 464
+    },
+    {
+      "postID": "8753425754579155617",
+      "title": "每周转载：网民围观长沙警方，区伯收到艳照要挟",
+      "year": "2015",
+      "date": "2015年4月28日",
+      "url": "cirubla.github.io/2015/04/weekly-share-84.html",
+      "commentCount": 394
+    },
+    {
+      "postID": "4978741467609316221",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[8]：如何搭配“多重代理”和“多虚拟机”",
+      "year": "2015",
+      "date": "2015年4月23日",
+      "url": "cirubla.github.io/2015/04/howto-cover-your-tracks-8.html",
+      "commentCount": 462
+    },
+    {
+      "postID": "3417663278878328480",
+      "title": "回顾六四系列[28]：五·四之后，学运的低潮",
+      "year": "2015",
+      "date": "2015年4月17日",
+      "url": "cirubla.github.io/2015/04/june-fourth-incident-28.html",
+      "commentCount": 344
+    },
+    {
+      "postID": "6716010166185016853",
+      "title": "博客评论功能升级（智能贴图、图片代理）——兼谈“Web 图片的隐私问题及防范”",
+      "year": "2015",
+      "date": "2015年4月13日",
+      "url": "cirubla.github.io/2015/04/custom-blogger-comment.html",
+      "commentCount": 311
+    },
+    {
+      "postID": "639873997133647088",
+      "title": "每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论",
+      "year": "2015",
+      "date": "2015年4月9日",
+      "url": "cirubla.github.io/2015/04/weekly-share-83.html",
+      "commentCount": 230
+    },
+    {
+      "postID": "4993888306187924071",
+      "title": "聊聊【单点故障】——关于“德国空难”和“李光耀”的随想",
+      "year": "2015",
+      "date": "2015年4月5日",
+      "url": "cirubla.github.io/2015/04/Single-Point-of-Failure.html",
+      "commentCount": 279
+    },
+    {
+      "postID": "8002928234899343454",
+      "title": "每周转载：关于 GitHub 和 GFW 的 PK（第2季）",
+      "year": "2015",
+      "date": "2015年3月31日",
+      "url": "cirubla.github.io/2015/03/weekly-share-82.html",
+      "commentCount": 334
+    },
+    {
+      "postID": "7416388986393426615",
+      "title": "提供“博客离线浏览”和“电子书制作脚本”——用 BT Sync（Resilio Sync）【免翻墙】自动同步",
+      "year": "2015",
+      "date": "2015年3月25日",
+      "url": "cirubla.github.io/2015/03/blog-sync.html",
+      "commentCount": 311
+    },
+    {
+      "postID": "550413662897183523",
+      "title": "聊聊不同学科中的坑爹翻译",
+      "year": "2015",
+      "date": "2015年3月21日",
+      "url": "cirubla.github.io/2015/03/Translation-Mistakes.html",
+      "commentCount": 377
+    },
+    {
+      "postID": "671047470856282198",
+      "title": "每周转载：缅甸军机多次越境并炸死多名中国公民（大量网友热议）",
+      "year": "2015",
+      "date": "2015年3月16日",
+      "url": "cirubla.github.io/2015/03/weekly-share-81.html",
+      "commentCount": 404
+    },
+    {
+      "postID": "7559978436660227503",
+      "title": "扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）",
+      "year": "2015",
+      "date": "2015年3月10日",
+      "url": "cirubla.github.io/2015/03/Tor-Arm.html",
+      "commentCount": 259
+    },
+    {
+      "postID": "5795366773235021550",
+      "title": "呼之欲出的大老虎——与之相比，徐才厚和令计划都不算啥",
+      "year": "2015",
+      "date": "2015年3月3日",
+      "url": "cirubla.github.io/2015/03/Big-Tiger-Zeng-Qinghong.html",
+      "commentCount": 406
+    },
+    {
+      "postID": "5097584791896395855",
+      "title": "2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）",
+      "year": "2015",
+      "date": "2015年2月28日",
+      "url": "cirubla.github.io/2015/02/gfw-news.html",
+      "commentCount": 233
+    },
+    {
+      "postID": "8032767460880898149",
+      "title": "“传统博客”过时了吗？——兼谈各种媒介形态的优缺点",
+      "year": "2015",
+      "date": "2015年2月23日",
+      "url": "cirubla.github.io/2015/02/Is-Blogging-Dead.html",
+      "commentCount": 354
+    },
+    {
+      "postID": "8232206086651598215",
+      "title": "分享各类电子书（【手机格式】专场，59本）——另通告“BT Sync 网盘”正式上线",
+      "year": "2015",
+      "date": "2015年2月17日",
+      "url": "cirubla.github.io/2015/02/share-books.html",
+      "commentCount": 181
+    },
+    {
+      "postID": "5524867522351028757",
+      "title": "每周转载：天朝科研的奇葩——透明计算（相关报道和网友评论）",
+      "year": "2015",
+      "date": "2015年2月9日",
+      "url": "cirubla.github.io/2015/02/weekly-share-80.html",
+      "commentCount": 465
+    },
+    {
+      "postID": "8066552452864975669",
+      "title": "曝光天朝权贵——【太子党关系网络】2.2 版本发布",
+      "year": "2015",
+      "date": "2015年2月4日",
+      "url": "cirubla.github.io/2015/02/Princelings.html",
+      "commentCount": 342
+    },
+    {
+      "postID": "1367326994136357451",
+      "title": "人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性",
+      "year": "2015",
+      "date": "2015年1月28日",
+      "url": "cirubla.github.io/2015/01/Communism-Nazism-Caesaropapism.html",
+      "commentCount": 447
+    },
+    {
+      "postID": "905658975250237274",
+      "title": "伊斯兰教极端主义溯源——“《查理画报》惨案”和“尼日利亚大屠杀”随想",
+      "year": "2015",
+      "date": "2015年1月24日",
+      "url": "cirubla.github.io/2015/01/Islamic-Extremism.html",
+      "commentCount": 333
+    },
+    {
+      "postID": "1601583393103479540",
+      "title": "扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘",
+      "year": "2015",
+      "date": "2015年1月18日",
+      "url": "cirubla.github.io/2015/01/BitTorrent-Sync.html",
+      "commentCount": 571
+    },
+    {
+      "postID": "1822269122436808724",
+      "title": "开博六周年庆，博文分类汇总",
+      "year": "2015",
+      "date": "2015年1月16日",
+      "url": "cirubla.github.io/2015/01/six-years-blogging.html",
+      "commentCount": 260
+    },
+    {
+      "postID": "3744847936157962321",
+      "title": "分享各类电子书（IT、政治、经济、哲学，28本）——另征求“BT Sync 初始种子”的志愿者",
+      "year": "2015",
+      "date": "2015年1月12日",
+      "url": "cirubla.github.io/2015/01/share-books.html",
+      "commentCount": 380
+    },
+    {
+      "postID": "2089033291627185865",
+      "title": "如何保护隐私[10]：移动设备的隐私问题",
+      "year": "2015",
+      "date": "2015年1月8日",
+      "url": "cirubla.github.io/2015/01/privacy-protection-10.html",
+      "commentCount": 600
+    },
+    {
+      "postID": "6240512080860578926",
+      "title": "2015年1月翻墙快报",
+      "year": "2015",
+      "date": "2015年1月6日",
+      "url": "cirubla.github.io/2015/01/gfw-news.html",
+      "commentCount": 279
+    },
+    {
+      "postID": "637337832467183053",
+      "title": "每周转载：上海外滩踩踏事件，相关报道和网友评论",
+      "year": "2015",
+      "date": "2015年1月4日",
+      "url": "cirubla.github.io/2015/01/weekly-share-79.html",
+      "commentCount": 137
+    },
+    {
+      "postID": "8389183660795480027",
+      "title": "每周转载：关于“Gmail 彻底被墙”的网友评论",
+      "year": "2014",
+      "date": "2014年12月29日",
+      "url": "cirubla.github.io/2014/12/weekly-share-78.html",
+      "commentCount": 349
+    },
+    {
+      "postID": "7023728249858654098",
+      "title": "比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠",
+      "year": "2014",
+      "date": "2014年12月25日",
+      "url": "cirubla.github.io/2014/12/brainwash-using-real-data.html",
+      "commentCount": 367
+    },
+    {
+      "postID": "7289962166312306801",
+      "title": "博客开通【免翻墙】镜像，另通告网盘电子书的问题",
+      "year": "2014",
+      "date": "2014年12月22日",
+      "url": "cirubla.github.io/2014/12/blog-mirror.html",
+      "commentCount": 248
+    },
+    {
+      "postID": "8334198661960685163",
+      "title": "每周转载：关于“俄罗斯卢布崩盘”的媒体报道和网友评论",
+      "year": "2014",
+      "date": "2014年12月18日",
+      "url": "cirubla.github.io/2014/12/weekly-share-77.html",
+      "commentCount": 191
+    },
+    {
+      "postID": "3799222177090527990",
+      "title": "如何用 Privoxy 辅助翻墙？",
+      "year": "2014",
+      "date": "2014年12月14日",
+      "url": "cirubla.github.io/2014/12/gfw-privoxy.html",
+      "commentCount": 212
+    },
+    {
+      "postID": "7290616487263856611",
+      "title": "谈革命[9]：对党斗争的策略——如何自我保护，避免无谓牺牲？",
+      "year": "2014",
+      "date": "2014年12月10日",
+      "url": "cirubla.github.io/2014/12/revolution-9.html",
+      "commentCount": 271
+    },
+    {
+      "postID": "3333588396016060346",
+      "title": "每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）",
+      "year": "2014",
+      "date": "2014年12月3日",
+      "url": "cirubla.github.io/2014/12/weekly-share-76.html",
+      "commentCount": 287
+    },
+    {
+      "postID": "6923234224619246045",
+      "title": "博客评论功能升级（“未读”状态、按时间过滤）——兼谈“为啥俺不用其它博客平台”",
+      "year": "2014",
+      "date": "2014年12月1日",
+      "url": "cirubla.github.io/2014/12/custom-blogger-comment.html",
+      "commentCount": 216
+    },
+    {
+      "postID": "1431545665947927265",
+      "title": "被判“谋反罪”的都是哪些人？——“危害国家安全罪”出笼20年随想",
+      "year": "2014",
+      "date": "2014年11月26日",
+      "url": "cirubla.github.io/2014/11/political-offences-in-china.html",
+      "commentCount": 301
+    },
+    {
+      "postID": "2704225393017895230",
+      "title": "各种迹象显示——党国喉舌正逐渐失去舆论阵地",
+      "year": "2014",
+      "date": "2014年11月19日",
+      "url": "cirubla.github.io/2014/11/political-propaganda-become-less-effective.html",
+      "commentCount": 439
+    },
+    {
+      "postID": "1676644662498898143",
+      "title": "扫盲 HTTPS 和 SSL/TLS 协议[2]：可靠密钥交换的难点，以及身份认证的必要性",
+      "year": "2014",
+      "date": "2014年11月15日",
+      "url": "cirubla.github.io/2014/11/https-ssl-tls-2.html",
+      "commentCount": 180
+    },
+    {
+      "postID": "8380087561999960001",
+      "title": "扫盲 HTTPS 和 SSL/TLS 协议[1]：背景知识、协议的需求、设计的难点",
+      "year": "2014",
+      "date": "2014年11月8日",
+      "url": "cirubla.github.io/2014/11/https-ssl-tls-1.html",
+      "commentCount": 315
+    },
+    {
+      "postID": "7982012316885399752",
+      "title": "扫盲 HTTPS 和 SSL/TLS 协议[0]：引子",
+      "year": "2014",
+      "date": "2014年11月8日",
+      "url": "cirubla.github.io/2014/11/https-ssl-tls-0.html",
+      "commentCount": 47
+    },
+    {
+      "postID": "4103248440922080159",
+      "title": "博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）",
+      "year": "2014",
+      "date": "2014年11月4日",
+      "url": "cirubla.github.io/2014/11/custom-blogger-search.html",
+      "commentCount": 237
+    },
+    {
+      "postID": "5922998480225928434",
+      "title": "每周转载：党国红人周小平惨遭围观——网友称：请不要辜负这个傻逼",
+      "year": "2014",
+      "date": "2014年10月29日",
+      "url": "cirubla.github.io/2014/10/weekly-share-75.html",
+      "commentCount": 322
+    },
+    {
+      "postID": "2931130937029456202",
+      "title": "谈革命[8]：对“非暴力革命”的种种【误解】",
+      "year": "2014",
+      "date": "2014年10月23日",
+      "url": "cirubla.github.io/2014/10/revolution-8.html",
+      "commentCount": 374
+    },
+    {
+      "postID": "3592588901899405955",
+      "title": "“如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理",
+      "year": "2014",
+      "date": "2014年10月19日",
+      "url": "cirubla.github.io/2014/10/gfw-tor-meek.html",
+      "commentCount": 382
+    },
+    {
+      "postID": "4931668895017545997",
+      "title": "博客界面升级（增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等）",
+      "year": "2014",
+      "date": "2014年10月16日",
+      "url": "cirubla.github.io/2014/10/custom-blogger-ui.html",
+      "commentCount": 363
+    },
+    {
+      "postID": "3544317389143776752",
+      "title": "每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月29日至10月2日）",
+      "year": "2014",
+      "date": "2014年10月5日",
+      "url": "cirubla.github.io/2014/10/weekly-share-74.html",
+      "commentCount": 459
+    },
+    {
+      "postID": "4520660391548090315",
+      "title": "每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月22日至9月28日）",
+      "year": "2014",
+      "date": "2014年10月4日",
+      "url": "cirubla.github.io/2014/10/weekly-share-73.html",
+      "commentCount": 262
+    },
+    {
+      "postID": "900691859120373456",
+      "title": "博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）",
+      "year": "2014",
+      "date": "2014年9月28日",
+      "url": "cirubla.github.io/2014/09/custom-blogger-comment.html",
+      "commentCount": 506
+    },
+    {
+      "postID": "1559334081558668051",
+      "title": "每周转载：关于苏格兰独立公投的网友评论",
+      "year": "2014",
+      "date": "2014年9月22日",
+      "url": "cirubla.github.io/2014/09/weekly-share-72.html",
+      "commentCount": 178
+    },
+    {
+      "postID": "3251762884134428124",
+      "title": "各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”",
+      "year": "2014",
+      "date": "2014年9月18日",
+      "url": "cirubla.github.io/2014/09/oversimplification.html",
+      "commentCount": 298
+    },
+    {
+      "postID": "4834941176010029603",
+      "title": "扫盲操作系统虚拟机[6]：如何优化运行速度？",
+      "year": "2014",
+      "date": "2014年9月10日",
+      "url": "cirubla.github.io/2014/09/system-vm-6.html",
+      "commentCount": 304
+    },
+    {
+      "postID": "1699659675157622899",
+      "title": "每周转载：关于香港和澳门的特首选举（外媒报道和网友评论）",
+      "year": "2014",
+      "date": "2014年9月4日",
+      "url": "cirubla.github.io/2014/09/weekly-share-71.html",
+      "commentCount": 255
+    },
+    {
+      "postID": "9039100661366640739",
+      "title": "如何保护隐私[9]：如何限制桌面软件的流氓行为？",
+      "year": "2014",
+      "date": "2014年8月30日",
+      "url": "cirubla.github.io/2014/08/privacy-protection-9.html",
+      "commentCount": 255
+    },
+    {
+      "postID": "7358142742948646749",
+      "title": "分享各个领域的一些格言",
+      "year": "2014",
+      "date": "2014年8月26日",
+      "url": "cirubla.github.io/2014/08/maxim.html",
+      "commentCount": 213
+    },
+    {
+      "postID": "2904947260305594051",
+      "title": "如何保护隐私[8]：流氓的桌面软件有哪些替代品？",
+      "year": "2014",
+      "date": "2014年8月20日",
+      "url": "cirubla.github.io/2014/08/privacy-protection-8.html",
+      "commentCount": 344
+    },
+    {
+      "postID": "6790852501626061385",
+      "title": "如何保护隐私[7]：其它桌面软件的隐私问题",
+      "year": "2014",
+      "date": "2014年8月15日",
+      "url": "cirubla.github.io/2014/08/privacy-protection-7.html",
+      "commentCount": 275
+    },
+    {
+      "postID": "6074020955678714976",
+      "title": "党国喉舌反遭多次封杀，朝廷高层权斗日渐激烈",
+      "year": "2014",
+      "date": "2014年8月9日",
+      "url": "cirubla.github.io/2014/08/chinese-leaders-power-struggle.html",
+      "commentCount": 247
+    },
+    {
+      "postID": "23498953896389028",
+      "title": "八卦一下周永康那些破事儿——他的家族、朋党、生意、情妇（多图）",
+      "year": "2014",
+      "date": "2014年8月4日",
+      "url": "cirubla.github.io/2014/08/zhou-yongkang-corruption.html",
+      "commentCount": 187
+    },
+    {
+      "postID": "1004506840083804808",
+      "title": "“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）",
+      "year": "2014",
+      "date": "2014年7月31日",
+      "url": "cirubla.github.io/2014/07/gfw-fqrouter.html",
+      "commentCount": 172
+    },
+    {
+      "postID": "2193690795899991513",
+      "title": "分享各类电子书（心理学、政治、历史，22本）",
+      "year": "2014",
+      "date": "2014年7月28日",
+      "url": "cirubla.github.io/2014/07/share-books.html",
+      "commentCount": 175
+    },
+    {
+      "postID": "7436140012977958497",
+      "title": "分析“制度性腐败”——为啥天朝的贪官屡禁不止？",
+      "year": "2014",
+      "date": "2014年7月14日",
+      "url": "cirubla.github.io/2014/07/corruption-and-form-of-government.html",
+      "commentCount": 358
+    },
+    {
+      "postID": "5081074868531947313",
+      "title": "每周转载：网友热议近期多名贪官落马",
+      "year": "2014",
+      "date": "2014年7月7日",
+      "url": "cirubla.github.io/2014/07/weekly-share-70.html",
+      "commentCount": 284
+    },
+    {
+      "postID": "86859421068282397",
+      "title": "面对共产党——民国人文大师的众生相",
+      "year": "2014",
+      "date": "2014年7月2日",
+      "url": "cirubla.github.io/2014/07/artists-and-ccp.html",
+      "commentCount": 344
+    },
+    {
+      "postID": "8431348149549517410",
+      "title": "思维的误区：从“沉没成本谬误”到“损失厌恶情结”",
+      "year": "2014",
+      "date": "2014年6月26日",
+      "url": "cirubla.github.io/2014/06/sunk-cost-fallacy-and-loss-aversion.html",
+      "commentCount": 157
+    },
+    {
+      "postID": "488758380494324846",
+      "title": "分享各类电子书（哲学、历史、政治，33本）——增加“哲学”大类",
+      "year": "2014",
+      "date": "2014年6月22日",
+      "url": "cirubla.github.io/2014/06/share-books.html",
+      "commentCount": 107
+    },
+    {
+      "postID": "8296942743543842456",
+      "title": "每周转载：关于“一国两制白皮书”和“国台办言论”（大量网友评论和图片）",
+      "year": "2014",
+      "date": "2014年6月15日",
+      "url": "cirubla.github.io/2014/06/weekly-share-69.html",
+      "commentCount": 224
+    },
+    {
+      "postID": "2854990186238183349",
+      "title": "分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施",
+      "year": "2014",
+      "date": "2014年6月10日",
+      "url": "cirubla.github.io/2014/06/truecrypt-dead.html",
+      "commentCount": 214
+    },
+    {
+      "postID": "8503607155935111004",
+      "title": "每周转载：“六四事件”25周年纪念（【大量】照片和网友评论）",
+      "year": "2014",
+      "date": "2014年6月6日",
+      "url": "cirubla.github.io/2014/06/weekly-share-68.html",
+      "commentCount": 216
+    },
+    {
+      "postID": "8579600911147538468",
+      "title": "回顾六四系列[27]：五·四大游行",
+      "year": "2014",
+      "date": "2014年6月3日",
+      "url": "cirubla.github.io/2014/06/june-fourth-incident-27.html",
+      "commentCount": 228
+    },
+    {
+      "postID": "8027850145116553462",
+      "title": "每周转载：关于新疆“民族、宗教、恐怖主义”问题的报道和分析（网文8篇）",
+      "year": "2014",
+      "date": "2014年5月31日",
+      "url": "cirubla.github.io/2014/05/weekly-share-67.html",
+      "commentCount": 153
+    },
+    {
+      "postID": "176369049659584780",
+      "title": "2014年5月翻墙快报（继续补充 VPN Gate 经验）",
+      "year": "2014",
+      "date": "2014年5月27日",
+      "url": "cirubla.github.io/2014/05/gfw-news.html",
+      "commentCount": 365
+    },
+    {
+      "postID": "5832692351390966713",
+      "title": "分享各类电子书（38本）——另通告“电子书清单”界面改版",
+      "year": "2014",
+      "date": "2014年5月23日",
+      "url": "cirubla.github.io/2014/05/share-books.html",
+      "commentCount": 80
+    },
+    {
+      "postID": "6770141506232821610",
+      "title": "点评“台湾服贸问题”和“太阳花学运”",
+      "year": "2014",
+      "date": "2014年5月17日",
+      "url": "cirubla.github.io/2014/05/taiwan-sunflower-student-movement.html",
+      "commentCount": 172
+    },
+    {
+      "postID": "6710514634858443586",
+      "title": "每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名",
+      "year": "2014",
+      "date": "2014年5月13日",
+      "url": "cirubla.github.io/2014/05/weekly-share-66.html",
+      "commentCount": 135
+    },
+    {
+      "postID": "482827479649181203",
+      "title": "不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害",
+      "year": "2014",
+      "date": "2014年5月9日",
+      "url": "cirubla.github.io/2014/05/fans-and-idolatry.html",
+      "commentCount": 215
+    },
+    {
+      "postID": "7801833217010001952",
+      "title": "为啥周永康案还不公布？另八卦一下后续大老虎的热门人选",
+      "year": "2014",
+      "date": "2014年4月30日",
+      "url": "cirubla.github.io/2014/04/big-tigers.html",
+      "commentCount": 245
+    },
+    {
+      "postID": "8302516381101187179",
+      "title": "开始提供博客内容打包下载（支持 CHM 和 EPUB 格式）",
+      "year": "2014",
+      "date": "2014年4月25日",
+      "url": "cirubla.github.io/2014/04/blog-ebook.html",
+      "commentCount": 303
+    },
+    {
+      "postID": "1647428399834480847",
+      "title": "每周转载：最近半个月的15起大规模罢工/维权事件（上百张照片）",
+      "year": "2014",
+      "date": "2014年4月18日",
+      "url": "cirubla.github.io/2014/04/weekly-share-65.html",
+      "commentCount": 120
+    },
+    {
+      "postID": "3654057536586493176",
+      "title": "“片面强调 PX 低毒”属于【偷换概念】——广东茂名 PX 抗议活动随想",
+      "year": "2014",
+      "date": "2014年4月14日",
+      "url": "cirubla.github.io/2014/04/px-toxicity.html",
+      "commentCount": 206
+    },
+    {
+      "postID": "1378711348413028345",
+      "title": "对 OpenSSL 高危漏洞 Heartbleed 的感慨、分析和建议",
+      "year": "2014",
+      "date": "2014年4月11日",
+      "url": "cirubla.github.io/2014/04/openssl-heartbleed.html",
+      "commentCount": 97
+    },
+    {
+      "postID": "7428193758192914105",
+      "title": "中国是从哪个朝代开始落后于西方？",
+      "year": "2014",
+      "date": "2014年4月9日",
+      "url": "cirubla.github.io/2014/04/history-china-fallen-behind-europe.html",
+      "commentCount": 271
+    },
+    {
+      "postID": "1443028336506194496",
+      "title": "每周转载：广东茂名反 PX 环保抗议活动（照片及网友评论）",
+      "year": "2014",
+      "date": "2014年4月4日",
+      "url": "cirubla.github.io/2014/04/weekly-share-64.html",
+      "commentCount": 229
+    },
+    {
+      "postID": "6527668863310841818",
+      "title": "分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言",
+      "year": "2014",
+      "date": "2014年3月31日",
+      "url": "cirubla.github.io/2014/03/propaganda-for-patriotism.html",
+      "commentCount": 238
+    },
+    {
+      "postID": "379323252540356175",
+      "title": "每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）",
+      "year": "2014",
+      "date": "2014年3月25日",
+      "url": "cirubla.github.io/2014/03/weekly-share-63.html",
+      "commentCount": 144
+    },
+    {
+      "postID": "733242513342873250",
+      "title": "Windows XP 大限已至——要不要换系统？如何换？",
+      "year": "2014",
+      "date": "2014年3月18日",
+      "url": "cirubla.github.io/2014/03/windows-xp-dead.html",
+      "commentCount": 364
+    },
+    {
+      "postID": "6852579112231983471",
+      "title": "汇总马航客机失踪的最新报道（多半是飞行员劫机）",
+      "year": "2014",
+      "date": "2014年3月15日",
+      "url": "cirubla.github.io/2014/03/malaysia-airlines-flight-370-2.html",
+      "commentCount": 237
+    },
+    {
+      "postID": "6432486306344033389",
+      "title": "分析马航370班机失踪的几种原因（此文的分析已过时）",
+      "year": "2014",
+      "date": "2014年3月11日",
+      "url": "cirubla.github.io/2014/03/malaysia-airlines-flight-370.html",
+      "commentCount": 156
+    },
+    {
+      "postID": "6658218460815320973",
+      "title": "你意想不到的恐怖主义帮手——昆明暴力袭击事件随想",
+      "year": "2014",
+      "date": "2014年3月7日",
+      "url": "cirubla.github.io/2014/03/who-help-terrorism.html",
+      "commentCount": 236
+    },
+    {
+      "postID": "2256918033948837128",
+      "title": "谈革命[7]：为啥俺【不】看好“暴力革命”的方式？",
+      "year": "2014",
+      "date": "2014年3月3日",
+      "url": "cirubla.github.io/2014/03/revolution-7.html",
+      "commentCount": 169
+    },
+    {
+      "postID": "4941243948748289172",
+      "title": "分享各类电子书（政治、经济、心理学 等 40本）——另征求“博客电子书”的建议",
+      "year": "2014",
+      "date": "2014年2月24日",
+      "url": "cirubla.github.io/2014/02/share-books.html",
+      "commentCount": 189
+    },
+    {
+      "postID": "2988097726264328085",
+      "title": "聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”",
+      "year": "2014",
+      "date": "2014年2月20日",
+      "url": "cirubla.github.io/2014/02/brainwash-and-idiot.html",
+      "commentCount": 268
+    },
+    {
+      "postID": "199311007121031181",
+      "title": "政治常识扫盲：澄清【言论自由】的各种误区",
+      "year": "2014",
+      "date": "2014年2月16日",
+      "url": "cirubla.github.io/2014/02/freedom-of-speech.html",
+      "commentCount": 187
+    },
+    {
+      "postID": "4036165739420049792",
+      "title": "如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8（无需光驱和 USB）",
+      "year": "2014",
+      "date": "2014年2月10日",
+      "url": "cirubla.github.io/2014/02/hdd-install-windows.html",
+      "commentCount": 149
+    },
+    {
+      "postID": "492251512383663327",
+      "title": "如何用【互联网】进行“反洗脑”和“政治启蒙”——分享若干个人经验",
+      "year": "2014",
+      "date": "2014年1月29日",
+      "url": "cirubla.github.io/2014/01/anti-brainwashing-and-enlightenment.html",
+      "commentCount": 253
+    },
+    {
+      "postID": "7467376326438112421",
+      "title": "每周转载：网友热议天朝权贵集团的“离岸”",
+      "year": "2014",
+      "date": "2014年1月27日",
+      "url": "cirubla.github.io/2014/01/weekly-share-62.html",
+      "commentCount": 71
+    },
+    {
+      "postID": "8408025012031941786",
+      "title": "习包子露馅——习近平在内的权贵家族如何转移巨额海外资产",
+      "year": "2014",
+      "date": "2014年1月26日",
+      "url": "cirubla.github.io/2014/01/china-princelings-offshore-companies.html",
+      "commentCount": 386
+    },
+    {
+      "postID": "2701782986490415166",
+      "title": "扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”",
+      "year": "2014",
+      "date": "2014年1月23日",
+      "url": "cirubla.github.io/2014/01/dns.html",
+      "commentCount": 170
+    },
+    {
+      "postID": "7165199965499302966",
+      "title": "如何保护隐私[6]：如何防范“浏览器指纹”？",
+      "year": "2014",
+      "date": "2014年1月22日",
+      "url": "cirubla.github.io/2014/01/privacy-protection-6.html",
+      "commentCount": 148
+    },
+    {
+      "postID": "9012263790664041011",
+      "title": "如何保护隐私[5]：扫盲“浏览器指纹”",
+      "year": "2014",
+      "date": "2014年1月17日",
+      "url": "cirubla.github.io/2014/01/privacy-protection-5.html",
+      "commentCount": 119
+    },
+    {
+      "postID": "3897303030145963024",
+      "title": "开博五周年总结，博文分类汇总",
+      "year": "2014",
+      "date": "2014年1月14日",
+      "url": "cirubla.github.io/2014/01/five-years-blogging.html",
+      "commentCount": 195
+    },
+    {
+      "postID": "8635344618104852464",
+      "title": "分享各类电子书（政治、经济、IT、等 28本）",
+      "year": "2014",
+      "date": "2014年1月10日",
+      "url": "cirubla.github.io/2014/01/share-books.html",
+      "commentCount": 100
+    },
+    {
+      "postID": "922925565080079763",
+      "title": "比“欺骗”更有效的洗脑——基于【双重思想】的思维控制",
+      "year": "2014",
+      "date": "2014年1月7日",
+      "url": "cirubla.github.io/2014/01/doublethink.html",
+      "commentCount": 338
+    },
+    {
+      "postID": "3906151055813758304",
+      "title": "为啥急功近利反而赚不到钱——给拜金主义者的忠告",
+      "year": "2014",
+      "date": "2014年1月3日",
+      "url": "cirubla.github.io/2014/01/misunderstanding-about-making-money.html",
+      "commentCount": 127
+    },
+    {
+      "postID": "2564149193300413981",
+      "title": "回顾历史上的加州淘金热——给比特币矿工的忠告",
+      "year": "2013",
+      "date": "2013年12月31日",
+      "url": "cirubla.github.io/2013/12/gold-rush-vs-bitcoin-fever.html",
+      "commentCount": 91
+    },
+    {
+      "postID": "3390431593073737111",
+      "title": "点评中国社会九大阶层——没有公平、难以流动、无法稳定",
+      "year": "2013",
+      "date": "2013年12月26日",
+      "url": "cirubla.github.io/2013/12/chinese-social-stratification.html",
+      "commentCount": 159
+    },
+    {
+      "postID": "6139481491343144940",
+      "title": "扫盲 Tails——专门强化隐匿性的 Linux 发行版",
+      "year": "2013",
+      "date": "2013年12月23日",
+      "url": "cirubla.github.io/2013/12/linux-tails-guide.html",
+      "commentCount": 212
+    },
+    {
+      "postID": "394041811772613379",
+      "title": "如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）",
+      "year": "2013",
+      "date": "2013年12月21日",
+      "url": "cirubla.github.io/2013/12/create-bootable-usb-stick-from-iso.html",
+      "commentCount": 193
+    },
+    {
+      "postID": "3973740093594491278",
+      "title": "每周转载：网友热议北朝鲜张成泽倒台",
+      "year": "2013",
+      "date": "2013年12月17日",
+      "url": "cirubla.github.io/2013/12/weekly-share-61.html",
+      "commentCount": 86
+    },
+    {
+      "postID": "1121615410347773944",
+      "title": "北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗",
+      "year": "2013",
+      "date": "2013年12月12日",
+      "url": "cirubla.github.io/2013/12/kim-il-sung-great-purge.html",
+      "commentCount": 187
+    },
+    {
+      "postID": "4390522860830581216",
+      "title": "每周转载：网友热议《没有了祖国，你就什么都不是》",
+      "year": "2013",
+      "date": "2013年12月6日",
+      "url": "cirubla.github.io/2013/12/weekly-share-60.html",
+      "commentCount": 198
+    },
+    {
+      "postID": "878098551045228654",
+      "title": "政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念",
+      "year": "2013",
+      "date": "2013年12月5日",
+      "url": "cirubla.github.io/2013/12/political-concepts-state-citizenship-etc.html",
+      "commentCount": 197
+    },
+    {
+      "postID": "3866778523276915512",
+      "title": "每周转载：汇总中石化输油管爆炸事故（图片若干、评论若干）",
+      "year": "2013",
+      "date": "2013年11月30日",
+      "url": "cirubla.github.io/2013/11/weekly-share-59.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "1132032577124646531",
+      "title": "分享各类电子书（政治、IT，29本）",
+      "year": "2013",
+      "date": "2013年11月27日",
+      "url": "cirubla.github.io/2013/11/share-books.html",
+      "commentCount": 53
+    },
+    {
+      "postID": "6485669306711734919",
+      "title": "每周转载：关于三中全会（网文5篇，评论若干）",
+      "year": "2013",
+      "date": "2013年11月21日",
+      "url": "cirubla.github.io/2013/11/weekly-share-58.html",
+      "commentCount": 77
+    },
+    {
+      "postID": "4697321397731410574",
+      "title": "三中全会解读：名为改革，实为集权，天朝或重回个人独裁",
+      "year": "2013",
+      "date": "2013年11月19日",
+      "url": "cirubla.github.io/2013/11/cpc-third-plenary-session.html",
+      "commentCount": 115
+    },
+    {
+      "postID": "7317708721628823116",
+      "title": "每周转载：关于天朝的文化和民族的劣根性",
+      "year": "2013",
+      "date": "2013年11月13日",
+      "url": "cirubla.github.io/2013/11/weekly-share-57.html",
+      "commentCount": 87
+    },
+    {
+      "postID": "5755326249098358838",
+      "title": "“如何翻墙”系列：关于 Tor 的常见问题解答",
+      "year": "2013",
+      "date": "2013年11月11日",
+      "url": "cirubla.github.io/2013/11/tor-faq.html",
+      "commentCount": 404
+    },
+    {
+      "postID": "7499673867787561709",
+      "title": "若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场",
+      "year": "2013",
+      "date": "2013年11月4日",
+      "url": "cirubla.github.io/2013/11/political-reform-or-economic-reform.html",
+      "commentCount": 131
+    },
+    {
+      "postID": "449366449153721021",
+      "title": "扫盲 Linux：如何选择发行版",
+      "year": "2013",
+      "date": "2013年10月31日",
+      "url": "cirubla.github.io/2013/10/linux-distributions-guide.html",
+      "commentCount": 242
+    },
+    {
+      "postID": "5080459982364244506",
+      "title": "扫盲 Linux：新手如何搞定 Linux 操作系统",
+      "year": "2013",
+      "date": "2013年10月28日",
+      "url": "cirubla.github.io/2013/10/linux-newbie-guide.html",
+      "commentCount": 70
+    },
+    {
+      "postID": "4398591832902212211",
+      "title": "分享 IT 类电子书（37本）——增加“IT”大类",
+      "year": "2013",
+      "date": "2013年10月22日",
+      "url": "cirubla.github.io/2013/10/share-books.html",
+      "commentCount": 106
+    },
+    {
+      "postID": "4209473564345538119",
+      "title": "磨刀不误砍柴功——聊聊个人 IT 基础设施的完善",
+      "year": "2013",
+      "date": "2013年10月14日",
+      "url": "cirubla.github.io/2013/10/personal-it-infrastructure.html",
+      "commentCount": 187
+    },
+    {
+      "postID": "5522652111890008280",
+      "title": "TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项",
+      "year": "2013",
+      "date": "2013年10月8日",
+      "url": "cirubla.github.io/2013/10/truecrypt-4.html",
+      "commentCount": 94
+    },
+    {
+      "postID": "7359396962416899668",
+      "title": "如何完善自己的知识结构",
+      "year": "2013",
+      "date": "2013年9月21日",
+      "url": "cirubla.github.io/2013/09/knowledge-structure.html",
+      "commentCount": 202
+    },
+    {
+      "postID": "3073863887708640792",
+      "title": "分享各类电子书（【EPUB 格式】专场，57本）——增加“管理”大类",
+      "year": "2013",
+      "date": "2013年9月15日",
+      "url": "cirubla.github.io/2013/09/share-books.html",
+      "commentCount": 113
+    },
+    {
+      "postID": "8443355036594867402",
+      "title": "回顾六四系列[26]：成立对话代表团",
+      "year": "2013",
+      "date": "2013年9月7日",
+      "url": "cirubla.github.io/2013/09/june-fourth-incident-26.html",
+      "commentCount": 131
+    },
+    {
+      "postID": "3190155672214828113",
+      "title": "八卦一下薄熙来的初审——澄清某些误读和忽悠",
+      "year": "2013",
+      "date": "2013年8月29日",
+      "url": "cirubla.github.io/2013/08/bo-xilai-trial.html",
+      "commentCount": 157
+    },
+    {
+      "postID": "4828929509001389580",
+      "title": "分享各类电子书（34本）",
+      "year": "2013",
+      "date": "2013年8月22日",
+      "url": "cirubla.github.io/2013/08/share-books.html",
+      "commentCount": 115
+    },
+    {
+      "postID": "6291246392482856975",
+      "title": "TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施",
+      "year": "2013",
+      "date": "2013年8月16日",
+      "url": "cirubla.github.io/2013/08/truecrypt-3.html",
+      "commentCount": 75
+    },
+    {
+      "postID": "8863635921371099287",
+      "title": "TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证",
+      "year": "2013",
+      "date": "2013年8月11日",
+      "url": "cirubla.github.io/2013/08/truecrypt-2.html",
+      "commentCount": 53
+    },
+    {
+      "postID": "3159380995779153534",
+      "title": "TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型",
+      "year": "2013",
+      "date": "2013年8月6日",
+      "url": "cirubla.github.io/2013/08/truecrypt-1.html",
+      "commentCount": 47
+    },
+    {
+      "postID": "8529188145112380192",
+      "title": "谈谈真理部对朝鲜战争的忽悠",
+      "year": "2013",
+      "date": "2013年8月1日",
+      "url": "cirubla.github.io/2013/08/korean-war.html",
+      "commentCount": 255
+    },
+    {
+      "postID": "5447420005818419535",
+      "title": "文件备份技巧：组合“虚拟加密盘”与“网盘”",
+      "year": "2013",
+      "date": "2013年7月26日",
+      "url": "cirubla.github.io/2013/07/online-backup-virtual-encrypted-disk.html",
+      "commentCount": 91
+    },
+    {
+      "postID": "8843526109266064329",
+      "title": "如何保护隐私[4]：关于浏览器的基本防范（下）",
+      "year": "2013",
+      "date": "2013年7月22日",
+      "url": "cirubla.github.io/2013/07/privacy-protection-4.html",
+      "commentCount": 59
+    },
+    {
+      "postID": "245443561645483243",
+      "title": "分享各类电子书（40本）——另通告“第2网盘”启用",
+      "year": "2013",
+      "date": "2013年7月19日",
+      "url": "cirubla.github.io/2013/07/share-books.html",
+      "commentCount": 102
+    },
+    {
+      "postID": "1173540917099381572",
+      "title": "2013年7月翻墙快报（补充介绍 VPN Gate 经验）",
+      "year": "2013",
+      "date": "2013年7月12日",
+      "url": "cirubla.github.io/2013/07/gfw-news.html",
+      "commentCount": 194
+    },
+    {
+      "postID": "3987198816462977029",
+      "title": "每周转载：关于埃及近期的政局",
+      "year": "2013",
+      "date": "2013年7月9日",
+      "url": "cirubla.github.io/2013/07/weekly-share-56.html",
+      "commentCount": 124
+    },
+    {
+      "postID": "7789150949140666011",
+      "title": "提醒一下 Google Reader 的身后事",
+      "year": "2013",
+      "date": "2013年7月5日",
+      "url": "cirubla.github.io/2013/07/about-google-reader.html",
+      "commentCount": 56
+    },
+    {
+      "postID": "1498631826980861535",
+      "title": "如何保护隐私[3]：关于浏览器的基本防范（中）",
+      "year": "2013",
+      "date": "2013年7月1日",
+      "url": "cirubla.github.io/2013/07/privacy-protection-3.html",
+      "commentCount": 75
+    },
+    {
+      "postID": "3556914426940273553",
+      "title": "如何保护隐私[2]：关于浏览器的基本防范（上）",
+      "year": "2013",
+      "date": "2013年6月29日",
+      "url": "cirubla.github.io/2013/06/privacy-protection-2.html",
+      "commentCount": 80
+    },
+    {
+      "postID": "7468643666120351907",
+      "title": "每周转载：关于银行“钱荒”、地方债和理财产品",
+      "year": "2013",
+      "date": "2013年6月25日",
+      "url": "cirubla.github.io/2013/06/weekly-share-55.html",
+      "commentCount": 53
+    },
+    {
+      "postID": "2262611264927617118",
+      "title": "如何保护隐私[1]：如何选择软件和服务？",
+      "year": "2013",
+      "date": "2013年6月23日",
+      "url": "cirubla.github.io/2013/06/privacy-protection-1.html",
+      "commentCount": 116
+    },
+    {
+      "postID": "4343740336863402076",
+      "title": "如何保护隐私[0]：为啥写这个话题？",
+      "year": "2013",
+      "date": "2013年6月23日",
+      "url": "cirubla.github.io/2013/06/privacy-protection-0.html",
+      "commentCount": 107
+    },
+    {
+      "postID": "6650981453299240868",
+      "title": "邮件订阅功能发布——免翻墙的“Google Reader 替代品”",
+      "year": "2013",
+      "date": "2013年6月20日",
+      "url": "cirubla.github.io/2013/06/email-subscription.html",
+      "commentCount": 113
+    },
+    {
+      "postID": "544961226625984539",
+      "title": "每周转载：关于“棱镜门”丑闻的相关报道",
+      "year": "2013",
+      "date": "2013年6月18日",
+      "url": "cirubla.github.io/2013/06/weekly-share-54.html",
+      "commentCount": 159
+    },
+    {
+      "postID": "906910928415822183",
+      "title": "中美政府信息监控的差异——“棱镜门”丑闻随想",
+      "year": "2013",
+      "date": "2013年6月14日",
+      "url": "cirubla.github.io/2013/06/usa-vs-china.html",
+      "commentCount": 272
+    },
+    {
+      "postID": "2918677027697064548",
+      "title": "回顾六四系列[25]：赵紫阳的策略为何失败？",
+      "year": "2013",
+      "date": "2013年6月9日",
+      "url": "cirubla.github.io/2013/06/june-fourth-incident-25.html",
+      "commentCount": 238
+    },
+    {
+      "postID": "1512445472692538793",
+      "title": "回顾六四系列[24]：各方对赵紫阳讲话的反应",
+      "year": "2013",
+      "date": "2013年6月4日",
+      "url": "cirubla.github.io/2013/06/june-fourth-incident-24.html",
+      "commentCount": 78
+    },
+    {
+      "postID": "6944453719343094575",
+      "title": "每周转载：关于朝廷近期舆论和习近平的嘴脸",
+      "year": "2013",
+      "date": "2013年6月2日",
+      "url": "cirubla.github.io/2013/06/weekly-share-53.html",
+      "commentCount": 307
+    },
+    {
+      "postID": "7116151907847990048",
+      "title": "Google Reader 的替代品，哪个比较靠谱？",
+      "year": "2013",
+      "date": "2013年5月30日",
+      "url": "cirubla.github.io/2013/05/google-reader-replacement.html",
+      "commentCount": 164
+    },
+    {
+      "postID": "7697522405213864452",
+      "title": "每周转载：关于毒大米和土壤污染",
+      "year": "2013",
+      "date": "2013年5月28日",
+      "url": "cirubla.github.io/2013/05/weekly-share-52.html",
+      "commentCount": 341
+    },
+    {
+      "postID": "4586802057678147441",
+      "title": "分享政治类电子书（30本）——另征求“第2网盘”的建议",
+      "year": "2013",
+      "date": "2013年5月25日",
+      "url": "cirubla.github.io/2013/05/share-polity-books.html",
+      "commentCount": 187
+    },
+    {
+      "postID": "6009265498454996725",
+      "title": "每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）",
+      "year": "2013",
+      "date": "2013年5月21日",
+      "url": "cirubla.github.io/2013/05/weekly-share-51.html",
+      "commentCount": 157
+    },
+    {
+      "postID": "5872825437145468322",
+      "title": "如何对付公司的监控[2]：规避“主机行为审计”",
+      "year": "2013",
+      "date": "2013年5月17日",
+      "url": "cirubla.github.io/2013/05/howto-anti-it-audit-2.html",
+      "commentCount": 74
+    },
+    {
+      "postID": "981108389559585963",
+      "title": "每周转载：关于京温女孩袁利亚之死（大量评论和照片）",
+      "year": "2013",
+      "date": "2013年5月14日",
+      "url": "cirubla.github.io/2013/05/weekly-share-50.html",
+      "commentCount": 99
+    },
+    {
+      "postID": "6133785271271169471",
+      "title": "如何对付公司的监控[1]：规避“网络行为审计”",
+      "year": "2013",
+      "date": "2013年5月9日",
+      "url": "cirubla.github.io/2013/05/howto-anti-it-audit-1.html",
+      "commentCount": 161
+    },
+    {
+      "postID": "7023799536696346237",
+      "title": "如何对付公司的监控[0]：概述",
+      "year": "2013",
+      "date": "2013年5月9日",
+      "url": "cirubla.github.io/2013/05/howto-anti-it-audit-0.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "5172857727434602824",
+      "title": "每周转载：关于朱令铊中毒案（网文5篇）",
+      "year": "2013",
+      "date": "2013年5月6日",
+      "url": "cirubla.github.io/2013/05/weekly-share-49.html",
+      "commentCount": 132
+    },
+    {
+      "postID": "1294512688104626558",
+      "title": "批判性思维扫盲：学会区分“事实”与“观点”",
+      "year": "2013",
+      "date": "2013年5月2日",
+      "url": "cirubla.github.io/2013/05/difference-between-fact-and-opinion.html",
+      "commentCount": 85
+    },
+    {
+      "postID": "4568093315079997459",
+      "title": "分享经济类电子书（12本）——增加“经济”大类",
+      "year": "2013",
+      "date": "2013年4月30日",
+      "url": "cirubla.github.io/2013/04/share-economics-books.html",
+      "commentCount": 58
+    },
+    {
+      "postID": "6979374222964590510",
+      "title": "对政府——多些“监督问责”，少些“煽情感动”",
+      "year": "2013",
+      "date": "2013年4月25日",
+      "url": "cirubla.github.io/2013/04/more-supervision-less-thankfulness.html",
+      "commentCount": 161
+    },
+    {
+      "postID": "2772752886262375470",
+      "title": "每周转载：关于雅安地震的种种乱象（大量网友评论和照片）",
+      "year": "2013",
+      "date": "2013年4月23日",
+      "url": "cirubla.github.io/2013/04/weekly-share-48.html",
+      "commentCount": 137
+    },
+    {
+      "postID": "5207768724428812421",
+      "title": "“如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器",
+      "year": "2013",
+      "date": "2013年4月19日",
+      "url": "cirubla.github.io/2013/04/gfw-vpngate.html",
+      "commentCount": 440
+    },
+    {
+      "postID": "982425475516830740",
+      "title": "每周转载：关于“马三家”和劳教制度（网文若干、图片若干）",
+      "year": "2013",
+      "date": "2013年4月16日",
+      "url": "cirubla.github.io/2013/04/weekly-share-47.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "6733644464796430092",
+      "title": "分享政治类电子书（25本）",
+      "year": "2013",
+      "date": "2013年4月14日",
+      "url": "cirubla.github.io/2013/04/share-polity-books.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "9051929082752034782",
+      "title": "《如何阅读一本书》——书评及内容纲要",
+      "year": "2013",
+      "date": "2013年4月12日",
+      "url": "cirubla.github.io/2013/04/how-to-read-book.html",
+      "commentCount": 87
+    },
+    {
+      "postID": "6951570990272616535",
+      "title": "每周转载：关于禽流感的网友评论",
+      "year": "2013",
+      "date": "2013年4月8日",
+      "url": "cirubla.github.io/2013/04/weekly-share-46.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "2278987175447006626",
+      "title": "为啥俺要写这个博客——动机的自我分析",
+      "year": "2013",
+      "date": "2013年4月7日",
+      "url": "cirubla.github.io/2013/04/why-write-blog.html",
+      "commentCount": 120
+    },
+    {
+      "postID": "9175881445311369459",
+      "title": "回顾六四系列[23]：赵紫阳在五四期间的两次讲话",
+      "year": "2013",
+      "date": "2013年4月4日",
+      "url": "cirubla.github.io/2013/04/june-fourth-incident-23.html",
+      "commentCount": 45
+    },
+    {
+      "postID": "1319279533183140135",
+      "title": "每周转载：关于权贵资本主义（网文5篇）",
+      "year": "2013",
+      "date": "2013年3月31日",
+      "url": "cirubla.github.io/2013/03/weekly-share-45.html",
+      "commentCount": 51
+    },
+    {
+      "postID": "6669656547088003061",
+      "title": "曝光天朝权贵——【太子党关系网络】2.0 版本发布",
+      "year": "2013",
+      "date": "2013年3月27日",
+      "url": "cirubla.github.io/2013/03/princelings.html",
+      "commentCount": 222
+    },
+    {
+      "postID": "6830521516078399140",
+      "title": "如何挖掘网络资源[3]：解答 Google 搜索的常见问题（FAQs）",
+      "year": "2013",
+      "date": "2013年3月22日",
+      "url": "cirubla.github.io/2013/03/internet-resource-discovery-3.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "4289454751397596135",
+      "title": "每周转载：Google Reader 之死",
+      "year": "2013",
+      "date": "2013年3月19日",
+      "url": "cirubla.github.io/2013/03/weekly-share-44.html",
+      "commentCount": 44
+    },
+    {
+      "postID": "6202278084877257371",
+      "title": "分享政治类电子书（26本）",
+      "year": "2013",
+      "date": "2013年3月17日",
+      "url": "cirubla.github.io/2013/03/share-polity-books.html",
+      "commentCount": 46
+    },
+    {
+      "postID": "5515397093909245481",
+      "title": "Google Reader 之死——原因分析、应对措施、教训",
+      "year": "2013",
+      "date": "2013年3月15日",
+      "url": "cirubla.github.io/2013/03/google-reader-dead.html",
+      "commentCount": 128
+    },
+    {
+      "postID": "4319522677511378299",
+      "title": "如何挖掘网络资源[2]：Google 搜索的基本语法",
+      "year": "2013",
+      "date": "2013年3月14日",
+      "url": "cirubla.github.io/2013/03/internet-resource-discovery-2.html",
+      "commentCount": 74
+    },
+    {
+      "postID": "2155324555963292506",
+      "title": "每周转载：关于学雷锋（网文4篇，评论若干）",
+      "year": "2013",
+      "date": "2013年3月11日",
+      "url": "cirubla.github.io/2013/03/weekly-share-43.html",
+      "commentCount": 46
+    },
+    {
+      "postID": "6464865148776174133",
+      "title": "如何挖掘网络资源[1]：网站的类型和使用场景",
+      "year": "2013",
+      "date": "2013年3月9日",
+      "url": "cirubla.github.io/2013/03/internet-resource-discovery-1.html",
+      "commentCount": 42
+    },
+    {
+      "postID": "8846673408520043174",
+      "title": "如何挖掘网络资源[0]：为啥要写这个话题？",
+      "year": "2013",
+      "date": "2013年3月8日",
+      "url": "cirubla.github.io/2013/03/internet-resource-discovery-0.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "7445876514455080632",
+      "title": "每周转载：帮你分析天朝的房地产市场",
+      "year": "2013",
+      "date": "2013年3月4日",
+      "url": "cirubla.github.io/2013/03/weekly-share-42.html",
+      "commentCount": 93
+    },
+    {
+      "postID": "1495748144550725289",
+      "title": "八卦一下天朝党政军的情报机构",
+      "year": "2013",
+      "date": "2013年2月28日",
+      "url": "cirubla.github.io/2013/02/chinese-intelligence-agencies.html",
+      "commentCount": 94
+    },
+    {
+      "postID": "1736012276496992358",
+      "title": "每周转载：天朝【御用骇客】是如何暴露的？",
+      "year": "2013",
+      "date": "2013年2月25日",
+      "url": "cirubla.github.io/2013/02/weekly-share-41.html",
+      "commentCount": 147
+    },
+    {
+      "postID": "8013463250830849786",
+      "title": "影评：《苏维埃往事》——帮你看清苏联和纳粹的共同本质",
+      "year": "2013",
+      "date": "2013年2月22日",
+      "url": "cirubla.github.io/2013/02/film-soviet-story.html",
+      "commentCount": 182
+    },
+    {
+      "postID": "2509875061118678847",
+      "title": "每周转载：关于朝鲜核试验（网文7篇，评论若干）",
+      "year": "2013",
+      "date": "2013年2月18日",
+      "url": "cirubla.github.io/2013/02/weekly-share-40.html",
+      "commentCount": 102
+    },
+    {
+      "postID": "6378761680644652427",
+      "title": "为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库",
+      "year": "2013",
+      "date": "2013年2月16日",
+      "url": "cirubla.github.io/2013/02/why-choose-python-5-tools.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "864434823129709398",
+      "title": "扫盲文件完整性校验——关于散列值和数字签名",
+      "year": "2013",
+      "date": "2013年2月12日",
+      "url": "cirubla.github.io/2013/02/file-integrity-check.html",
+      "commentCount": 94
+    },
+    {
+      "postID": "1311623098568629964",
+      "title": "分享历史类电子书（9本）——增加“历史”大类",
+      "year": "2013",
+      "date": "2013年2月7日",
+      "url": "cirubla.github.io/2013/02/share-history-books.html",
+      "commentCount": 37
+    },
+    {
+      "postID": "2742337243958941373",
+      "title": "每周转载：关于 GitHub 和 GFW 的 PK（第1季）",
+      "year": "2013",
+      "date": "2013年2月4日",
+      "url": "cirubla.github.io/2013/02/weekly-share-39.html",
+      "commentCount": 87
+    },
+    {
+      "postID": "2322414227602119732",
+      "title": "回顾六四系列[22]：废帝赵紫阳其人",
+      "year": "2013",
+      "date": "2013年1月31日",
+      "url": "cirubla.github.io/2013/01/june-fourth-incident-22.html",
+      "commentCount": 63
+    },
+    {
+      "postID": "5611622831347766217",
+      "title": "每周转载：关于权力和笼子（网文5篇）",
+      "year": "2013",
+      "date": "2013年1月26日",
+      "url": "cirubla.github.io/2013/01/weekly-share-38.html",
+      "commentCount": 39
+    },
+    {
+      "postID": "886551873384763161",
+      "title": "多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法",
+      "year": "2013",
+      "date": "2013年1月24日",
+      "url": "cirubla.github.io/2013/01/cross-host-use-gfw-tool.html",
+      "commentCount": 320
+    },
+    {
+      "postID": "5766481470186469970",
+      "title": "每周转载：关于黑客文化和黑客精神",
+      "year": "2013",
+      "date": "2013年1月22日",
+      "url": "cirubla.github.io/2013/01/weekly-share-37.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "6269191994503531500",
+      "title": "分享政治类电子书（22本）",
+      "year": "2013",
+      "date": "2013年1月18日",
+      "url": "cirubla.github.io/2013/01/share-polity-books.html",
+      "commentCount": 37
+    },
+    {
+      "postID": "8233743808106859262",
+      "title": "开博四周年总结，博文分类汇总",
+      "year": "2013",
+      "date": "2013年1月15日",
+      "url": "cirubla.github.io/2013/01/four-years-blogging.html",
+      "commentCount": 121
+    },
+    {
+      "postID": "8894310593369937745",
+      "title": "每周转载：关于《南方周末》新年特刊事件（网文5篇，照片若干，评论若干）",
+      "year": "2013",
+      "date": "2013年1月14日",
+      "url": "cirubla.github.io/2013/01/weekly-share-36.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "8475155824435226339",
+      "title": "2013年1月翻墙快报",
+      "year": "2013",
+      "date": "2013年1月11日",
+      "url": "cirubla.github.io/2013/01/gfw-news.html",
+      "commentCount": 60
+    },
+    {
+      "postID": "7960250936747729509",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[7]：用虚拟机隐匿公网 IP（配置图解）",
+      "year": "2013",
+      "date": "2013年1月8日",
+      "url": "cirubla.github.io/2013/01/howto-cover-your-tracks-7.html",
+      "commentCount": 459
+    },
+    {
+      "postID": "5965709775905909723",
+      "title": "每周转载：关于真理部的几篇旧文（网文5篇）",
+      "year": "2013",
+      "date": "2013年1月6日",
+      "url": "cirubla.github.io/2013/01/weekly-share-35.html",
+      "commentCount": 22
+    },
+    {
+      "postID": "5207253548008024132",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[6]：用虚拟机隐匿公网 IP（原理介绍）",
+      "year": "2013",
+      "date": "2013年1月3日",
+      "url": "cirubla.github.io/2013/01/howto-cover-your-tracks-6.html",
+      "commentCount": 217
+    },
+    {
+      "postID": "8317050087058005569",
+      "title": "每周转载：关于天朝的【网络实名制】（网文5篇，评论若干）",
+      "year": "2012",
+      "date": "2012年12月30日",
+      "url": "cirubla.github.io/2012/12/weekly-share-34.html",
+      "commentCount": 68
+    },
+    {
+      "postID": "263306465683369177",
+      "title": "分享心理学电子书（8本）——增加“心理学”大类",
+      "year": "2012",
+      "date": "2012年12月29日",
+      "url": "cirubla.github.io/2012/12/share-psychology-books.html",
+      "commentCount": 52
+    },
+    {
+      "postID": "6258293379445918926",
+      "title": "俺的招聘经验[5]：面试前的准备工作",
+      "year": "2012",
+      "date": "2012年12月27日",
+      "url": "cirubla.github.io/2012/12/hiring-experience-5.html",
+      "commentCount": 39
+    },
+    {
+      "postID": "5855635915299632814",
+      "title": "每周转载：关于《编译局言情录》的电子书、网文、网友评论",
+      "year": "2012",
+      "date": "2012年12月25日",
+      "url": "cirubla.github.io/2012/12/weekly-share-33.html",
+      "commentCount": 52
+    },
+    {
+      "postID": "6359334597189230326",
+      "title": "扫盲操作系统虚拟机[5]：虚拟系统的配置（多图）",
+      "year": "2012",
+      "date": "2012年12月22日",
+      "url": "cirubla.github.io/2012/12/system-vm-5.html",
+      "commentCount": 81
+    },
+    {
+      "postID": "4321700976033502594",
+      "title": "国际电信世界大会以失败告终——互联网躲过一劫",
+      "year": "2012",
+      "date": "2012年12月19日",
+      "url": "cirubla.github.io/2012/12/wcit-12.html",
+      "commentCount": 90
+    },
+    {
+      "postID": "7309731107236851468",
+      "title": "每周转载：关于莫言的争议（网文4篇）",
+      "year": "2012",
+      "date": "2012年12月17日",
+      "url": "cirubla.github.io/2012/12/weekly-share-32.html",
+      "commentCount": 15
+    },
+    {
+      "postID": "1046465495666782705",
+      "title": "天朝民众的心理分析：圣君情结",
+      "year": "2012",
+      "date": "2012年12月16日",
+      "url": "cirubla.github.io/2012/12/emperor-complex.html",
+      "commentCount": 101
+    },
+    {
+      "postID": "2058388346983418820",
+      "title": "分享政治类电子书（19本）——“电子书清单”增加树状导航目录",
+      "year": "2012",
+      "date": "2012年12月11日",
+      "url": "cirubla.github.io/2012/12/share-polity-books.html",
+      "commentCount": 27
+    },
+    {
+      "postID": "7946744708765546083",
+      "title": "每周转载：关于西藏日益频繁的自焚事件（网文5篇）",
+      "year": "2012",
+      "date": "2012年12月10日",
+      "url": "cirubla.github.io/2012/12/weekly-share-31.html",
+      "commentCount": 72
+    },
+    {
+      "postID": "6480968132358398554",
+      "title": "五毛谬论点评——“每个国家都有审查制度”",
+      "year": "2012",
+      "date": "2012年12月7日",
+      "url": "cirubla.github.io/2012/12/censorship-in-china.html",
+      "commentCount": 119
+    },
+    {
+      "postID": "4925978213247402295",
+      "title": "行动起来，为了自由和开放的互联网",
+      "year": "2012",
+      "date": "2012年12月4日",
+      "url": "cirubla.github.io/2012/12/take-action-for-free-and-open-web.html",
+      "commentCount": 74
+    },
+    {
+      "postID": "2704948640969790443",
+      "title": "扫盲操作系统虚拟机[4]：虚拟系统的安装（多图）",
+      "year": "2012",
+      "date": "2012年12月2日",
+      "url": "cirubla.github.io/2012/12/system-vm-4.html",
+      "commentCount": 86
+    },
+    {
+      "postID": "4310602610879198166",
+      "title": "扫盲操作系统虚拟机[3]：虚拟机软件的选择",
+      "year": "2012",
+      "date": "2012年11月30日",
+      "url": "cirubla.github.io/2012/11/system-vm-3.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "104359562485365553",
+      "title": "每周转载：关于雷政富（网文4篇，评论若干，图片若干）",
+      "year": "2012",
+      "date": "2012年11月27日",
+      "url": "cirubla.github.io/2012/11/weekly-share-30.html",
+      "commentCount": 29
+    },
+    {
+      "postID": "968770302213434848",
+      "title": "两个寓言折射天朝政治现状",
+      "year": "2012",
+      "date": "2012年11月21日",
+      "url": "cirubla.github.io/2012/11/political-fable.html",
+      "commentCount": 88
+    },
+    {
+      "postID": "8808473802210663788",
+      "title": "每周转载：关于十八大之后的天朝政局（网文3篇）",
+      "year": "2012",
+      "date": "2012年11月19日",
+      "url": "cirubla.github.io/2012/11/weekly-share-29.html",
+      "commentCount": 30
+    },
+    {
+      "postID": "2825423227624622226",
+      "title": "分享政治类电子书（10本）",
+      "year": "2012",
+      "date": "2012年11月17日",
+      "url": "cirubla.github.io/2012/11/share-polity-books.html",
+      "commentCount": 38
+    },
+    {
+      "postID": "7658425569998025625",
+      "title": "2012年11月翻墙快报（用I2P突破18大期间的封锁）",
+      "year": "2012",
+      "date": "2012年11月16日",
+      "url": "cirubla.github.io/2012/11/gfw-news.html",
+      "commentCount": 132
+    },
+    {
+      "postID": "4891199656976799881",
+      "title": "扫盲操作系统虚拟机[2]：介绍各种应用场景",
+      "year": "2012",
+      "date": "2012年11月8日",
+      "url": "cirubla.github.io/2012/11/system-vm-2.html",
+      "commentCount": 124
+    },
+    {
+      "postID": "4545859752078496076",
+      "title": "每周转载：“伟光正”的十八大（评论若干，照片多张）",
+      "year": "2012",
+      "date": "2012年11月5日",
+      "url": "cirubla.github.io/2012/11/weekly-share-28.html",
+      "commentCount": 67
+    },
+    {
+      "postID": "8793278964644746367",
+      "title": "关于【太子党关系网络】的常见问题解答",
+      "year": "2012",
+      "date": "2012年11月3日",
+      "url": "cirubla.github.io/2012/11/princelings-faq.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "4453655768693738283",
+      "title": "曝光天朝权贵——【太子党关系网络】1.0 版本发布",
+      "year": "2012",
+      "date": "2012年11月2日",
+      "url": "cirubla.github.io/2012/11/princelings.html",
+      "commentCount": 152
+    },
+    {
+      "postID": "820657691737025989",
+      "title": "每周转载：关于宁波镇海的环保抗议（评论若干，照片多张）",
+      "year": "2012",
+      "date": "2012年10月29日",
+      "url": "cirubla.github.io/2012/10/weekly-share-27.html",
+      "commentCount": 29
+    },
+    {
+      "postID": "1762269575391926408",
+      "title": "扫盲操作系统虚拟机[1]：基本概念和功能简介",
+      "year": "2012",
+      "date": "2012年10月27日",
+      "url": "cirubla.github.io/2012/10/system-vm-1.html",
+      "commentCount": 81
+    },
+    {
+      "postID": "2062272897586697070",
+      "title": "扫盲操作系统虚拟机[0]：概述",
+      "year": "2012",
+      "date": "2012年10月27日",
+      "url": "cirubla.github.io/2012/10/system-vm-0.html",
+      "commentCount": 85
+    },
+    {
+      "postID": "1810206475581925455",
+      "title": "每周转载：关于西哈努克的幸福生活（网文3篇）",
+      "year": "2012",
+      "date": "2012年10月22日",
+      "url": "cirubla.github.io/2012/10/weekly-share-26.html",
+      "commentCount": 68
+    },
+    {
+      "postID": "1699419943242089543",
+      "title": "最“纯正”的共产主义政权——红色高棉简史",
+      "year": "2012",
+      "date": "2012年10月21日",
+      "url": "cirubla.github.io/2012/10/history-of-red-khmers.html",
+      "commentCount": 180
+    },
+    {
+      "postID": "6762015183463766732",
+      "title": "如何防止黑客入侵[7]：Web相关的防范（下）",
+      "year": "2012",
+      "date": "2012年10月17日",
+      "url": "cirubla.github.io/2012/10/howto-prevent-hacker-attack-7.html",
+      "commentCount": 125
+    },
+    {
+      "postID": "654343016662785715",
+      "title": "每周转载：网友热议莫言获诺贝尔文学奖",
+      "year": "2012",
+      "date": "2012年10月14日",
+      "url": "cirubla.github.io/2012/10/weekly-share-25.html",
+      "commentCount": 36
+    },
+    {
+      "postID": "1471150368140611128",
+      "title": "回顾六四系列[21]：反思学运初期暴露出的问题",
+      "year": "2012",
+      "date": "2012年10月12日",
+      "url": "cirubla.github.io/2012/10/june-fourth-incident-21.html",
+      "commentCount": 59
+    },
+    {
+      "postID": "5848439168265802632",
+      "title": "每周转载：关于天朝富豪的移民现象（网文5篇）",
+      "year": "2012",
+      "date": "2012年10月8日",
+      "url": "cirubla.github.io/2012/10/weekly-share-24.html",
+      "commentCount": 47
+    },
+    {
+      "postID": "3007953837129437435",
+      "title": "分享政治类电子书（15本）",
+      "year": "2012",
+      "date": "2012年10月6日",
+      "url": "cirubla.github.io/2012/10/share-polity-books.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "5774642905906836462",
+      "title": "每周转载：网友热议薄熙来被双开",
+      "year": "2012",
+      "date": "2012年10月2日",
+      "url": "cirubla.github.io/2012/10/weekly-share-23.html",
+      "commentCount": 37
+    },
+    {
+      "postID": "2112947110837796682",
+      "title": "八卦一下薄熙来的净身出户——好戏还没完",
+      "year": "2012",
+      "date": "2012年9月30日",
+      "url": "cirubla.github.io/2012/09/bo-xilai-expelled-from-ccp.html",
+      "commentCount": 63
+    },
+    {
+      "postID": "2190568491576614342",
+      "title": "八卦一下王立军的官方定性",
+      "year": "2012",
+      "date": "2012年9月26日",
+      "url": "cirubla.github.io/2012/09/sentencing-of-wang-lijun.html",
+      "commentCount": 63
+    },
+    {
+      "postID": "6498663877938321920",
+      "title": "每周转载：关于朝廷对爱国主义的忽悠（网文5篇）",
+      "year": "2012",
+      "date": "2012年9月23日",
+      "url": "cirubla.github.io/2012/09/weekly-share-22.html",
+      "commentCount": 50
+    },
+    {
+      "postID": "7984218008545744100",
+      "title": "2012年9月翻墙快报（兼谈复活 TOR 的方法）",
+      "year": "2012",
+      "date": "2012年9月20日",
+      "url": "cirubla.github.io/2012/09/gfw-news.html",
+      "commentCount": 141
+    },
+    {
+      "postID": "2044232179200621425",
+      "title": "每周转载：关于反日愤青的暴行（评论若干，照片多张）",
+      "year": "2012",
+      "date": "2012年9月17日",
+      "url": "cirubla.github.io/2012/09/weekly-share-21.html",
+      "commentCount": 129
+    },
+    {
+      "postID": "6977994956893312451",
+      "title": "回顾六四系列[20]：“袁木求愚”的四·二九对话",
+      "year": "2012",
+      "date": "2012年9月15日",
+      "url": "cirubla.github.io/2012/09/june-fourth-incident-20.html",
+      "commentCount": 83
+    },
+    {
+      "postID": "3465590485138480755",
+      "title": "每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）",
+      "year": "2012",
+      "date": "2012年9月9日",
+      "url": "cirubla.github.io/2012/09/weekly-share-20.html",
+      "commentCount": 91
+    },
+    {
+      "postID": "5167729474941440412",
+      "title": "如何防止黑客入侵[6]：Web相关的防范（中）",
+      "year": "2012",
+      "date": "2012年9月8日",
+      "url": "cirubla.github.io/2012/09/howto-prevent-hacker-attack-6.html",
+      "commentCount": 115
+    },
+    {
+      "postID": "7644948530449722072",
+      "title": "博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法",
+      "year": "2012",
+      "date": "2012年9月5日",
+      "url": "cirubla.github.io/2012/09/custom-blogger-comment.html",
+      "commentCount": 81
+    },
+    {
+      "postID": "7216925227608983844",
+      "title": "每周转载：关于保钓引发的狭隘民族主义（网文4篇）",
+      "year": "2012",
+      "date": "2012年9月2日",
+      "url": "cirubla.github.io/2012/09/weekly-share-19.html",
+      "commentCount": 40
+    },
+    {
+      "postID": "1917736003836609361",
+      "title": "如何防止黑客入侵[5]：Web相关的防范（上）",
+      "year": "2012",
+      "date": "2012年8月31日",
+      "url": "cirubla.github.io/2012/08/howto-prevent-hacker-attack-5.html",
+      "commentCount": 128
+    },
+    {
+      "postID": "4324571848250928612",
+      "title": "每周转载：关于哈尔滨桥梁垮塌事故（网文3篇，微博若干）",
+      "year": "2012",
+      "date": "2012年8月27日",
+      "url": "cirubla.github.io/2012/08/weekly-share-18.html",
+      "commentCount": 49
+    },
+    {
+      "postID": "2263087291505131273",
+      "title": "谈革命[6]：回顾“最近50年的革命史”",
+      "year": "2012",
+      "date": "2012年8月23日",
+      "url": "cirubla.github.io/2012/08/revolution-6.html",
+      "commentCount": 114
+    },
+    {
+      "postID": "6759138560982661556",
+      "title": "每周转载：关于天朝近期的宏观经济数据（网文4篇）",
+      "year": "2012",
+      "date": "2012年8月19日",
+      "url": "cirubla.github.io/2012/08/weekly-share-17.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "6034095122981705564",
+      "title": "谈革命[5]：扫盲“非暴力抗争”",
+      "year": "2012",
+      "date": "2012年8月16日",
+      "url": "cirubla.github.io/2012/08/revolution-5.html",
+      "commentCount": 54
+    },
+    {
+      "postID": "1275628213359715843",
+      "title": "每周转载：关于中国体育的举国体制（网文4篇）",
+      "year": "2012",
+      "date": "2012年8月12日",
+      "url": "cirubla.github.io/2012/08/weekly-share-16.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "5502124836670257670",
+      "title": "谈谈三年大饥荒[3]：关于“苏联逼债”的谎言",
+      "year": "2012",
+      "date": "2012年8月10日",
+      "url": "cirubla.github.io/2012/08/three-years-famine-3.html",
+      "commentCount": 59
+    },
+    {
+      "postID": "7558471760770969201",
+      "title": "每周转载：关于启东的环保抗议（照片多张、视频若干）",
+      "year": "2012",
+      "date": "2012年8月6日",
+      "url": "cirubla.github.io/2012/08/weekly-share-15.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "9112750523793113594",
+      "title": "谈谈环保问题的根源和解决之道",
+      "year": "2012",
+      "date": "2012年8月3日",
+      "url": "cirubla.github.io/2012/08/environment-pollution-in-china.html",
+      "commentCount": 171
+    },
+    {
+      "postID": "3301907172422509040",
+      "title": "会叫的孩子有奶吃——启东人民在行动，上海人民怎么办？",
+      "year": "2012",
+      "date": "2012年7月31日",
+      "url": "cirubla.github.io/2012/07/qidong-and-shanghai.html",
+      "commentCount": 100
+    },
+    {
+      "postID": "4487024408508763520",
+      "title": "每周转载：汇总北京7-21暴雨的照片和评论",
+      "year": "2012",
+      "date": "2012年7月28日",
+      "url": "cirubla.github.io/2012/07/weekly-share-14.html",
+      "commentCount": 37
+    },
+    {
+      "postID": "7465617441397318851",
+      "title": "回顾六四系列[19]：四·二七大游行",
+      "year": "2012",
+      "date": "2012年7月25日",
+      "url": "cirubla.github.io/2012/07/june-fourth-incident-19.html",
+      "commentCount": 45
+    },
+    {
+      "postID": "5831436948318427218",
+      "title": "每周转载：关于北朝鲜高层人事地震（网文4篇）",
+      "year": "2012",
+      "date": "2012年7月22日",
+      "url": "cirubla.github.io/2012/07/weekly-share-13.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "8331294920595025751",
+      "title": "回顾六四系列[18]：各界人士对“四·二六社论”的反应",
+      "year": "2012",
+      "date": "2012年7月20日",
+      "url": "cirubla.github.io/2012/07/june-fourth-incident-18.html",
+      "commentCount": 30
+    },
+    {
+      "postID": "3796014186249103397",
+      "title": "每周转载：汇总近几年天朝的雷人语录 {2013-11-05}",
+      "year": "2012",
+      "date": "2012年7月15日",
+      "url": "cirubla.github.io/2012/07/weekly-share-12.html",
+      "commentCount": 134
+    },
+    {
+      "postID": "432158457873129384",
+      "title": "朝廷为何落入“塔西佗陷阱”——天津火灾随想",
+      "year": "2012",
+      "date": "2012年7月13日",
+      "url": "cirubla.github.io/2012/07/tacitus-trap.html",
+      "commentCount": 133
+    },
+    {
+      "postID": "5483960549380610982",
+      "title": "2012年7月翻墙快报",
+      "year": "2012",
+      "date": "2012年7月12日",
+      "url": "cirubla.github.io/2012/07/gfw-news.html",
+      "commentCount": 35
+    },
+    {
+      "postID": "8328182638892327098",
+      "title": "每周转载：关于什邡的环保抗议（网文3篇、照片若干、视频若干）",
+      "year": "2012",
+      "date": "2012年7月8日",
+      "url": "cirubla.github.io/2012/07/weekly-share-11.html",
+      "commentCount": 45
+    },
+    {
+      "postID": "5017379385306630686",
+      "title": "聊聊天朝的政治体制",
+      "year": "2012",
+      "date": "2012年7月5日",
+      "url": "cirubla.github.io/2012/07/form-of-government-in-china.html",
+      "commentCount": 129
+    },
+    {
+      "postID": "8656060826985573798",
+      "title": "政治常识扫盲：聊聊常见的政治体制",
+      "year": "2012",
+      "date": "2012年7月5日",
+      "url": "cirubla.github.io/2012/07/form-of-government.html",
+      "commentCount": 38
+    },
+    {
+      "postID": "6808619434628633043",
+      "title": "每周转载：关于人工智能对人类的影响（网文3篇）",
+      "year": "2012",
+      "date": "2012年7月1日",
+      "url": "cirubla.github.io/2012/07/weekly-share-10.html",
+      "commentCount": 66
+    },
+    {
+      "postID": "5710583568078384982",
+      "title": "书评：《少有人走的路——心智成熟的旅程》",
+      "year": "2012",
+      "date": "2012年6月29日",
+      "url": "cirubla.github.io/2012/06/book-review-road-less-traveled.html",
+      "commentCount": 49
+    },
+    {
+      "postID": "2138799300657798116",
+      "title": "每周转载：关于社保和养老（网文6篇）",
+      "year": "2012",
+      "date": "2012年6月24日",
+      "url": "cirubla.github.io/2012/06/weekly-share-9.html",
+      "commentCount": 36
+    },
+    {
+      "postID": "3966950627352487515",
+      "title": "回顾六四系列[17]：“四·二六社论”出笼的经过",
+      "year": "2012",
+      "date": "2012年6月21日",
+      "url": "cirubla.github.io/2012/06/june-fourth-incident-17.html",
+      "commentCount": 38
+    },
+    {
+      "postID": "3649058098930178793",
+      "title": "每周转载：关于辩证法（网文3篇）",
+      "year": "2012",
+      "date": "2012年6月17日",
+      "url": "cirubla.github.io/2012/06/weekly-share-8.html",
+      "commentCount": 58
+    },
+    {
+      "postID": "7283966968335405547",
+      "title": "“如何翻墙”系列：简单扫盲 I2P 的使用",
+      "year": "2012",
+      "date": "2012年6月15日",
+      "url": "cirubla.github.io/2012/06/gfw-i2p.html",
+      "commentCount": 225
+    },
+    {
+      "postID": "3417038649933691786",
+      "title": "每周转载：高考背后的“公平问题、人口问题、腐败问题”（网文3篇）",
+      "year": "2012",
+      "date": "2012年6月10日",
+      "url": "cirubla.github.io/2012/06/weekly-share-7.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "454309914865938762",
+      "title": "天朝民众的心理分析：斯德哥尔摩综合症",
+      "year": "2012",
+      "date": "2012年6月6日",
+      "url": "cirubla.github.io/2012/06/stockholm-syndrome.html",
+      "commentCount": 234
+    },
+    {
+      "postID": "4770631295484244006",
+      "title": "每周转载：“六四事件”23周年纪念（网文4篇）",
+      "year": "2012",
+      "date": "2012年6月3日",
+      "url": "cirubla.github.io/2012/06/weekly-share-6.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "6935213488566283830",
+      "title": "谈革命[4]：为啥改良【不】可行？",
+      "year": "2012",
+      "date": "2012年5月30日",
+      "url": "cirubla.github.io/2012/05/revolution-4.html",
+      "commentCount": 83
+    },
+    {
+      "postID": "4008066832120004892",
+      "title": "每周转载：IT 大牛谈编程语言（网文3篇）",
+      "year": "2012",
+      "date": "2012年5月27日",
+      "url": "cirubla.github.io/2012/05/weekly-share-5.html",
+      "commentCount": 41
+    },
+    {
+      "postID": "1492342896407217137",
+      "title": "分享关于“六四”的电子书（6本）",
+      "year": "2012",
+      "date": "2012年5月25日",
+      "url": "cirubla.github.io/2012/05/share-polity-books.html",
+      "commentCount": 22
+    },
+    {
+      "postID": "1685734579817523692",
+      "title": "每周转载：关于北朝鲜（网文5篇）",
+      "year": "2012",
+      "date": "2012年5月20日",
+      "url": "cirubla.github.io/2012/05/weekly-share-4.html",
+      "commentCount": 34
+    },
+    {
+      "postID": "2423107457130521838",
+      "title": "回顾六四系列[16]：“四·二六社论”的民间背景",
+      "year": "2012",
+      "date": "2012年5月17日",
+      "url": "cirubla.github.io/2012/05/june-fourth-incident-16.html",
+      "commentCount": 41
+    },
+    {
+      "postID": "2506528868584194114",
+      "title": "每周转载：关于天朝的政治改革（网文4篇）",
+      "year": "2012",
+      "date": "2012年5月13日",
+      "url": "cirubla.github.io/2012/05/weekly-share-3.html",
+      "commentCount": 39
+    },
+    {
+      "postID": "6054050050816554616",
+      "title": "谈谈三年大饥荒[2]：关于死亡人数的谎言",
+      "year": "2012",
+      "date": "2012年5月10日",
+      "url": "cirubla.github.io/2012/05/three-years-famine-2.html",
+      "commentCount": 55
+    },
+    {
+      "postID": "5549353397427757807",
+      "title": "每周转载：关于三年大饥荒（网文3篇）",
+      "year": "2012",
+      "date": "2012年5月6日",
+      "url": "cirubla.github.io/2012/05/weekly-share-2.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "6139936499472975495",
+      "title": "谈谈三年大饥荒[1]：扫盲一下大饥荒的死亡人数",
+      "year": "2012",
+      "date": "2012年5月4日",
+      "url": "cirubla.github.io/2012/05/three-years-famine-1.html",
+      "commentCount": 102
+    },
+    {
+      "postID": "4529533217944134752",
+      "title": "谈谈三年大饥荒[0]：为啥要写这个话题？",
+      "year": "2012",
+      "date": "2012年5月4日",
+      "url": "cirubla.github.io/2012/05/three-years-famine-0.html",
+      "commentCount": 109
+    },
+    {
+      "postID": "3943140197928109141",
+      "title": "每周转载：看看当年的共产党是如何唱高调的（网文4篇）",
+      "year": "2012",
+      "date": "2012年4月30日",
+      "url": "cirubla.github.io/2012/04/weekly-share-1.html",
+      "commentCount": 77
+    },
+    {
+      "postID": "5601642020249066463",
+      "title": "谈革命[3]：政治变革需要哪些素质？",
+      "year": "2012",
+      "date": "2012年4月25日",
+      "url": "cirubla.github.io/2012/04/revolution-3.html",
+      "commentCount": 110
+    },
+    {
+      "postID": "7707231472940840449",
+      "title": "每周转载：关于人生（网文3篇）",
+      "year": "2012",
+      "date": "2012年4月22日",
+      "url": "cirubla.github.io/2012/04/weekly-share-0.html",
+      "commentCount": 27
+    },
+    {
+      "postID": "5091451153711868482",
+      "title": "回顾六四系列[15]：《世界经济导报》事件",
+      "year": "2012",
+      "date": "2012年4月19日",
+      "url": "cirubla.github.io/2012/04/june-fourth-incident-15.html",
+      "commentCount": 50
+    },
+    {
+      "postID": "1972370044768324767",
+      "title": "2012年4月翻墙快报",
+      "year": "2012",
+      "date": "2012年4月17日",
+      "url": "cirubla.github.io/2012/04/gfw-news.html",
+      "commentCount": 47
+    },
+    {
+      "postID": "2587298767006567995",
+      "title": "俺的 Google+ 复活，打算派上新用途",
+      "year": "2012",
+      "date": "2012年4月14日",
+      "url": "cirubla.github.io/2012/04/my-google-plus.html",
+      "commentCount": 25
+    },
+    {
+      "postID": "7979042852908336138",
+      "title": "八卦一下薄熙来被立案调查的官方报道和小道消息",
+      "year": "2012",
+      "date": "2012年4月12日",
+      "url": "cirubla.github.io/2012/04/bo-xilai-purged-from-party-posts.html",
+      "commentCount": 91
+    },
+    {
+      "postID": "4188143299726006404",
+      "title": "方校长和方校长",
+      "year": "2012",
+      "date": "2012年4月8日",
+      "url": "cirubla.github.io/2012/04/fang-lizhi-and-fang-binxing.html",
+      "commentCount": 97
+    },
+    {
+      "postID": "8204630715952508578",
+      "title": "分享政治类电子书（16本）",
+      "year": "2012",
+      "date": "2012年4月6日",
+      "url": "cirubla.github.io/2012/04/share-polity-books.html",
+      "commentCount": 60
+    },
+    {
+      "postID": "4729116618318467050",
+      "title": "看看全国人大代表都是啥货色——兼谈“议会道路的改良”行不通",
+      "year": "2012",
+      "date": "2012年3月31日",
+      "url": "cirubla.github.io/2012/03/national-people-congress.html",
+      "commentCount": 165
+    },
+    {
+      "postID": "8908709463368564893",
+      "title": "回顾六四系列[14]：4月22日，胡耀邦的两场追悼会",
+      "year": "2012",
+      "date": "2012年3月26日",
+      "url": "cirubla.github.io/2012/03/june-fourth-incident-14.html",
+      "commentCount": 57
+    },
+    {
+      "postID": "2713464044922488905",
+      "title": "八卦一下薄熙来去职的官方报道和小道消息",
+      "year": "2012",
+      "date": "2012年3月18日",
+      "url": "cirubla.github.io/2012/03/bo-xilai-removed-chongqing-party-post.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "4557300183924461169",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP",
+      "year": "2012",
+      "date": "2012年3月13日",
+      "url": "cirubla.github.io/2012/03/howto-cover-your-tracks-5.html",
+      "commentCount": 416
+    },
+    {
+      "postID": "4716960756522238062",
+      "title": "用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲",
+      "year": "2012",
+      "date": "2012年3月7日",
+      "url": "cirubla.github.io/2012/03/think-what-how-why.html",
+      "commentCount": 53
+    },
+    {
+      "postID": "708014257693194530",
+      "title": "为啥俺不常用微博？——兼谈时间管理心得",
+      "year": "2012",
+      "date": "2012年2月28日",
+      "url": "cirubla.github.io/2012/02/microblog-and-time-management.html",
+      "commentCount": 68
+    },
+    {
+      "postID": "976716710746739887",
+      "title": "回顾六四系列[13]：4月19、20日，新华门事件",
+      "year": "2012",
+      "date": "2012年2月21日",
+      "url": "cirubla.github.io/2012/02/june-fourth-incident-13.html",
+      "commentCount": 35
+    },
+    {
+      "postID": "9005095092552427877",
+      "title": "2012年2月翻墙快报",
+      "year": "2012",
+      "date": "2012年2月13日",
+      "url": "cirubla.github.io/2012/02/gfw-news.html",
+      "commentCount": 42
+    },
+    {
+      "postID": "8446226985525393452",
+      "title": "八卦一下王立军事件的官方报道和小道消息",
+      "year": "2012",
+      "date": "2012年2月11日",
+      "url": "cirubla.github.io/2012/02/wang-lijun-incident.html",
+      "commentCount": 48
+    },
+    {
+      "postID": "1817933058426237822",
+      "title": "为啥俺推荐 Python[4]：作为函数式编程语言的 Python",
+      "year": "2012",
+      "date": "2012年2月7日",
+      "url": "cirubla.github.io/2012/02/why-choose-python-4-fp.html",
+      "commentCount": 35
+    },
+    {
+      "postID": "1518181271323738345",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[4]：通讯工具的防范",
+      "year": "2012",
+      "date": "2012年2月5日",
+      "url": "cirubla.github.io/2012/02/howto-cover-your-tracks-4.html",
+      "commentCount": 91
+    },
+    {
+      "postID": "9095201034119965617",
+      "title": "回顾六四系列[12]：4月18日，从悼念到请愿",
+      "year": "2012",
+      "date": "2012年1月30日",
+      "url": "cirubla.github.io/2012/01/june-fourth-incident-12.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "8400946241229525514",
+      "title": "“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”",
+      "year": "2012",
+      "date": "2012年1月26日",
+      "url": "cirubla.github.io/2012/01/stockdale-paradox.html",
+      "commentCount": 74
+    },
+    {
+      "postID": "775820056645886579",
+      "title": "谈革命[2]：先有制度还是先有素质",
+      "year": "2012",
+      "date": "2012年1月22日",
+      "url": "cirubla.github.io/2012/01/revolution-2.html",
+      "commentCount": 66
+    },
+    {
+      "postID": "6952608610464485422",
+      "title": "开博三周年总结，博文分类汇总",
+      "year": "2012",
+      "date": "2012年1月16日",
+      "url": "cirubla.github.io/2012/01/three-years-blogging.html",
+      "commentCount": 30
+    },
+    {
+      "postID": "3716638578768753179",
+      "title": "回顾2011年重大群体事件（多图）",
+      "year": "2012",
+      "date": "2012年1月13日",
+      "url": "cirubla.github.io/2012/01/2011-mass-incidents.html",
+      "commentCount": 45
+    },
+    {
+      "postID": "5893733972671459093",
+      "title": "回顾六四系列[11]：4月15日至18日，悼念活动迅速升温",
+      "year": "2012",
+      "date": "2012年1月5日",
+      "url": "cirubla.github.io/2012/01/june-fourth-incident-11.html",
+      "commentCount": 36
+    },
+    {
+      "postID": "2702402451695270683",
+      "title": "谈革命[1]：解释相关概念，澄清常见误区",
+      "year": "2011",
+      "date": "2011年12月28日",
+      "url": "cirubla.github.io/2011/12/revolution-1.html",
+      "commentCount": 142
+    },
+    {
+      "postID": "5759148980271339245",
+      "title": "谈革命[0]：为啥要写这个话题？",
+      "year": "2011",
+      "date": "2011年12月28日",
+      "url": "cirubla.github.io/2011/12/revolution-0.html",
+      "commentCount": 53
+    },
+    {
+      "postID": "6228420106846671012",
+      "title": "CSDN 及人人网的用户密码分析",
+      "year": "2011",
+      "date": "2011年12月24日",
+      "url": "cirubla.github.io/2011/12/csdn-renren-password-analysis.html",
+      "commentCount": 49
+    },
+    {
+      "postID": "796677734752127641",
+      "title": "普天同庆金二胖归西",
+      "year": "2011",
+      "date": "2011年12月20日",
+      "url": "cirubla.github.io/2011/12/kim-jong-il-joke.html",
+      "commentCount": 105
+    },
+    {
+      "postID": "6327669275807476462",
+      "title": "赛风又活过来了",
+      "year": "2011",
+      "date": "2011年12月18日",
+      "url": "cirubla.github.io/2011/12/gfw-psiphon.html",
+      "commentCount": 20
+    },
+    {
+      "postID": "6936493449270805190",
+      "title": "“如何翻墙”系列：新版本无界——赛风3失效后的另一个选择",
+      "year": "2011",
+      "date": "2011年12月12日",
+      "url": "cirubla.github.io/2011/12/gfw-wujie.html",
+      "commentCount": 44
+    },
+    {
+      "postID": "9217693834470074569",
+      "title": "如何解读朝廷要员的盖棺定论？",
+      "year": "2011",
+      "date": "2011年12月8日",
+      "url": "cirubla.github.io/2011/12/chinese-leader-death.html",
+      "commentCount": 61
+    },
+    {
+      "postID": "4745976723598992533",
+      "title": "回顾六四系列[10]：4月15日，胡废帝驾崩",
+      "year": "2011",
+      "date": "2011年12月8日",
+      "url": "cirubla.github.io/2011/12/june-fourth-incident-10.html",
+      "commentCount": 19
+    },
+    {
+      "postID": "3213675673137053542",
+      "title": "求质数算法的 N 种境界[1] - 试除法和初级筛法",
+      "year": "2011",
+      "date": "2011年12月1日",
+      "url": "cirubla.github.io/2011/12/prime-algorithm-1.html",
+      "commentCount": 72
+    },
+    {
+      "postID": "7181536563674368875",
+      "title": "俺的招聘经验[4]：通过笔试答题能看出啥？",
+      "year": "2011",
+      "date": "2011年11月29日",
+      "url": "cirubla.github.io/2011/11/hiring-experience-4.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "1301704089882758267",
+      "title": "回顾六四系列[9]：山雨欲来的1989年",
+      "year": "2011",
+      "date": "2011年11月18日",
+      "url": "cirubla.github.io/2011/11/june-fourth-incident-9.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "3522080210024899233",
+      "title": "聊聊【阴谋论】流行的原因及其弊端",
+      "year": "2011",
+      "date": "2011年11月12日",
+      "url": "cirubla.github.io/2011/11/conspiracy-theory.html",
+      "commentCount": 48
+    },
+    {
+      "postID": "8500189216145759082",
+      "title": "解读《郎咸平10月22日在沈阳的演讲》",
+      "year": "2011",
+      "date": "2011年11月10日",
+      "url": "cirubla.github.io/2011/11/lang-xianping-speech-in-shenyang.html",
+      "commentCount": 45
+    },
+    {
+      "postID": "8930935303205023292",
+      "title": "影评：《V怪客／V字仇杀队》",
+      "year": "2011",
+      "date": "2011年11月5日",
+      "url": "cirubla.github.io/2011/11/film-v-for-vendetta.html",
+      "commentCount": 51
+    },
+    {
+      "postID": "709032645234317031",
+      "title": "如何用 GreaseMonkey 扩展 Google Reader",
+      "year": "2011",
+      "date": "2011年11月2日",
+      "url": "cirubla.github.io/2011/11/greasemonkey-scripts-for-google-reader.html",
+      "commentCount": 47
+    },
+    {
+      "postID": "1918748907457549451",
+      "title": "“如何翻墙”系列：双管齐下的赛风3",
+      "year": "2011",
+      "date": "2011年10月25日",
+      "url": "cirubla.github.io/2011/10/gfw-psiphon.html",
+      "commentCount": 99
+    },
+    {
+      "postID": "947457901010084130",
+      "title": "回顾六四系列[8]：“十三大”重新排座次",
+      "year": "2011",
+      "date": "2011年10月17日",
+      "url": "cirubla.github.io/2011/10/june-fourth-incident-8.html",
+      "commentCount": 42
+    },
+    {
+      "postID": "2947633291738784446",
+      "title": "回顾六四系列[7]：胡耀邦被废的经过",
+      "year": "2011",
+      "date": "2011年10月8日",
+      "url": "cirubla.github.io/2011/10/june-fourth-incident-7.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "8120441063842135353",
+      "title": "“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例",
+      "year": "2011",
+      "date": "2011年9月30日",
+      "url": "cirubla.github.io/2011/09/gfw-vpn-hotspot-shield.html",
+      "commentCount": 40
+    },
+    {
+      "postID": "4308196790329584027",
+      "title": "常见翻墙问题答疑 {2012-02-13}",
+      "year": "2011",
+      "date": "2011年9月22日",
+      "url": "cirubla.github.io/2011/09/gfw-faq.html",
+      "commentCount": 70
+    },
+    {
+      "postID": "8168087949951776457",
+      "title": "闲聊中美文化差异——9·11十周年随想",
+      "year": "2011",
+      "date": "2011年9月17日",
+      "url": "cirubla.github.io/2011/09/usa-vs-china.html",
+      "commentCount": 35
+    },
+    {
+      "postID": "4140346503595987999",
+      "title": "回顾六四系列[6]：“八六学潮”始末",
+      "year": "2011",
+      "date": "2011年9月7日",
+      "url": "cirubla.github.io/2011/09/june-fourth-incident-6.html",
+      "commentCount": 78
+    },
+    {
+      "postID": "8870047687302418755",
+      "title": "看看真理部对利比亚革命的忽悠",
+      "year": "2011",
+      "date": "2011年8月29日",
+      "url": "cirubla.github.io/2011/08/libyan-civil-war.html",
+      "commentCount": 23
+    },
+    {
+      "postID": "181125302983157286",
+      "title": "Google  收购摩托罗拉移动，仅仅是为了专利吗？",
+      "year": "2011",
+      "date": "2011年8月17日",
+      "url": "cirubla.github.io/2011/08/google-acquire-motorola.html",
+      "commentCount": 17
+    },
+    {
+      "postID": "8576816121140867274",
+      "title": "开源点评：ZeroMQ 简介",
+      "year": "2011",
+      "date": "2011年8月14日",
+      "url": "cirubla.github.io/2011/08/opensource-review-zeromq.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "3522779755530909998",
+      "title": "回顾六四系列[5]：胡废帝是如何失宠的？",
+      "year": "2011",
+      "date": "2011年8月6日",
+      "url": "cirubla.github.io/2011/08/june-fourth-incident-5.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "5138846948496279674",
+      "title": "7·23动车追尾事件一周回顾（网友评论及照片）",
+      "year": "2011",
+      "date": "2011年7月30日",
+      "url": "cirubla.github.io/2011/07/723-week-review.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "8303751510525559782",
+      "title": "天朝的人命不值钱——动车追尾事故有感",
+      "year": "2011",
+      "date": "2011年7月27日",
+      "url": "cirubla.github.io/2011/07/wenzhou-train-collision.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "3718178319365284173",
+      "title": "回顾六四系列[4]：废帝胡耀邦其人",
+      "year": "2011",
+      "date": "2011年7月13日",
+      "url": "cirubla.github.io/2011/07/june-fourth-incident-4.html",
+      "commentCount": 43
+    },
+    {
+      "postID": "6043189899759355412",
+      "title": "回顾六四系列[3]：太上皇邓小平的政治路线",
+      "year": "2011",
+      "date": "2011年7月5日",
+      "url": "cirubla.github.io/2011/07/june-fourth-incident-3.html",
+      "commentCount": 30
+    },
+    {
+      "postID": "7961287777895865358",
+      "title": "聊聊政客的人品",
+      "year": "2011",
+      "date": "2011年6月29日",
+      "url": "cirubla.github.io/2011/06/politician-integrity.html",
+      "commentCount": 35
+    },
+    {
+      "postID": "841403576655969512",
+      "title": "回顾六四系列[2]：太上皇邓小平的阴暗面",
+      "year": "2011",
+      "date": "2011年6月15日",
+      "url": "cirubla.github.io/2011/06/june-fourth-incident-2.html",
+      "commentCount": 64
+    },
+    {
+      "postID": "9201863761402182439",
+      "title": "回顾六四系列[1]：八十年代的朝廷",
+      "year": "2011",
+      "date": "2011年6月8日",
+      "url": "cirubla.github.io/2011/06/june-fourth-incident-1.html",
+      "commentCount": 25
+    },
+    {
+      "postID": "1548862640392540647",
+      "title": "回顾六四系列[0]：为啥要写这个话题？",
+      "year": "2011",
+      "date": "2011年6月4日",
+      "url": "cirubla.github.io/2011/06/june-fourth-incident-0.html",
+      "commentCount": 261
+    },
+    {
+      "postID": "239978863757006777",
+      "title": "用图片隐藏信息的技术实现",
+      "year": "2011",
+      "date": "2011年6月2日",
+      "url": "cirubla.github.io/2011/06/use-image-hide-information.html",
+      "commentCount": 29
+    },
+    {
+      "postID": "4048499916947292770",
+      "title": "“如何翻墙”系列：用图片传播翻墙软件",
+      "year": "2011",
+      "date": "2011年5月28日",
+      "url": "cirubla.github.io/2011/05/use-image-hide-gfw-tool.html",
+      "commentCount": 15
+    },
+    {
+      "postID": "2255762419120959972",
+      "title": "“如何翻墙”系列：基于 Skype 翻墙",
+      "year": "2011",
+      "date": "2011年5月22日",
+      "url": "cirubla.github.io/2011/05/through-gfw-with-skype.html",
+      "commentCount": 114
+    },
+    {
+      "postID": "1150528891413302714",
+      "title": "TrueCrypt——文件加密的法宝",
+      "year": "2011",
+      "date": "2011年5月18日",
+      "url": "cirubla.github.io/2011/05/recommend-truecrypt.html",
+      "commentCount": 98
+    },
+    {
+      "postID": "8566607804801212444",
+      "title": "文件加密的扫盲介绍",
+      "year": "2011",
+      "date": "2011年5月14日",
+      "url": "cirubla.github.io/2011/05/file-encryption-overview.html",
+      "commentCount": 34
+    },
+    {
+      "postID": "1453274792715918278",
+      "title": "关于本·拉登的几个误区",
+      "year": "2011",
+      "date": "2011年5月8日",
+      "url": "cirubla.github.io/2011/05/usama-bin-laden.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "7990655830008051980",
+      "title": "俺的招聘经验[3]：开放性问题 vs 封闭性问题",
+      "year": "2011",
+      "date": "2011年5月2日",
+      "url": "cirubla.github.io/2011/05/hiring-experience-3.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "4441387275707184061",
+      "title": "革命尚未成功，网友仍需努力——继续围观药家鑫案",
+      "year": "2011",
+      "date": "2011年4月23日",
+      "url": "cirubla.github.io/2011/04/judgement-of-yaojiaxin.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "6613808216816700204",
+      "title": "唐骏的问题，仅仅是虚荣心那么简单吗？",
+      "year": "2011",
+      "date": "2011年4月17日",
+      "url": "cirubla.github.io/2011/04/vanity-of-tangjun.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "1008378380681030884",
+      "title": "看看网友如何评论药家鑫案",
+      "year": "2011",
+      "date": "2011年4月9日",
+      "url": "cirubla.github.io/2011/04/review-of-yaojiaxin.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "5192550098780354656",
+      "title": "法制已死，有事烧纸——清明节随想",
+      "year": "2011",
+      "date": "2011年4月6日",
+      "url": "cirubla.github.io/2011/04/law-is-dead.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "7679722274197791794",
+      "title": "俺的招聘经验[2]：考察技术 vs 考察非技术",
+      "year": "2011",
+      "date": "2011年3月29日",
+      "url": "cirubla.github.io/2011/03/hiring-experience-2.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "1720625088783216691",
+      "title": "俺的招聘经验[1]：面试 vs 笔试",
+      "year": "2011",
+      "date": "2011年3月25日",
+      "url": "cirubla.github.io/2011/03/hiring-experience-1.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "5296721757699232198",
+      "title": "俺的招聘经验[0]：概述",
+      "year": "2011",
+      "date": "2011年3月25日",
+      "url": "cirubla.github.io/2011/03/hiring-experience-0.html",
+      "commentCount": 28
+    },
+    {
+      "postID": "5523133997160616509",
+      "title": "谁是最可恨的人？——写给仇日愤青们",
+      "year": "2011",
+      "date": "2011年3月20日",
+      "url": "cirubla.github.io/2011/03/ccp-vs-japanese.html",
+      "commentCount": 214
+    },
+    {
+      "postID": "191766074137206641",
+      "title": "“如何翻墙”系列：获取翻墙软件方法大全",
+      "year": "2011",
+      "date": "2011年3月13日",
+      "url": "cirubla.github.io/2011/03/how-to-get-gfw-tools.html",
+      "commentCount": 84
+    },
+    {
+      "postID": "5082510950252482172",
+      "title": "扫盲逻辑谬误——以五毛言论为反面教材",
+      "year": "2011",
+      "date": "2011年3月8日",
+      "url": "cirubla.github.io/2011/03/logical-fallacies.html",
+      "commentCount": 142
+    },
+    {
+      "postID": "8348787005664720356",
+      "title": "参加茉莉花集会的注意事项",
+      "year": "2011",
+      "date": "2011年3月5日",
+      "url": "cirubla.github.io/2011/03/jasmine-revolution-how-to.html",
+      "commentCount": 40
+    },
+    {
+      "postID": "1853847786617935627",
+      "title": "热烈迎接茉莉花革命的第三轮散步",
+      "year": "2011",
+      "date": "2011年3月3日",
+      "url": "cirubla.github.io/2011/03/jasmine-revolution-306-notice.html",
+      "commentCount": 57
+    },
+    {
+      "postID": "9059771641042915698",
+      "title": "中国茉莉花革命——227集会多图回顾",
+      "year": "2011",
+      "date": "2011年3月2日",
+      "url": "cirubla.github.io/2011/03/jasmine-revolution-227-photo.html",
+      "commentCount": 166
+    },
+    {
+      "postID": "4441963658243277677",
+      "title": "让拆尼斯的茉莉花绽放",
+      "year": "2011",
+      "date": "2011年2月24日",
+      "url": "cirubla.github.io/2011/02/jasmine-revolution-227-notice.html",
+      "commentCount": 61
+    },
+    {
+      "postID": "4616036769091373675",
+      "title": "书评：《中国人的性格》",
+      "year": "2011",
+      "date": "2011年2月9日",
+      "url": "cirubla.github.io/2011/02/book-review-chinese-characteristics.html",
+      "commentCount": 27
+    },
+    {
+      "postID": "2393341738001876462",
+      "title": "我们还能指望什么？——钱云会事件有感",
+      "year": "2011",
+      "date": "2011年1月13日",
+      "url": "cirubla.github.io/2011/01/what-we-can-depend-on.html",
+      "commentCount": 23
+    },
+    {
+      "postID": "1333606266405679887",
+      "title": "钱云会事件",
+      "year": "2011",
+      "date": "2011年1月11日",
+      "url": "cirubla.github.io/2011/01/qian-yunhui.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "9201252571945254644",
+      "title": "如何开展灰盒测试[4]：接口测试实战——测试跨主机的模块接口",
+      "year": "2010",
+      "date": "2010年12月26日",
+      "url": "cirubla.github.io/2010/12/grey-box-testing-4.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "3138188043884478823",
+      "title": "如何开展灰盒测试[3]：模块接口类型概述",
+      "year": "2010",
+      "date": "2010年12月26日",
+      "url": "cirubla.github.io/2010/12/grey-box-testing-3.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "8122624918606431030",
+      "title": "那些对抗诺贝尔奖的政权——和平奖颁奖致辞有感",
+      "year": "2010",
+      "date": "2010年12月15日",
+      "url": "cirubla.github.io/2010/12/anti-nobel-prize-history.html",
+      "commentCount": 13
+    },
+    {
+      "postID": "3258935605600056141",
+      "title": "如何开展灰盒测试[2]：管理方面的准备工作",
+      "year": "2010",
+      "date": "2010年12月8日",
+      "url": "cirubla.github.io/2010/12/grey-box-testing-2.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "2930877115442143301",
+      "title": "如何开展灰盒测试[1]：灰盒测试优缺点分析",
+      "year": "2010",
+      "date": "2010年11月30日",
+      "url": "cirubla.github.io/2010/11/grey-box-testing-1.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "4593964046618669119",
+      "title": "如何开展灰盒测试[0]：概述",
+      "year": "2010",
+      "date": "2010年11月30日",
+      "url": "cirubla.github.io/2010/11/grey-box-testing-0.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "3268165124446770230",
+      "title": "党国应对灾难的标准操作流程——以上海大火为例",
+      "year": "2010",
+      "date": "2010年11月25日",
+      "url": "cirubla.github.io/2010/11/sop-of-shanghai-fire.html",
+      "commentCount": 35
+    },
+    {
+      "postID": "6462245717414499883",
+      "title": "谈谈【体制化】，并推荐《肖申克的救赎》",
+      "year": "2010",
+      "date": "2010年11月9日",
+      "url": "cirubla.github.io/2010/11/institutionalize.html",
+      "commentCount": 109
+    },
+    {
+      "postID": "5421632726777912607",
+      "title": "书评：《学会提问——批判性思维指南》",
+      "year": "2010",
+      "date": "2010年10月30日",
+      "url": "cirubla.github.io/2010/10/book-review-asking-right-questions.html",
+      "commentCount": 54
+    },
+    {
+      "postID": "8852074628760002297",
+      "title": "看看网友如何评论刘晓波得诺贝尔和平奖",
+      "year": "2010",
+      "date": "2010年10月9日",
+      "url": "cirubla.github.io/2010/10/nobel-peace-prize-tweet.html",
+      "commentCount": 43
+    },
+    {
+      "postID": "3223949134145187363",
+      "title": "\"如何翻墙\"系列：通过邮件获取翻墙扫盲帖（邮件地址变更）",
+      "year": "2010",
+      "date": "2010年9月29日",
+      "url": "cirubla.github.io/2010/09/auto-response-email-change.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "278371333926388657",
+      "title": "\"如何翻墙\"系列：通过邮件获取翻墙扫盲帖",
+      "year": "2010",
+      "date": "2010年9月27日",
+      "url": "cirubla.github.io/2010/09/use-email-get-gfw-howto.html",
+      "commentCount": 4
+    },
+    {
+      "postID": "216917822503105578",
+      "title": "看看真理部是如何 PS 照片的",
+      "year": "2010",
+      "date": "2010年9月19日",
+      "url": "cirubla.github.io/2010/09/censorship-of-images.html",
+      "commentCount": 89
+    },
+    {
+      "postID": "1959828859626632070",
+      "title": "关于抗日战争——谈谈真理部对抗战历史的篡改",
+      "year": "2010",
+      "date": "2010年9月12日",
+      "url": "cirubla.github.io/2010/09/sino-japanese-war.html",
+      "commentCount": 262
+    },
+    {
+      "postID": "2749113241901218576",
+      "title": "有关封装和信息隐藏的误区",
+      "year": "2010",
+      "date": "2010年8月28日",
+      "url": "cirubla.github.io/2010/08/encapsulation-and-information-hiding.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "1510119422416499195",
+      "title": "介绍一下俺的另一个窝点——\"编程随想的收藏\"",
+      "year": "2010",
+      "date": "2010年8月19日",
+      "url": "cirubla.github.io/2010/08/my-shared-favorites.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "7333413700871780338",
+      "title": "为啥俺推荐 Python[3]：作为面向对象语言的 Python",
+      "year": "2010",
+      "date": "2010年8月11日",
+      "url": "cirubla.github.io/2010/08/why-choose-python-3-oop.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "1932370385403388144",
+      "title": "如何防止黑客入侵[4]：安全漏洞的基本防范",
+      "year": "2010",
+      "date": "2010年8月2日",
+      "url": "cirubla.github.io/2010/08/howto-prevent-hacker-attack-4.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "3925103948376519130",
+      "title": "思维的误区：忽视沉默的大多数",
+      "year": "2010",
+      "date": "2010年7月18日",
+      "url": "cirubla.github.io/2010/07/silent-proof.html",
+      "commentCount": 51
+    },
+    {
+      "postID": "624021679074791698",
+      "title": "说说世界杯的球迷——关于粉丝的心理",
+      "year": "2010",
+      "date": "2010年7月6日",
+      "url": "cirubla.github.io/2010/07/about-football-fans.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "458409796168229288",
+      "title": "如何防止黑客入侵[3]：如何构造安全的口令/密码",
+      "year": "2010",
+      "date": "2010年6月20日",
+      "url": "cirubla.github.io/2010/06/howto-prevent-hacker-attack-3.html",
+      "commentCount": 108
+    },
+    {
+      "postID": "6570903031866125981",
+      "title": "如何防止黑客入侵[2]：攻击者如何搞定你的口令/密码？",
+      "year": "2010",
+      "date": "2010年6月15日",
+      "url": "cirubla.github.io/2010/06/howto-prevent-hacker-attack-2.html",
+      "commentCount": 7
+    },
+    {
+      "postID": "7902334588683316093",
+      "title": "如何防止黑客入侵[1]：避免使用高权限用户",
+      "year": "2010",
+      "date": "2010年6月8日",
+      "url": "cirubla.github.io/2010/06/howto-prevent-hacker-attack-1.html",
+      "commentCount": 34
+    },
+    {
+      "postID": "7693162845910825934",
+      "title": "如何防止黑客入侵[0]：概述",
+      "year": "2010",
+      "date": "2010年6月8日",
+      "url": "cirubla.github.io/2010/06/howto-prevent-hacker-attack-0.html",
+      "commentCount": 44
+    },
+    {
+      "postID": "2981777077287400147",
+      "title": "高处不胜寒的苹果",
+      "year": "2010",
+      "date": "2010年5月31日",
+      "url": "cirubla.github.io/2010/05/apple-market-value.html",
+      "commentCount": 49
+    },
+    {
+      "postID": "4951515962631210982",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[3]：操作系统的防范",
+      "year": "2010",
+      "date": "2010年5月18日",
+      "url": "cirubla.github.io/2010/05/howto-cover-your-tracks-3.html",
+      "commentCount": 58
+    },
+    {
+      "postID": "8655432580735714953",
+      "title": "关于“社会认同”和“从众心理”——从连环跳楼事件说起",
+      "year": "2010",
+      "date": "2010年5月9日",
+      "url": "cirubla.github.io/2010/05/about-social-proof.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "2034723508149042447",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[2]：个人软件的防范",
+      "year": "2010",
+      "date": "2010年4月27日",
+      "url": "cirubla.github.io/2010/04/howto-cover-your-tracks-2.html",
+      "commentCount": 170
+    },
+    {
+      "postID": "842036157622058125",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[1]：网络方面的防范",
+      "year": "2010",
+      "date": "2010年4月23日",
+      "url": "cirubla.github.io/2010/04/howto-cover-your-tracks-1.html",
+      "commentCount": 77
+    },
+    {
+      "postID": "1830881101768502150",
+      "title": "如何隐藏你的踪迹，避免跨省追捕[0]：为啥要写此文？",
+      "year": "2010",
+      "date": "2010年4月23日",
+      "url": "cirubla.github.io/2010/04/howto-cover-your-tracks-0.html",
+      "commentCount": 224
+    },
+    {
+      "postID": "8030582646437739985",
+      "title": "“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】",
+      "year": "2010",
+      "date": "2010年4月11日",
+      "url": "cirubla.github.io/2010/04/how-to-attribute-success-failure.html",
+      "commentCount": 41
+    },
+    {
+      "postID": "289028192061875115",
+      "title": "关于抹黑 Google——谈谈党国对舆论的操纵手法",
+      "year": "2010",
+      "date": "2010年3月27日",
+      "url": "cirubla.github.io/2010/03/party-control-news-media.html",
+      "commentCount": 31
+    },
+    {
+      "postID": "6494193414270213700",
+      "title": "如果 Google 退出中国，我们该如何应对？",
+      "year": "2010",
+      "date": "2010年3月20日",
+      "url": "cirubla.github.io/2010/03/prepare-when-google-leave.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "262794408345366695",
+      "title": "“如何翻墙”系列：自由門——Tor 被封之后的另一个选择",
+      "year": "2010",
+      "date": "2010年3月10日",
+      "url": "cirubla.github.io/2010/03/choose-free-gate.html",
+      "commentCount": 15
+    },
+    {
+      "postID": "3236670608712678781",
+      "title": "“心智模式”系列：认识你自己——心智模式扫盲介绍",
+      "year": "2010",
+      "date": "2010年2月26日",
+      "url": "cirubla.github.io/2010/02/about-mental-model.html",
+      "commentCount": 31
+    },
+    {
+      "postID": "9015246261998111859",
+      "title": "CNNIC 证书的危害及各种清除方法",
+      "year": "2010",
+      "date": "2010年2月16日",
+      "url": "cirubla.github.io/2010/02/remove-cnnic-cert.html",
+      "commentCount": 177
+    },
+    {
+      "postID": "8059176354822538417",
+      "title": "CNNIC 干过的那些破事儿",
+      "year": "2010",
+      "date": "2010年2月11日",
+      "url": "cirubla.github.io/2010/02/about-cnnic.html",
+      "commentCount": 30
+    },
+    {
+      "postID": "526668020440615937",
+      "title": "数字证书及 CA 的扫盲介绍",
+      "year": "2010",
+      "date": "2010年2月8日",
+      "url": "cirubla.github.io/2010/02/introduce-digital-certificate-and-ca.html",
+      "commentCount": 57
+    },
+    {
+      "postID": "7735666514325848214",
+      "title": "2010年展望",
+      "year": "2010",
+      "date": "2010年2月5日",
+      "url": "cirubla.github.io/2010/02/2010-plan.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "3095258131915514978",
+      "title": "开博周年庆，顺便总结一下",
+      "year": "2010",
+      "date": "2010年1月16日",
+      "url": "cirubla.github.io/2010/01/2009-review.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "3360741394894266096",
+      "title": "闲扯社会进化论——写在达尔文年即将结束之际",
+      "year": "2009",
+      "date": "2009年12月30日",
+      "url": "cirubla.github.io/2009/12/social-darwinism.html",
+      "commentCount": 21
+    },
+    {
+      "postID": "4814239978597819604",
+      "title": "跳还是不跳，是一个问题——跳槽时该如何权衡？",
+      "year": "2009",
+      "date": "2009年11月9日",
+      "url": "cirubla.github.io/2009/11/job-hopping.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "8098338249748383728",
+      "title": "面对墙，我们所能做的就是——让 GFW 陷入到人民战争的汪洋大海",
+      "year": "2009",
+      "date": "2009年10月13日",
+      "url": "cirubla.github.io/2009/10/use-people-war-to-anti-gfw.html",
+      "commentCount": 38
+    },
+    {
+      "postID": "1358228702608348507",
+      "title": "“如何翻墙”系列：戴“套”翻墻的方法",
+      "year": "2009",
+      "date": "2009年9月26日",
+      "url": "cirubla.github.io/2009/09/break-through-gfw-with-tor.html",
+      "commentCount": 148
+    },
+    {
+      "postID": "7092197731475928345",
+      "title": "如何包装个人品牌？",
+      "year": "2009",
+      "date": "2009年9月20日",
+      "url": "cirubla.github.io/2009/09/how-to-personal-branding.html",
+      "commentCount": 21
+    },
+    {
+      "postID": "2873791048655717449",
+      "title": "闲话个人品牌的包装——从李开复离职想到的",
+      "year": "2009",
+      "date": "2009年9月9日",
+      "url": "cirubla.github.io/2009/09/personal-branding-advantage.html",
+      "commentCount": 4
+    },
+    {
+      "postID": "7982070581321107779",
+      "title": "再举几个动态语言 eval 手法的例子",
+      "year": "2009",
+      "date": "2009年8月30日",
+      "url": "cirubla.github.io/2009/08/examples-of-eval.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "6484015855415323018",
+      "title": "为什么俺推荐 Python[2]：作为动态语言的 Python",
+      "year": "2009",
+      "date": "2009年8月21日",
+      "url": "cirubla.github.io/2009/08/why-choose-python-2-dynamic.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "9125724674139258055",
+      "title": "为什么俺推荐 Python[1]：作为脚本语言的 Python",
+      "year": "2009",
+      "date": "2009年8月10日",
+      "url": "cirubla.github.io/2009/08/why-choose-python-1-script.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "4662918440077013781",
+      "title": "为什么俺推荐 Python[0]：概述",
+      "year": "2009",
+      "date": "2009年8月10日",
+      "url": "cirubla.github.io/2009/08/why-choose-python-0-overview.html",
+      "commentCount": 62
+    },
+    {
+      "postID": "1906020955152995546",
+      "title": "书评：《你的灯亮着吗？——找到问题的真正所在》",
+      "year": "2009",
+      "date": "2009年7月31日",
+      "url": "cirubla.github.io/2009/07/book-review-are-your-lights-on.html",
+      "commentCount": 52
+    },
+    {
+      "postID": "2058439031826878941",
+      "title": "从微博客被封杀说开去",
+      "year": "2009",
+      "date": "2009年7月23日",
+      "url": "cirubla.github.io/2009/07/microblog-blocked-by-gfw.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "7095482494860952355",
+      "title": "学习一下德国人民的翻墙精神",
+      "year": "2009",
+      "date": "2009年7月16日",
+      "url": "cirubla.github.io/2009/07/break-through-berlin-wall.html",
+      "commentCount": 131
+    },
+    {
+      "postID": "2132637013063581781",
+      "title": "扫盲“社会工程学”[5]：你该如何【防范】？",
+      "year": "2009",
+      "date": "2009年7月7日",
+      "url": "cirubla.github.io/2009/07/social-engineering-5-defend.html",
+      "commentCount": 19
+    },
+    {
+      "postID": "808762830240270218",
+      "title": "党和互联网的较量",
+      "year": "2009",
+      "date": "2009年7月1日",
+      "url": "cirubla.github.io/2009/07/party-pk-internet.html",
+      "commentCount": 157
+    },
+    {
+      "postID": "7652133320390389314",
+      "title": "Java 性能优化[4]：关于 finalize 函数",
+      "year": "2009",
+      "date": "2009年6月26日",
+      "url": "cirubla.github.io/2009/06/java-performance-tuning-4-finalize.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "8982886493469757804",
+      "title": "开源点评：源代码版本控制系统介绍",
+      "year": "2009",
+      "date": "2009年6月22日",
+      "url": "cirubla.github.io/2009/06/opensource-review-revision-control.html",
+      "commentCount": 12
+    },
+    {
+      "postID": "4923035490378133665",
+      "title": "软件工程进阶之每日构建[4]：相关工具介绍",
+      "year": "2009",
+      "date": "2009年6月21日",
+      "url": "cirubla.github.io/2009/06/daily-build-4-tools.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "3030580910704249481",
+      "title": "书评：《一九八四》——反乌托邦的代表作",
+      "year": "2009",
+      "date": "2009年6月14日",
+      "url": "cirubla.github.io/2009/06/book-review-1984.html",
+      "commentCount": 36
+    },
+    {
+      "postID": "7375722474912489705",
+      "title": "是该写点技术以外的东西了",
+      "year": "2009",
+      "date": "2009年6月11日",
+      "url": "cirubla.github.io/2009/06/writing-something-with-polity.html",
+      "commentCount": 114
+    },
+    {
+      "postID": "7948178736903906672",
+      "title": "扫盲“社会工程学”[4]：【综合运用】举例",
+      "year": "2009",
+      "date": "2009年6月7日",
+      "url": "cirubla.github.io/2009/06/social-engineering-4-example.html",
+      "commentCount": 11
+    },
+    {
+      "postID": "6012144596662677113",
+      "title": "开源点评：Protocol Buffers 介绍",
+      "year": "2009",
+      "date": "2009年5月31日",
+      "url": "cirubla.github.io/2009/05/opensource-review-protocol-buffers.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "8377210459814528403",
+      "title": "光环效应引发的认知误区",
+      "year": "2009",
+      "date": "2009年5月26日",
+      "url": "cirubla.github.io/2009/05/halo-effect.html",
+      "commentCount": 17
+    },
+    {
+      "postID": "577587349064933504",
+      "title": "Java 新手的通病[5]：不了解 JVM",
+      "year": "2009",
+      "date": "2009年5月22日",
+      "url": "cirubla.github.io/2009/05/defect-of-java-beginner-5-jvm.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "3647348597033072203",
+      "title": "扫盲“社会工程学”[3]：攻击手法之【施加影响】",
+      "year": "2009",
+      "date": "2009年5月19日",
+      "url": "cirubla.github.io/2009/05/social-engineering-3-influence.html",
+      "commentCount": 11
+    },
+    {
+      "postID": "6558849449399032076",
+      "title": "如何翻墙？——写在 BlogSpot 被封之后 {2018-12-26}",
+      "year": "2009",
+      "date": "2009年5月16日",
+      "url": "cirubla.github.io/2009/05/how-to-break-through-gfw.html",
+      "commentCount": 328
+    },
+    {
+      "postID": "7067733361025204874",
+      "title": "扫盲“社会工程学”[2]：攻击手法之【假冒身份】",
+      "year": "2009",
+      "date": "2009年5月9日",
+      "url": "cirubla.github.io/2009/05/social-engineering-2-pretend.html",
+      "commentCount": 24
+    },
+    {
+      "postID": "8038395837816623282",
+      "title": "扫盲“社会工程学”[1]：攻击手法之【信息收集】",
+      "year": "2009",
+      "date": "2009年5月6日",
+      "url": "cirubla.github.io/2009/05/social-engineering-1-gather-information.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "7949473761098910012",
+      "title": "扫盲“社会工程学”[0]：基本常识",
+      "year": "2009",
+      "date": "2009年5月5日",
+      "url": "cirubla.github.io/2009/05/social-engineering-0-overview.html",
+      "commentCount": 60
+    },
+    {
+      "postID": "4899969235903423039",
+      "title": "Java 性能优化[3]：垃圾回收（GC）",
+      "year": "2009",
+      "date": "2009年4月29日",
+      "url": "cirubla.github.io/2009/04/java-performance-tuning-3-gc.html",
+      "commentCount": 19
+    },
+    {
+      "postID": "7572636608525031391",
+      "title": "开源实践：SQLite 的使用场景",
+      "year": "2009",
+      "date": "2009年4月24日",
+      "url": "cirubla.github.io/2009/04/how-to-use-sqlite.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "5765425269123222513",
+      "title": "Oracle 收购 SUN，会有啥影响？",
+      "year": "2009",
+      "date": "2009年4月21日",
+      "url": "cirubla.github.io/2009/04/oracle-buy-sun.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "1022729887606912193",
+      "title": "C/C++ 中一个简单的 enum 手法（idiom）",
+      "year": "2009",
+      "date": "2009年4月18日",
+      "url": "cirubla.github.io/2009/04/c-cxx-enum-idiom.html",
+      "commentCount": 21
+    },
+    {
+      "postID": "5838538032962523300",
+      "title": "架构设计：生产者/消费者模式[4]：双缓冲区",
+      "year": "2009",
+      "date": "2009年4月16日",
+      "url": "cirubla.github.io/2009/04/producer-consumer-pattern-4-double.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "8894494573359321769",
+      "title": "招聘的误区",
+      "year": "2009",
+      "date": "2009年4月13日",
+      "url": "cirubla.github.io/2009/04/defect-of-hire.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "3810744608595786521",
+      "title": "C++ 多线程调试和测试的注意事项",
+      "year": "2009",
+      "date": "2009年4月10日",
+      "url": "cirubla.github.io/2009/04/debug-test-multithreaded-applications.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "7018617488271495178",
+      "title": "微软需要 Twitter 来对抗 Google",
+      "year": "2009",
+      "date": "2009年4月5日",
+      "url": "cirubla.github.io/2009/04/microsoft-need-twitter-to-pk-google.html",
+      "commentCount": 13
+    },
+    {
+      "postID": "4966221415144005614",
+      "title": "C++ 的可移植性和跨平台开发[6]：多线程",
+      "year": "2009",
+      "date": "2009年4月3日",
+      "url": "cirubla.github.io/2009/04/cxx-cross-platform-develop-6-thread.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "2000168982708073220",
+      "title": "架构设计：生产者/消费者模式[3]：环形缓冲区",
+      "year": "2009",
+      "date": "2009年4月1日",
+      "url": "cirubla.github.io/2009/04/producer-consumer-pattern-3-circle.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "2977893841103338691",
+      "title": "架构设计：生产者/消费者模式[2]：队列缓冲区",
+      "year": "2009",
+      "date": "2009年3月29日",
+      "url": "cirubla.github.io/2009/03/producer-consumer-pattern-2-queue.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "6219055650120088595",
+      "title": "架构设计：生产者/消费者模式[1]：如何确定数据单元？",
+      "year": "2009",
+      "date": "2009年3月27日",
+      "url": "cirubla.github.io/2009/03/producer-consumer-pattern-1-data.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "5187185389678875409",
+      "title": "架构设计：生产者/消费者模式[0]：概述",
+      "year": "2009",
+      "date": "2009年3月25日",
+      "url": "cirubla.github.io/2009/03/producer-consumer-pattern-0-overview.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "3912384195676597006",
+      "title": "开源点评：cURL——优秀的应用层网络协议库",
+      "year": "2009",
+      "date": "2009年3月22日",
+      "url": "cirubla.github.io/2009/03/opensource-review-curl-library.html",
+      "commentCount": 3
+    },
+    {
+      "postID": "5335797606940524821",
+      "title": "Java 新手进阶：细说引用类型",
+      "year": "2009",
+      "date": "2009年3月20日",
+      "url": "cirubla.github.io/2009/03/java-reference-types-detail.html",
+      "commentCount": 3
+    },
+    {
+      "postID": "7966783034491899523",
+      "title": "Java 性能优化[2]：字符串过滤实战",
+      "year": "2009",
+      "date": "2009年3月19日",
+      "url": "cirubla.github.io/2009/03/java-performance-tuning-2-string.html",
+      "commentCount": 36
+    },
+    {
+      "postID": "7356159185142195160",
+      "title": "Java 性能优化[1]：基本类型 vs 引用类型",
+      "year": "2009",
+      "date": "2009年3月16日",
+      "url": "cirubla.github.io/2009/03/java-performance-tuning-1-two-types.html",
+      "commentCount": 13
+    },
+    {
+      "postID": "6646291776760271127",
+      "title": "Java 性能优化[0]：概述",
+      "year": "2009",
+      "date": "2009年3月16日",
+      "url": "cirubla.github.io/2009/03/java-performance-tuning-0-overview.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "6079639881320464303",
+      "title": "C++ 对象是怎么死的？POSIX 线程篇（pthread）",
+      "year": "2009",
+      "date": "2009年3月14日",
+      "url": "cirubla.github.io/2009/03/cxx-object-destroy-with-thread-posix.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "7214925809950299661",
+      "title": "开源点评：SQLite 数据库扫盲",
+      "year": "2009",
+      "date": "2009年3月13日",
+      "url": "cirubla.github.io/2009/03/opensource-review-sqlite-database.html",
+      "commentCount": 11
+    },
+    {
+      "postID": "9025031134596087623",
+      "title": "无处不在的二八原理[4]：关于激励（如何发挥员工积极性）",
+      "year": "2009",
+      "date": "2009年3月12日",
+      "url": "cirubla.github.io/2009/03/80-20-principle-4-management-encourage.html",
+      "commentCount": 25
+    },
+    {
+      "postID": "3911381503073214881",
+      "title": "书评：《人月神话》——不朽的软件工程名著",
+      "year": "2009",
+      "date": "2009年3月9日",
+      "url": "cirubla.github.io/2009/03/book-review-mythical-man-month.html",
+      "commentCount": 11
+    },
+    {
+      "postID": "4983622301682388536",
+      "title": "C++ 对象是怎么死的？Win32 线程篇",
+      "year": "2009",
+      "date": "2009年3月5日",
+      "url": "cirubla.github.io/2009/03/cxx-object-destroy-with-thread-win32.html",
+      "commentCount": 6
+    },
+    {
+      "postID": "7970699415688694462",
+      "title": "无处不在的二八原理[3]：关于招聘（如何找到优秀的软件开发人才）",
+      "year": "2009",
+      "date": "2009年3月2日",
+      "url": "cirubla.github.io/2009/03/80-20-principle-3-management-hire.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "1060162303154831566",
+      "title": "无处不在的二八原理[2]：在管理方面的应用",
+      "year": "2009",
+      "date": "2009年3月1日",
+      "url": "cirubla.github.io/2009/03/80-20-principle-2-management-overview.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "6279885735733894450",
+      "title": "C++ 对象是怎么死的？关于标准输入输出流（cout,cerr,clog,etc）的进一步探讨",
+      "year": "2009",
+      "date": "2009年2月26日",
+      "url": "cirubla.github.io/2009/02/cxx-object-destroy-with-io-stream.html",
+      "commentCount": 3
+    },
+    {
+      "postID": "2780885343012239452",
+      "title": "C++ 对象是怎么死的？为什么要写这个系列？",
+      "year": "2009",
+      "date": "2009年2月26日",
+      "url": "cirubla.github.io/2009/02/cxx-object-destroy-overview.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "119843373699652312",
+      "title": "C++ 对象是怎么死的？进程篇",
+      "year": "2009",
+      "date": "2009年2月25日",
+      "url": "cirubla.github.io/2009/02/cxx-object-destroy-with-process.html",
+      "commentCount": 4
+    },
+    {
+      "postID": "3258537316413272392",
+      "title": "如何成为优秀开发人员[7]：正确地做事（善用自动化）",
+      "year": "2009",
+      "date": "2009年2月24日",
+      "url": "cirubla.github.io/2009/02/7.html",
+      "commentCount": 10
+    },
+    {
+      "postID": "1857792965598494567",
+      "title": "架构设计：进程还是线程？是一个问题！",
+      "year": "2009",
+      "date": "2009年2月22日",
+      "url": "cirubla.github.io/2009/02/multi-process-vs-multi-thread.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "9007580521568446640",
+      "title": "软件工程进阶之每日构建[3]：流程",
+      "year": "2009",
+      "date": "2009年2月19日",
+      "url": "cirubla.github.io/2009/02/daily-build-3-proces.html",
+      "commentCount": 14
+    },
+    {
+      "postID": "7686338236148895351",
+      "title": "学习技术的三部曲：WHAT、HOW、WHY",
+      "year": "2009",
+      "date": "2009年2月19日",
+      "url": "cirubla.github.io/2009/02/study-technology-in-three-steps.html",
+      "commentCount": 126
+    },
+    {
+      "postID": "1775562433187265792",
+      "title": "软件工程进阶之每日构建[2]：准备工作",
+      "year": "2009",
+      "date": "2009年2月17日",
+      "url": "cirubla.github.io/2009/02/daily-build-2-prepare.html",
+      "commentCount": 28
+    },
+    {
+      "postID": "3174965147058425565",
+      "title": "软件工程进阶之每日构建[1]：好处和优点",
+      "year": "2009",
+      "date": "2009年2月16日",
+      "url": "cirubla.github.io/2009/02/daily-build-1-advantage.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "2361339550467439522",
+      "title": "软件工程进阶之每日构建[0]：概述",
+      "year": "2009",
+      "date": "2009年2月16日",
+      "url": "cirubla.github.io/2009/02/daily-build-0-overview.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "7159525549088102959",
+      "title": "如何成为优秀开发人员[6]：正确地做事（善用工具）",
+      "year": "2009",
+      "date": "2009年2月15日",
+      "url": "cirubla.github.io/2009/02/6.html",
+      "commentCount": 7
+    },
+    {
+      "postID": "6730784420764331954",
+      "title": "如何成为优秀开发人员[5]：正确地做事（概述）",
+      "year": "2009",
+      "date": "2009年2月15日",
+      "url": "cirubla.github.io/2009/02/5.html",
+      "commentCount": 15
+    },
+    {
+      "postID": "4803944310352195553",
+      "title": "如何选择开源项目？",
+      "year": "2009",
+      "date": "2009年2月13日",
+      "url": "cirubla.github.io/2009/02/how-to-choose-opensource-project.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "5256051381573290083",
+      "title": "Java 新手的通病[4]：异常处理使用不当",
+      "year": "2009",
+      "date": "2009年2月12日",
+      "url": "cirubla.github.io/2009/02/defect-of-java-beginner-4-exception.html",
+      "commentCount": 15
+    },
+    {
+      "postID": "4918610138580635031",
+      "title": "无处不在的二八原理[1]：在软件开发中的应用",
+      "year": "2009",
+      "date": "2009年2月10日",
+      "url": "cirubla.github.io/2009/02/80-20-principle-1-software-developing.html",
+      "commentCount": 5
+    },
+    {
+      "postID": "7037070877333010756",
+      "title": "无处不在的二八原理[0]：什么是二八原理",
+      "year": "2009",
+      "date": "2009年2月9日",
+      "url": "cirubla.github.io/2009/02/80-20-principle-0-overview.html",
+      "commentCount": 33
+    },
+    {
+      "postID": "3663553453806303248",
+      "title": "C++ 的可移植性和跨平台开发[5]：操作系统",
+      "year": "2009",
+      "date": "2009年2月7日",
+      "url": "cirubla.github.io/2009/02/cxx-cross-platform-develop-5-os.html",
+      "commentCount": 3
+    },
+    {
+      "postID": "2820429190154349644",
+      "title": "三种主流 RIA 技术之争，你该如何选型？",
+      "year": "2009",
+      "date": "2009年2月5日",
+      "url": "cirubla.github.io/2009/02/ria-review-flash-silverlight-javafx.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "1138942046909536208",
+      "title": "Java 新手的通病[3]：缺少良好的编程习惯",
+      "year": "2009",
+      "date": "2009年2月4日",
+      "url": "cirubla.github.io/2009/02/defect-of-java-beginner-3-code-style.html",
+      "commentCount": 4
+    },
+    {
+      "postID": "4641645620982017058",
+      "title": "学会透过现象看本质，即使现象有时候挺诡异",
+      "year": "2009",
+      "date": "2009年2月2日",
+      "url": "cirubla.github.io/2009/02/from-surface-to-essence.html",
+      "commentCount": 29
+    },
+    {
+      "postID": "2327008530222839263",
+      "title": "从 Google 搜索的严重 bug 想开去",
+      "year": "2009",
+      "date": "2009年2月1日",
+      "url": "cirubla.github.io/2009/02/google-search-fatal-bug.html",
+      "commentCount": 9
+    },
+    {
+      "postID": "8199315904835467345",
+      "title": "C++ 的可移植性和跨平台开发[4]：硬件体系",
+      "year": "2009",
+      "date": "2009年1月31日",
+      "url": "cirubla.github.io/2009/01/cxx-cross-platform-develop-4-hardware.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "5886745261051592443",
+      "title": "Java 新手的通病[2]：缺乏面向对象的基本功",
+      "year": "2009",
+      "date": "2009年1月30日",
+      "url": "cirubla.github.io/2009/01/defect-of-java-beginner-2-oo.html",
+      "commentCount": 12
+    },
+    {
+      "postID": "8780465456018606025",
+      "title": "C++ 的可移植性和跨平台开发[3]：异常处理",
+      "year": "2009",
+      "date": "2009年1月30日",
+      "url": "cirubla.github.io/2009/01/cxx-cross-platform-develop-3-exception.html",
+      "commentCount": 1
+    },
+    {
+      "postID": "4224161085093454811",
+      "title": "Java 新手的通病[1]：对算法和数据结构不熟悉",
+      "year": "2009",
+      "date": "2009年1月29日",
+      "url": "cirubla.github.io/2009/01/defect-of-java-beginner-1-algorithm.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "3189826212856614316",
+      "title": "Java 新手的通病[0]：概述",
+      "year": "2009",
+      "date": "2009年1月29日",
+      "url": "cirubla.github.io/2009/01/defect-of-java-beginner-0-overview.html",
+      "commentCount": 13
+    },
+    {
+      "postID": "6460812117466816691",
+      "title": "C++ 的可移植性和跨平台开发[2]：语法",
+      "year": "2009",
+      "date": "2009年1月28日",
+      "url": "cirubla.github.io/2009/01/cxx-cross-platform-develop-2-language.html",
+      "commentCount": 17
+    },
+    {
+      "postID": "1478073515884015552",
+      "title": "如何成为优秀开发人员[4]：做正确的事",
+      "year": "2009",
+      "date": "2009年1月27日",
+      "url": "cirubla.github.io/2009/01/4.html",
+      "commentCount": 22
+    },
+    {
+      "postID": "5381164007554891288",
+      "title": "C++ 的可移植性和跨平台开发[1]：编译器",
+      "year": "2009",
+      "date": "2009年1月26日",
+      "url": "cirubla.github.io/2009/01/cxx-cross-platform-develop-1-compiler.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "1129154925307979041",
+      "title": "C++ 的可移植性和跨平台开发[0]：概述",
+      "year": "2009",
+      "date": "2009年1月26日",
+      "url": "cirubla.github.io/2009/01/cxx-cross-platform-develop-0-overview.html",
+      "commentCount": 7
+    },
+    {
+      "postID": "2657823534985166077",
+      "title": "从 Twitter 的突发新闻报道看草根记者的崛起",
+      "year": "2009",
+      "date": "2009年1月24日",
+      "url": "cirubla.github.io/2009/01/twitter-and-break-news-and-people.html",
+      "commentCount": 2
+    },
+    {
+      "postID": "8933342885575256521",
+      "title": "白领如何应对经济危机，度过寒冬",
+      "year": "2009",
+      "date": "2009年1月23日",
+      "url": "cirubla.github.io/2009/01/job-in-economy-decline.html",
+      "commentCount": 7
+    },
+    {
+      "postID": "1583072147563832880",
+      "title": "书评：《C++ 101编程规范》",
+      "year": "2009",
+      "date": "2009年1月22日",
+      "url": "cirubla.github.io/2009/01/cxx-coding-standards-101-rules.html",
+      "commentCount": 8
+    },
+    {
+      "postID": "4175044161032071776",
+      "title": "如何成为优秀开发人员[3]：设定个人发展目标和计划",
+      "year": "2009",
+      "date": "2009年1月22日",
+      "url": "cirubla.github.io/2009/01/3.html",
+      "commentCount": 16
+    },
+    {
+      "postID": "5930150068940465526",
+      "title": "如何选择 IT 技术书籍",
+      "year": "2009",
+      "date": "2009年1月21日",
+      "url": "cirubla.github.io/2009/01/choose-it-book.html",
+      "commentCount": 18
+    },
+    {
+      "postID": "2716132730616524427",
+      "title": "如何成为优秀开发人员[2]：关于自学能力",
+      "year": "2009",
+      "date": "2009年1月19日",
+      "url": "cirubla.github.io/2009/01/2.html",
+      "commentCount": 25
+    },
+    {
+      "postID": "5945030061600087254",
+      "title": "如何成为优秀开发人员[1]：关于兴趣",
+      "year": "2009",
+      "date": "2009年1月18日",
+      "url": "cirubla.github.io/2009/01/1.html",
+      "commentCount": 37
+    },
+    {
+      "postID": "424851972287256627",
+      "title": "如何成为优秀开发人员[0]：怎样算是优秀的？",
+      "year": "2009",
+      "date": "2009年1月17日",
+      "url": "cirubla.github.io/2009/01/0.html",
+      "commentCount": 23
+    },
+    {
+      "postID": "5196793569525132367",
+      "title": "博客开张及本博客内容简介",
+      "year": "2009",
+      "date": "2009年1月15日",
+      "url": "cirubla.github.io/2009/01/test.html",
+      "commentCount": 399
+    }
+  ],
+  "stats": {
+    "posts": 714,
+    "comments": 25689,
+    "skippedCommentsByOtherAuthors": 148446,
+    "missingCommentDirs": 2
+  }
+}
