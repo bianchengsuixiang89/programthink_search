@@ -236,6 +236,13 @@ button {
   font-weight: bold;
 }
 
+.snippet blockquote {
+  margin: 1em 2em;
+  padding: 0.5em 1em;
+  background-color: #dddddd;
+  border: 0;
+}
+
 .result-actions {
   display: flex;
   align-items: center;

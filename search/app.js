@@ -108,6 +108,7 @@ function applyBbcode(html) {
     return safeUrl ? `<a href="${escapeHtml(safeUrl)}" target="_self" rel="noopener noreferrer">${label}</a>` : label;
   });
   return output
+    .replace(/\[quote\]([\s\S]*?)\[\/quote\]/gi, "<blockquote>$1</blockquote>")
     .replace(/\[b\]([\s\S]*?)\[\/b\]/gi, "<strong>$1</strong>")
     .replace(/\[i\]([\s\S]*?)\[\/i\]/gi, "<em>$1</em>")
     .replace(/\[u\]([\s\S]*?)\[\/u\]/gi, "<u>$1</u>")
