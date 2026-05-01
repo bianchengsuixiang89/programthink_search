@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>编程随想：博文与本人评论搜索</title>
+    <link rel="stylesheet" href="search/style.css">
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div>
+          <h1>编程随想搜索</h1>
+          <p>检索全部博文，以及评论区中“编程随想”本人的回复。</p>
+          <p class="credit">数据来自 <a href="cirubla.github.io/index.html">cirubla.github.io 镜像</a>，感谢这位网友制作并维护备份。</p>
+        </div>
+        <a class="mirror-link" href="cirubla.github.io/index.html">镜像首页</a>
+      </header>
+
+      <section class="search-panel" aria-label="搜索">
+        <label class="query-label" for="query">关键词</label>
+        <div class="search-row">
+          <input id="query" type="search" autocomplete="off" placeholder="输入关键词，如：GFW、六四、心理模型">
+          <button id="searchButton" type="button">搜索</button>
+        </div>
+
+        <div class="filters">
+          <div class="segmented" role="tablist" aria-label="搜索范围">
+            <button class="active" type="button" data-type="all">全部</button>
+            <button type="button" data-type="post">博文</button>
+            <button type="button" data-type="comment">本人评论</button>
+          </div>
+
+          <label>
+            年份
+            <select id="yearFilter">
+              <option value="all">全部年份</option>
+            </select>
+          </label>
+
+          <label>
+            文章
+            <select id="postFilter">
+              <option value="all">全部文章</option>
+            </select>
+          </label>
+
+          <label>
+            每页
+            <select id="pageSize">
+              <option value="100">100 条</option>
+              <option value="50">50 条</option>
+              <option value="200">200 条</option>
+              <option value="all">全部</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="status" aria-live="polite">
+        <span id="summary">正在加载索引目录...</span>
+        <span id="indexStats"></span>
+      </section>
+
+      <section id="results" class="results" aria-label="搜索结果"></section>
+      <nav id="pager" class="pager" aria-label="结果分页"></nav>
+    </main>
+
+    <script src="search/app.js"></script>
+  </body>
+</html>
