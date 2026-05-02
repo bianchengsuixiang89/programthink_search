@@ -4,7 +4,13 @@
 
 在线访问：
 
+<https://programthink-search.bianchengsuixiang89.workers.dev/>
+
+备用跳转地址：
+
 <https://bianchengsuixiang89.github.io/programthink_search/>
+
+GitHub Pages 地址只用于跳转到 Cloudflare Workers 站点，主要访问流量由 Cloudflare 承担。
 
 ## 为什么做
 
@@ -17,3 +23,7 @@
 数据来自 `cirubla.github.io` 镜像备份。
 
 感谢该镜像作者制作并维护编程随想博客备份，让这些资料可以继续被访问、检索和引用。
+
+## 部署说明
+
+当前主站部署在 Cloudflare Workers Static Assets。

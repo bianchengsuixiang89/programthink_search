@@ -1,0 +1,17 @@
+/*
+  X-Content-Type-Options: nosniff
+
+/index.html
+  Cache-Control: public, max-age=300, s-maxage=86400
+
+/search.html
+  Cache-Control: public, max-age=300, s-maxage=86400
+
+/search/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
+
+/search-index/*
+  Cache-Control: public, max-age=3600, s-maxage=31536000
+
+/cirubla.github.io/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000
