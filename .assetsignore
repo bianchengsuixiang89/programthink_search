@@ -1,5 +1,7 @@
 .git
 .git/**
+**/.git
+**/.git/**
 .github
 .github/**
 node_modules
